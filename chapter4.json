@@ -1,0 +1,902 @@
+[
+  {
+    "id": 301,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm at work.",
+    "mn": "Би ажил дээрээ байна.",
+    "when": "Ажил дээрээ байгаагаа хэлэхэд хэрэглэнэ. Хэн нэгэн таныг хаана байгааг асуух, эсвэл ажилтай холбоотойгоор таныг хайж байгаа үед энгийнээр хэлж болно.",
+    "context": "A: Where are you?\nB: I'm at work."
+  },
+  {
+    "id": 302,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm working now.",
+    "mn": "Би одоо ажиллаж байна.",
+    "when": "Яг одоо ажилтай завгүй байгаагаа хэлэхэд хэрэглэнэ. Хэн нэгэн таныг ярилцах эсвэл өөр зүйл хийхийг хүсэх үед одоо ажиллаж байгаагаа тайлбарлаж болно.",
+    "context": "A: Can you talk now?\nB: I'm working now."
+  },
+  {
+    "id": 303,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm busy right now.",
+    "mn": "Би яг одоо завгүй байна.",
+    "when": "Ажил ихтэй, шууд ярилцах эсвэл өөр ажил хийх боломжгүй үед хэрэглэнэ. Шууд 'үгүй' гэж хэлэхээс арай зөөлөн сонсогдоно.",
+    "context": "A: Can you help me?\nB: I'm busy right now."
+  },
+  {
+    "id": 304,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm free now.",
+    "mn": "Би одоо завтай.",
+    "when": "Өмнө нь завгүй байсан ч одоо ажил дууссан, ярилцах эсвэл шинэ ажил авах боломжтой болсон үед хэрэглэнэ.",
+    "context": "A: Are you free now?\nB: Yes, I'm free now."
+  },
+  {
+    "id": 305,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm working on it.",
+    "mn": "Би үүнийг хийж байгаа.",
+    "when": "Танаас хүссэн ажил одоо хийгдэж байгаа гэдгийг хэлэхэд хэрэглэнэ. Ажил дуусаагүй ч эхэлсэн гэдгийг ойлгуулахад тохиромжтой.",
+    "context": "A: Is the report ready?\nB: Not yet. I'm working on it."
+  },
+  {
+    "id": 306,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'll finish it today.",
+    "mn": "Би үүнийг өнөөдөр дуусгана.",
+    "when": "Ажлыг өнөөдрийн дотор дуусгах төлөвлөгөөтэй байгаагаа хэлэхэд хэрэглэнэ. Ажлын хугацааг тодорхой хэлэх шаардлагатай үед ашиглана.",
+    "context": "A: When will you finish it?\nB: I'll finish it today."
+  },
+  {
+    "id": 307,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm almost done.",
+    "mn": "Би бараг дуусгаж байна.",
+    "when": "Ажил дуусахад маш бага зүйл үлдсэн үед хэрэглэнэ. Хэн нэгэн ажлын явцыг асуухад 'удахгүй дуусна' гэсэн санааг өгнө.",
+    "context": "A: Are you finished?\nB: I'm almost done."
+  },
+  {
+    "id": 308,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I need more time.",
+    "mn": "Надад илүү их хугацаа хэрэгтэй.",
+    "when": "Өгсөн хугацаанд ажлыг дуусгаж чадахгүй байж магадгүй үед нэмэлт хугацаа хүсэхэд хэрэглэнэ. Шалтгаанаа дараа нь нэмж тайлбарлаж болно.",
+    "context": "A: Can you finish by noon?\nB: I need more time."
+  },
+  {
+    "id": 309,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm on my way.",
+    "mn": "Би явж байна.",
+    "when": "Ажил руу, уулзалт руу эсвэл тухайн хүний байгаа газар руу аль хэдийн хөдөлсөн үед хэрэглэнэ. 'Одоо гарч байна' гэсэн утгаар өдөр тутам их хэрэглэгддэг.",
+    "context": "A: Where are you?\nB: I'm on my way."
+  },
+  {
+    "id": 310,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I'm running late.",
+    "mn": "Би хоцорч байна.",
+    "when": "Ажил, уулзалт эсвэл товлосон цагтаа амжихгүй болж байгаагаа мэдэгдэхэд хэрэглэнэ. Хоцролтоо урьдчилан мэдэгдэхэд маш хэрэгтэй хэллэг.",
+    "context": "A: Are you here yet?\nB: Not yet. I'm running late."
+  },
+  {
+    "id": 311,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I have a lot to do.",
+    "mn": "Надад хийх ажил их байна.",
+    "when": "Тухайн өдөр эсвэл тухайн үед олон ажил хүлээж байгаагаа хэлэхэд хэрэглэнэ. Завгүй байгаа шалтгаанаа тайлбарлахад тохиромжтой.",
+    "context": "A: Do you have time for lunch?\nB: Maybe later. I have a lot to do."
+  },
+  {
+    "id": 312,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "What are you working on?",
+    "mn": "Чи юу хийж байгаа вэ?",
+    "when": "Ажлынхаа яг ямар зүйл дээр ажиллаж байгааг хамт ажилладаг хүнээс асуухад хэрэглэнэ. Шинэ ажилтан эсвэл хамтрагчийн ажлыг ойлгоход бас ашиглана.",
+    "context": "A: What are you working on?\nB: I'm working on the new website."
+  },
+  {
+    "id": 313,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "I have a question.",
+    "mn": "Надад нэг асуулт байна.",
+    "when": "Ажлын талаар ямар нэг зүйл тодруулахын өмнө хэрэглэнэ. Уулзалт, сургалт, чат, имэйл зэрэг олон нөхцөлд ашиглаж болно.",
+    "context": "A: Do you have any questions?\nB: Yes, I have a question."
+  },
+  {
+    "id": 314,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "Could you explain this?",
+    "mn": "Та үүнийг тайлбарлаж өгч болох уу?",
+    "when": "Ажлын заавар, мэдээлэл эсвэл тодорхой хэсгийг ойлгоогүй үед илүү дэлгэрэнгүй тайлбар хүсэхэд хэрэглэнэ. Эелдэг хэлбэр тул ажлын орчинд тохиромжтой.",
+    "context": "A: Please check this file.\nB: Could you explain this part?"
+  },
+  {
+    "id": 315,
+    "chapter": 4,
+    "category": "Ажил дээр",
+    "en": "That sounds good.",
+    "mn": "Тэр сайхан сонсогдож байна.",
+    "when": "Хэн нэгэн ажлын санал, санаа эсвэл төлөвлөгөө хэлэхэд та зөвшөөрч, санаа нь таалагдаж байгааг хэлэхэд хэрэглэнэ.",
+    "context": "A: Let's start tomorrow.\nB: That sounds good."
+  },
+  {
+    "id": 316,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Let's start the meeting.",
+    "mn": "Уулзалтаа эхэлье.",
+    "when": "Бүгд цугласан үед уулзалтыг эхлүүлэхэд хэрэглэнэ. Ажлын албан уулзалт болон жижиг багийн уулзалтад аль алинд нь тохиромжтой.",
+    "context": "A: Is everyone here?\nB: Yes. Let's start the meeting."
+  },
+  {
+    "id": 317,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Thanks for coming.",
+    "mn": "Хүрэлцэн ирсэнд баярлалаа.",
+    "when": "Уулзалт, ярилцлага эсвэл ажил хэргийн уулзалтад ирсэн хүмүүст талархахад хэрэглэнэ. Уулзалтыг эхлүүлэхдээ хэлэхэд байгалийн сонсогдоно.",
+    "context": "A: Thanks for coming.\nB: Thank you for having me."
+  },
+  {
+    "id": 318,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Let's talk about this first.",
+    "mn": "Эхлээд энэ талаар ярилцъя.",
+    "when": "Уулзалтын үеэр аль асуудлыг түрүүлж хэлэлцэхээ тодорхойлоход хэрэглэнэ. Яриаг нэг сэдэв рүү төвлөрүүлэхэд ашигтай.",
+    "context": "A: We have three things to discuss.\nB: Let's talk about this first."
+  },
+  {
+    "id": 319,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "What do you think?",
+    "mn": "Та юу гэж бодож байна?",
+    "when": "Хэн нэгний санал бодлыг асуухад хэрэглэнэ. Уулзалтын үеэр шийдвэр гаргах, санал авах үед маш түгээмэл хэрэглэгддэг.",
+    "context": "A: I think we should wait.\nB: What do you think?"
+  },
+  {
+    "id": 320,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "I agree.",
+    "mn": "Би санал нэг байна.",
+    "when": "Хэн нэгний хэлсэн саналтай санал нийлж байгаагаа товч хэлэхэд хэрэглэнэ. Ажлын уулзалт, хэлэлцүүлэгт түгээмэл хэрэглэгдэнэ.",
+    "context": "A: We should check it again.\nB: I agree."
+  },
+  {
+    "id": 321,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "I don't agree.",
+    "mn": "Би санал нийлэхгүй байна.",
+    "when": "Хэн нэгний саналтай санал нийлэхгүй байгаагаа хэлэхэд хэрэглэнэ. Шууд боловч ойлгомжтой хэллэг тул дараа нь шалтгаанаа тайлбарлаж болно.",
+    "context": "A: We should cancel it.\nB: I don't agree."
+  },
+  {
+    "id": 322,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "I have an idea.",
+    "mn": "Надад нэг санаа байна.",
+    "when": "Уулзалтын үеэр шинэ санаа эсвэл шийдэл санал болгох гэж байгаагаа хэлэхэд хэрэглэнэ. Дараагийн өгүүлбэрээр санаагаа тайлбарлана.",
+    "context": "A: We need a better solution.\nB: I have an idea."
+  },
+  {
+    "id": 323,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Can I add something?",
+    "mn": "Би нэг зүйл нэмж хэлж болох уу?",
+    "when": "Өөр хүн ярьж дууссаны дараа өөрийн санаа эсвэл нэмэлт мэдээллийг хэлэхийн өмнө зөвшөөрөл авахад хэрэглэнэ.",
+    "context": "A: That's all from me.\nB: Can I add something?"
+  },
+  {
+    "id": 324,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Could you repeat that?",
+    "mn": "Та үүнийг дахин хэлж өгч болох уу?",
+    "when": "Уулзалтын үеэр хэн нэгний хэлснийг сонсож амжаагүй эсвэл ойлгоогүй үед дахин хэлүүлэхэд хэрэглэнэ.",
+    "context": "A: The deadline is next Thursday.\nB: Sorry, could you repeat that?"
+  },
+  {
+    "id": 325,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Could you speak more slowly?",
+    "mn": "Та арай удаан ярьж болох уу?",
+    "when": "Яриа хэт хурдан учраас ойлгоход хэцүү үед эелдгээр удаан ярихыг хүсэхэд хэрэглэнэ. Англи хэлний уулзалтад ялангуяа хэрэгтэй.",
+    "context": "A: We need to finish this by Friday.\nB: Could you speak more slowly?"
+  },
+  {
+    "id": 326,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Let's move on.",
+    "mn": "Дараагийн зүйл рүү оръё.",
+    "when": "Нэг асуудлыг ярилцаж дууссаны дараа дараагийн сэдэв рүү шилжихэд хэрэглэнэ. Уулзалтын явцыг урагшлуулахад ашиглана.",
+    "context": "A: Is there anything else about this?\nB: No.\nA: Okay, let's move on."
+  },
+  {
+    "id": 327,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Let's take a short break.",
+    "mn": "Бага зэрэг завсарлая.",
+    "when": "Уулзалт удаан үргэлжилж байгаа үед түр амрах санал гаргахад хэрэглэнэ. Удаан сургалт, хэлэлцүүлэгт ч ашиглаж болно.",
+    "context": "A: We've been talking for two hours.\nB: Let's take a short break."
+  },
+  {
+    "id": 328,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Are we ready to decide?",
+    "mn": "Бид шийдвэр гаргахад бэлэн үү?",
+    "when": "Шаардлагатай мэдээллээ ярилцсаны дараа шийдвэр гаргах цаг болсон эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: We've discussed all the options.\nB: Are we ready to decide?"
+  },
+  {
+    "id": 329,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "Let's keep in touch.",
+    "mn": "Холбоотой байцгаая.",
+    "when": "Уулзалт дуусах үед цаашид холбоотой байж, мэдээлэл солилцох санал гаргахад хэрэглэнэ. Харилцагч, хамтрагчтай уулзсаны дараа тохиромжтой.",
+    "context": "A: It was nice meeting you.\nB: You too. Let's keep in touch."
+  },
+  {
+    "id": 330,
+    "chapter": 4,
+    "category": "Уулзалт",
+    "en": "That's all for today.",
+    "mn": "Өнөөдрийнхөө ажлыг ингээд дуусгая.",
+    "when": "Уулзалтын хэлэлцэх зүйлс дууссан үед уулзалтыг хаахад хэрэглэнэ. Албан болон энгийн ажлын уулзалтад ашиглаж болно.",
+    "context": "A: Does anyone have any questions?\nB: No.\nA: Okay, that's all for today."
+  },
+  {
+    "id": 331,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "I'm writing to ask about...",
+    "mn": "Би ... талаар асууж бичиж байна.",
+    "when": "Имэйл бичих гол шалтгаанаа эхэнд нь тодорхой хэлэхэд хэрэглэнэ. Мэдээлэл, үнэ, хугацаа эсвэл үйлчилгээний талаар асуух үед тохиромжтой.",
+    "context": "A: How can I help you?\nB: I'm writing to ask about the new service."
+  },
+  {
+    "id": 332,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "I'm writing about...",
+    "mn": "Би ... талаар бичиж байна.",
+    "when": "Имэйл ямар сэдэвтэй болохыг эхэнд нь тодорхой хэлэхэд хэрэглэнэ. Өмнөх яриа, захиалга эсвэл ажлын асуудлыг дурдахад ашиглана.",
+    "context": "A: What's the email about?\nB: I'm writing about our meeting."
+  },
+  {
+    "id": 333,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Please see the attached file.",
+    "mn": "Хавсаргасан файлыг үзнэ үү.",
+    "when": "Имэйлд файл хавсаргаж илгээх үед хүлээн авагчид хавсралтыг шалгахыг хэлэхэд хэрэглэнэ.",
+    "context": "A: Did you send the report?\nB: Yes. Please see the attached file."
+  },
+  {
+    "id": 334,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Please let me know.",
+    "mn": "Надад мэдэгдэнэ үү.",
+    "when": "Хүлээн авагчийн хариу, шийдвэр эсвэл мэдээллийг авахыг хүсэхэд имэйлийн төгсгөлд түгээмэл хэрэглэнэ.",
+    "context": "A: Can I get an answer tomorrow?\nB: Yes. Please let me know."
+  },
+  {
+    "id": 335,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Please let me know if you have any questions.",
+    "mn": "Асуух зүйл байвал надад мэдэгдэнэ үү.",
+    "when": "Мэдээлэл эсвэл файл илгээсний дараа хүлээн авагчид нэмэлт асуулт байвал холбогдохыг уриалахад хэрэглэнэ.",
+    "context": "A: I sent the information.\nB: Please let me know if you have any questions."
+  },
+  {
+    "id": 336,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Thank you for your email.",
+    "mn": "Имэйл илгээсэнд баярлалаа.",
+    "when": "Хэн нэгэн өмнө нь имэйл илгээсэнд хариу бичихдээ эхэнд нь талархахад хэрэглэнэ. Албан харилцаанд түгээмэл хэрэглэгддэг.",
+    "context": "A: Thank you for your email.\nB: You're welcome."
+  },
+  {
+    "id": 337,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Thank you for your help.",
+    "mn": "Тусалсанд баярлалаа.",
+    "when": "Имэйлээр эсвэл ажлын явцад тусалсан хүнд талархахад хэрэглэнэ. Богино бөгөөд эелдэг төгсгөлийн өгүүлбэр болгон ашиглаж болно.",
+    "context": "A: I fixed the problem for you.\nB: Thank you for your help."
+  },
+  {
+    "id": 338,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "I look forward to hearing from you.",
+    "mn": "Танаас хариу сонсохыг хүлээж байна.",
+    "when": "Имэйлийн төгсгөлд хариу хүлээж байгаагаа эелдэг, албан хэлбэрээр илэрхийлэхэд хэрэглэнэ.",
+    "context": "A: When can I expect your answer?\nB: I look forward to hearing from you."
+  },
+  {
+    "id": 339,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Could you send me the information?",
+    "mn": "Та надад мэдээллийг илгээж болох уу?",
+    "when": "Ажилд хэрэгтэй мэдээлэл, баримт эсвэл файлыг өөр хүнээс имэйлээр хүсэхэд хэрэглэнэ.",
+    "context": "A: What do you need?\nB: Could you send me the information?"
+  },
+  {
+    "id": 340,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Could you confirm this?",
+    "mn": "Та үүнийг баталгаажуулж болох уу?",
+    "when": "Тов, үнэ, захиалга, уулзалтын цаг эсвэл ямар нэг мэдээлэл зөв эсэхийг нөгөө хүнээс баталгаажуулахад хэрэглэнэ.",
+    "context": "A: The meeting is at 3 p.m.\nB: Could you confirm this?"
+  },
+  {
+    "id": 341,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "I received your email.",
+    "mn": "Таны имэйлийг хүлээж авлаа.",
+    "when": "Хэн нэгний илгээсэн имэйл танд ирсэн гэдгийг баталгаажуулахад хэрэглэнэ. Хариу бичиж эхлэхэд ашиглаж болно.",
+    "context": "A: Did you get my email?\nB: Yes, I received your email."
+  },
+  {
+    "id": 342,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "Sorry for the late reply.",
+    "mn": "Оройтож хариулсанд уучлаарай.",
+    "when": "Имэйлд шууд хариу өгч амжаагүй үед уучлал хүсэж эхлэхэд хэрэглэнэ. Ажлын харилцаанд маш хэрэгтэй хэллэг.",
+    "context": "A: You replied after three days.\nB: Sorry for the late reply."
+  },
+  {
+    "id": 343,
+    "chapter": 4,
+    "category": "Имэйл бичих",
+    "en": "I will get back to you soon.",
+    "mn": "Би удахгүй танд хариу өгнө.",
+    "when": "Одоо шууд хариу өгөх боломжгүй боловч дараа нь мэдээлэлтэй болоод эргэн холбогдохоо хэлэхэд хэрэглэнэ.",
+    "context": "A: Do you know the answer?\nB: Not yet. I will get back to you soon."
+  },
+  {
+    "id": 344,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "Hello, this is [name].",
+    "mn": "Сайн байна уу, би [нэр] байна.",
+    "when": "Утсаар ярихдаа өөрийгөө танилцуулахад хэрэглэнэ. Ажил хэргийн дуудлага эхлүүлэхэд энгийн бөгөөд байгалийн хэлбэр.",
+    "context": "A: Hello, ABC Company.\nB: Hello, this is Tsolmon."
+  },
+  {
+    "id": 345,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "May I speak to Mr. Smith?",
+    "mn": "Ноён Смиттэй ярьж болох уу?",
+    "when": "Утсаар тодорхой хүнтэй холбогдохыг хүсэхэд хэрэглэнэ. Албан ажил хэргийн дуудлагад тохиромжтой эелдэг хэллэг.",
+    "context": "A: ABC Company. How can I help you?\nB: May I speak to Mr. Smith?"
+  },
+  {
+    "id": 346,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "Who's calling, please?",
+    "mn": "Хэн ярьж байна вэ?",
+    "when": "Утасны нөгөө талд хэн байгааг мэдэх шаардлагатай үед эелдгээр асууна. Ялангуяа албан байгууллагын дуудлагад хэрэглэгдэнэ.",
+    "context": "A: Hello. May I speak to Anna?\nB: Who's calling, please?"
+  },
+  {
+    "id": 347,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "One moment, please.",
+    "mn": "Түр хүлээнэ үү.",
+    "when": "Утасны дуудлагын үеэр мэдээлэл шалгах, өөр хүнтэй холбогдох эсвэл ямар нэг зүйл бэлдэхийн тулд нөгөө хүнээс түр хүлээхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: May I speak to Anna?\nB: One moment, please."
+  },
+  {
+    "id": 348,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "I'll put you through.",
+    "mn": "Таныг холбож өгье.",
+    "when": "Утасны ажилтан таныг хүссэн хүн эсвэл хэлтэстэй холбох үед хэрэглэнэ. Байгууллагын утасны ярианд түгээмэл.",
+    "context": "A: May I speak to the manager?\nB: Sure. I'll put you through."
+  },
+  {
+    "id": 349,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "He's not available right now.",
+    "mn": "Тэр яг одоо боломжгүй байна.",
+    "when": "Таны хүссэн хүн яг одоо утсаар ярих боломжгүй байгааг хэлэхэд хэрэглэнэ. Шууд 'байхгүй' гэж хэлэхээс илүү өргөн утгатай.",
+    "context": "A: May I speak to John?\nB: He's not available right now."
+  },
+  {
+    "id": 350,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "Can I leave a message?",
+    "mn": "Би зурвас үлдээж болох уу?",
+    "when": "Хүссэн хүнтэйгээ ярьж чадаагүй үед түүнд дамжуулах богино мэдээлэл үлдээхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: John is not here.\nB: Can I leave a message?"
+  },
+  {
+    "id": 351,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "Could you call me back?",
+    "mn": "Та над руу буцаад залгаж болох уу?",
+    "when": "Одоо ярилцах боломжгүй болсон эсвэл нөгөө хүнээс дараа нь дахин залгахыг хүсэх үед хэрэглэнэ.",
+    "context": "A: I'm in a meeting now.\nB: Okay. Could you call me back?"
+  },
+  {
+    "id": 352,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "I can't hear you clearly.",
+    "mn": "Би таныг тод сонсохгүй байна.",
+    "when": "Утасны сүлжээ муу, дуу чимээ их эсвэл нөгөө хүн хэт хол сонсогдож байгаа үед хэлнэ.",
+    "context": "A: Can you hear me?\nB: Not clearly. I can't hear you clearly."
+  },
+  {
+    "id": 353,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "The connection is bad.",
+    "mn": "Сүлжээ муу байна.",
+    "when": "Утасны холбоо тасалдах, дуу тасрах зэрэг техникийн асуудал гарсан үед тайлбарлахад хэрэглэнэ.",
+    "context": "A: Can you hear me?\nB: The connection is bad."
+  },
+  {
+    "id": 354,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "Can you hear me now?",
+    "mn": "Одоо намайг сонсож байна уу?",
+    "when": "Холбоо тасарсан эсвэл дуу муу байсан дараа дахин сонсогдож байгаа эсэхийг шалгахад хэрэглэнэ.",
+    "context": "A: I couldn't hear you.\nB: Can you hear me now?"
+  },
+  {
+    "id": 355,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "I'll call you back later.",
+    "mn": "Би дараа нь тан руу залгая.",
+    "when": "Одоо ярих боломжгүй тул дараа өөрөө эргэн залгахаа хэлэхэд хэрэглэнэ. Ажил дээр маш түгээмэл хэрэглэгддэг.",
+    "context": "A: Are you busy?\nB: Yes. I'll call you back later."
+  },
+  {
+    "id": 356,
+    "chapter": 4,
+    "category": "Утасны яриа",
+    "en": "Thanks for calling.",
+    "mn": "Залгасанд баярлалаа.",
+    "when": "Ажил хэргийн утасны яриаг дуусгахдаа дуудлага хийсэн хүнд талархахад хэрэглэнэ.",
+    "context": "A: I'll send the details by email.\nB: Great. Thanks for calling."
+  },
+  {
+    "id": 357,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Could you do this for me?",
+    "mn": "Та үүнийг миний төлөө хийж өгч болох уу?",
+    "when": "Хамт ажилладаг хүнээс тодорхой ажил хийж өгөхийг эелдгээр хүсэхэд хэрэглэнэ. Хэт тушаасан мэт сонсогдохоос зайлсхийхэд тохиромжтой.",
+    "context": "A: Could you do this for me?\nB: Sure. What do you need?"
+  },
+  {
+    "id": 358,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Could you check this?",
+    "mn": "Та үүнийг шалгаж болох уу?",
+    "when": "Баримт, файл, тоо, мэдээлэл эсвэл ажлын үр дүнг өөр хүнээр шалгуулах үед хэрэглэнэ.",
+    "context": "A: I finished the report.\nB: Could you check this?"
+  },
+  {
+    "id": 359,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Could you send this to me?",
+    "mn": "Та үүнийг надад илгээж болох уу?",
+    "when": "Файл, мэдээлэл, зураг эсвэл баримтыг өөр хүнээс авахыг хүсэхэд хэрэглэнэ.",
+    "context": "A: Do you need the document?\nB: Yes. Could you send this to me?"
+  },
+  {
+    "id": 360,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Can you finish this today?",
+    "mn": "Та үүнийг өнөөдөр дуусгаж чадах уу?",
+    "when": "Тодорхой ажлыг тухайн өдөрт багтааж дуусгах боломжтой эсэхийг асуухад хэрэглэнэ. Даалгаврын хугацааг тодорхой болгоход тохиромжтой.",
+    "context": "A: Can you finish this today?\nB: Yes, I can."
+  },
+  {
+    "id": 361,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Please send me the file.",
+    "mn": "Надад файлыг илгээнэ үү.",
+    "when": "Ажлын файл авах шаардлагатай үед энгийн бөгөөд шууд хүсэлт гаргахад хэрэглэнэ. Имэйл болон ажлын чатанд ашиглаж болно.",
+    "context": "A: Where is the report?\nB: Please send me the file."
+  },
+  {
+    "id": 362,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Please check the details.",
+    "mn": "Дэлгэрэнгүй мэдээллийг шалгана уу.",
+    "when": "Баримт, захиалга, тайлан эсвэл мэдээллийн жижиг зүйлсийг алдаа байгаа эсэхээр шалгахыг хүсэхэд хэрэглэнэ.",
+    "context": "A: Is the document ready?\nB: Yes. Please check the details."
+  },
+  {
+    "id": 363,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Please send it by Friday.",
+    "mn": "Баасан гараг гэхэд үүнийг илгээнэ үү.",
+    "when": "Ажлыг дуусгаж, файл эсвэл мэдээллийг тодорхой хугацааны дотор илгээхийг хүсэхэд хэрэглэнэ. Хугацааг тодорхой хэлэхэд ашиглана.",
+    "context": "A: When do you need it?\nB: Please send it by Friday."
+  },
+  {
+    "id": 364,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Please take a look at this.",
+    "mn": "Үүнийг нэг хараад өгнө үү.",
+    "when": "Хэн нэгнээс файл, зураг, бичиг баримт эсвэл асуудлыг харж санал өгөхийг хүсэхэд хэрэглэнэ. 'Check this' гэхээс арай зөөлөн сонсогдоно.",
+    "context": "A: I made a new design.\nB: Please take a look at this."
+  },
+  {
+    "id": 365,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Please keep me updated.",
+    "mn": "Явцын талаар надад мэдээлж байгаарай.",
+    "when": "Ажил хэрхэн үргэлжилж байгааг цаашид мэдээлж байхыг хүсэхэд хэрэглэнэ. Урт хугацааны төсөл болон захиалгад тохиромжтой.",
+    "context": "A: I'll start tomorrow.\nB: Okay. Please keep me updated."
+  },
+  {
+    "id": 366,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Please let me know when it's ready.",
+    "mn": "Бэлэн болсон үед надад мэдэгдээрэй.",
+    "when": "Ажил эсвэл файл бэлэн болсны дараа өөртөө мэдэгдэхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: I'll prepare the document.\nB: Please let me know when it's ready."
+  },
+  {
+    "id": 367,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Can you take care of this?",
+    "mn": "Та үүнийг хариуцаад хийж болох уу?",
+    "when": "Тодорхой ажлыг өөр хүн хариуцаж дуусгахыг хүсэхэд хэрэглэнэ. Нэг ажлыг бүхэлд нь даатгах үед ашигтай.",
+    "context": "A: What should I do with this request?\nB: Can you take care of this?"
+  },
+  {
+    "id": 368,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "Please follow up on this.",
+    "mn": "Үүнийг цааш нь хөөцөлдөж өгнө үү.",
+    "when": "Өмнө нь эхэлсэн ажил, хүсэлт эсвэл харилцагчтай холбоотой асуудлыг дахин шалгаж, үр дүнг нь авах шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Did they reply?\nB: Not yet. Please follow up on this."
+  },
+  {
+    "id": 369,
+    "chapter": 4,
+    "category": "Ажлын хүсэлт ба даалгавар",
+    "en": "I'll take care of it.",
+    "mn": "Би үүнийг хариуцаад хийе.",
+    "when": "Танд өгсөн ажил, асуудлыг өөрөө хариуцаж хийхээ хэлэхэд хэрэглэнэ. Хариуцлага хүлээж байгаагаа тодорхой илэрхийлдэг.",
+    "context": "A: Someone needs to call the client.\nB: I'll take care of it."
+  },
+  {
+    "id": 370,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Can you help me?",
+    "mn": "Та надад тусалж чадах уу?",
+    "when": "Ажил дээр ямар нэг зүйл хийхэд тусламж хэрэгтэй болсон үед хамгийн энгийнээр тусламж хүсэхэд хэрэглэнэ.",
+    "context": "A: Can you help me?\nB: Sure. What's wrong?"
+  },
+  {
+    "id": 371,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Could you help me with this?",
+    "mn": "Та надад үүн дээр тусалж болох уу?",
+    "when": "Тодорхой нэг ажил дээр тусламж авахыг хүсэхэд хэрэглэнэ. 'Can you help me?' гэдгээс арай эелдэг, ажил хэрэгч сонсогдоно.",
+    "context": "A: I'm having trouble with this file.\nB: Could you help me with this?"
+  },
+  {
+    "id": 372,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "I need some help.",
+    "mn": "Надад бага зэрэг тусламж хэрэгтэй байна.",
+    "when": "Ажил дээр өөрөө шийдэхэд хэцүү зүйл гарсан үед тусламж хэрэгтэй байгаагаа хэлэхэд хэрэглэнэ.",
+    "context": "A: Everything okay?\nB: I need some help."
+  },
+  {
+    "id": 373,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Could you show me how to do this?",
+    "mn": "Үүнийг яаж хийхийг надад зааж өгч болох уу?",
+    "when": "Ямар нэг ажлыг анх удаа хийж байгаа бөгөөд хэрхэн хийхээ мэдэхгүй үед тухайн ажлыг хийж үзүүлж эсвэл тайлбарлаж өгөхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: Have you used this system before?\nB: No. Could you show me how to do this?"
+  },
+  {
+    "id": 374,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Can you explain this to me?",
+    "mn": "Та үүнийг надад тайлбарлаж өгч болох уу?",
+    "when": "Ажлын дүрэм, систем, мэдээлэл эсвэл даалгаврыг ойлгохгүй үед тайлбар хүсэхэд хэрэглэнэ.",
+    "context": "A: Do you understand the process?\nB: Not really. Can you explain this to me?"
+  },
+  {
+    "id": 375,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "I'm not sure what to do.",
+    "mn": "Би юу хийхээ сайн мэдэхгүй байна.",
+    "when": "Даалгавар эсвэл асуудлыг хэрхэн шийдэхээ мэдэхгүй үед нөхцөл байдлаа хэлж, дараагийн алхмын талаар тусламж авахад хэрэглэнэ.",
+    "context": "A: Did you finish the task?\nB: No. I'm not sure what to do."
+  },
+  {
+    "id": 376,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "What should I do?",
+    "mn": "Би яах ёстой вэ?",
+    "when": "Тодорхой нөхцөлд дараагийн алхам юу байхыг асуухад хэрэглэнэ. Ажил дээр асуудал гарсан үед маш хэрэгтэй асуулт.",
+    "context": "A: The customer hasn't replied.\nB: What should I do?"
+  },
+  {
+    "id": 377,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Could you give me a hand?",
+    "mn": "Та надад тусалж болох уу?",
+    "when": "Ажлын жижиг зүйл дээр тусламж хүсэхэд хэрэглэдэг ярианы, байгалийн хэллэг. Англи хэлтэй хамт ажиллагсадтайгаа өдөр тутмын харилцаанд ашиглаж болно.",
+    "context": "A: Could you give me a hand?\nB: Sure. What do you need?"
+  },
+  {
+    "id": 378,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Do you have a minute?",
+    "mn": "Танд нэг минут зав байна уу?",
+    "when": "Хэн нэгэнтэй богино хугацаанд ярилцах эсвэл тусламж хүсэхийн өмнө тухайн хүн завтай эсэхийг эелдгээр асуухад хэрэглэнэ.",
+    "context": "A: Do you have a minute?\nB: Sure. What's up?"
+  },
+  {
+    "id": 379,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Could I ask you something?",
+    "mn": "Би танаас нэг зүйл асууж болох уу?",
+    "when": "Хэн нэгнээс асуулт асуухын өмнө анхаарлыг нь зөөлөн татахад хэрэглэнэ. Ажлын орчинд эелдэг эхлэл болдог.",
+    "context": "A: Could I ask you something?\nB: Of course."
+  },
+  {
+    "id": 380,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "I need your advice.",
+    "mn": "Надад таны зөвлөгөө хэрэгтэй байна.",
+    "when": "Ажлын асуудал дээр шийдвэр гаргахын өмнө туршлагатай хүнээс санал, зөвлөгөө авахыг хүсэхэд хэрэглэнэ.",
+    "context": "A: What's the problem?\nB: I need your advice."
+  },
+  {
+    "id": 381,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Could you help me with this problem?",
+    "mn": "Та надад энэ асуудлыг шийдэхэд тусалж болох уу?",
+    "when": "Тодорхой нэг асуудлыг өөрөө шийдэж чадахгүй байгаа үед тусламж хүсэхэд хэрэглэнэ. Ажлын техникийн болон ерөнхий асуудалд ашиглаж болно.",
+    "context": "A: What's wrong?\nB: Could you help me with this problem?"
+  },
+  {
+    "id": 382,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "Thank you for helping me.",
+    "mn": "Надад тусалсанд баярлалаа.",
+    "when": "Хэн нэгэн таны ажилд бодитоор тусалсны дараа талархахад хэрэглэнэ. Ажлын харилцаанд эелдэг, энгийн хэллэг.",
+    "context": "A: Is the problem fixed?\nB: Yes. Thank you for helping me."
+  },
+  {
+    "id": 383,
+    "chapter": 4,
+    "category": "Тусламж хүсэх",
+    "en": "I really appreciate your help.",
+    "mn": "Таны тусламжид үнэхээр талархаж байна.",
+    "when": "Хэн нэгэн танд чухал тусламж үзүүлсэн үед ердийн 'Thank you'-ээс арай илүү талархал илэрхийлэхэд хэрэглэнэ.",
+    "context": "A: I finished the report for you.\nB: I really appreciate your help."
+  },
+  {
+    "id": 384,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I made a mistake.",
+    "mn": "Би алдаа гаргасан.",
+    "when": "Өөрийн хийсэн алдааг нуухгүйгээр шууд хүлээн зөвшөөрөхөд хэрэглэнэ. Ажил дээр асуудлыг хурдан шийдэхийн өмнө хэлэхэд тохиромжтой.",
+    "context": "A: There's a problem with the report.\nB: I made a mistake."
+  },
+  {
+    "id": 385,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I'm sorry about the mistake.",
+    "mn": "Алдаа гаргасандаа уучлаарай.",
+    "when": "Өөрийн алдаанаас болж асуудал үүссэн үед уучлал хүсэхэд хэрэглэнэ. Дараа нь алдаагаа засах арга хэлж болно.",
+    "context": "A: The number is wrong.\nB: I'm sorry about the mistake."
+  },
+  {
+    "id": 386,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "It was my mistake.",
+    "mn": "Энэ миний алдаа байсан.",
+    "when": "Ямар нэг буруу зүйл болсон үед хариуцлага өөр дээрээ байгааг тодорхой хэлэхэд хэрэглэнэ. Буруугаа бусдад тохохгүй гэдгээ харуулдаг.",
+    "context": "A: Who entered the wrong number?\nB: It was my mistake."
+  },
+  {
+    "id": 387,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I didn't notice that.",
+    "mn": "Би үүнийг анзаараагүй.",
+    "when": "Алдаа эсвэл асуудал байсан ч тухайн үедээ олж хараагүй гэдгээ тайлбарлахад хэрэглэнэ. Шалтаг хэлэхээс илүү бодит байдлыг тайлбарлахад ашиглана.",
+    "context": "A: The date is wrong.\nB: I didn't notice that."
+  },
+  {
+    "id": 388,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I'll fix it.",
+    "mn": "Би үүнийг засна.",
+    "when": "Алдаа гарсны дараа асуудлыг өөрөө засахаа хэлэхэд хэрэглэнэ. Алдаагаа хүлээн зөвшөөрөөд шийдэл рүү хурдан шилжихэд тохиромжтой.",
+    "context": "A: There's a problem here.\nB: I'll fix it."
+  },
+  {
+    "id": 389,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I'll correct it.",
+    "mn": "Би үүнийг залруулна.",
+    "when": "Буруу мэдээлэл, бичиг баримт, тоо эсвэл текстийг зөв болгон засахаа хэлэхэд хэрэглэнэ. Ажлын орчинд албан сонсогдоно.",
+    "context": "A: This number is incorrect.\nB: I'll correct it."
+  },
+  {
+    "id": 390,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I'll be more careful next time.",
+    "mn": "Дараагийн удаа би илүү анхааралтай байна.",
+    "when": "Алдаа гаргасныхаа дараа дахин давтахгүй, цаашид илүү анхааралтай ажиллахаа хэлэхэд хэрэглэнэ.",
+    "context": "A: Please check it carefully next time.\nB: I will. I'll be more careful next time."
+  },
+  {
+    "id": 391,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I apologize for the mistake.",
+    "mn": "Алдаа гаргасандаа хүлцэл өчье.",
+    "when": "Албан ёсны ажил хэргийн харилцаанд алдааныхаа төлөө илүү албан хэлбэрээр уучлал хүсэхэд хэрэглэнэ. Имэйл болон албан мэдэгдэлд тохиромжтой.",
+    "context": "A: The information was incorrect.\nB: I apologize for the mistake."
+  },
+  {
+    "id": 392,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I understand the problem.",
+    "mn": "Би асуудлыг ойлгож байна.",
+    "when": "Алдаа эсвэл асуудлын талаар хэн нэгэн тайлбарласны дараа нөхцөл байдлыг ойлгосноо хэлэхэд хэрэглэнэ.",
+    "context": "A: This caused a delay.\nB: I understand the problem."
+  },
+  {
+    "id": 393,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I'll check it again.",
+    "mn": "Би үүнийг дахин шалгана.",
+    "when": "Алдаа гарсан эсвэл алдаа байж магадгүй үед мэдээлэл, файл эсвэл ажлаа дахин шалгахаа хэлэхэд хэрэглэнэ.",
+    "context": "A: Are you sure this is correct?\nB: I'll check it again."
+  },
+  {
+    "id": 394,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "Let me fix that.",
+    "mn": "Үүнийг би засаад өгье.",
+    "when": "Ярианы үеэр өөрийн эсвэл ажлын жижиг алдааг шууд засах гэж байгаагаа хэлэхэд хэрэглэнэ. Энгийн бөгөөд байгалийн хэллэг.",
+    "context": "A: This page has the wrong date.\nB: Oh, let me fix that."
+  },
+  {
+    "id": 395,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "That's not what I meant.",
+    "mn": "Би тэгж хэлэх гэсэнгүй.",
+    "when": "Таны хэлсэн үгийг нөгөө хүн буруу ойлгосон үед жинхэнэ санаагаа өөрөөр тайлбарлахын өмнө хэрэглэнэ.",
+    "context": "A: So you don't want to do it?\nB: That's not what I meant."
+  },
+  {
+    "id": 396,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I misunderstood.",
+    "mn": "Би буруу ойлгосон.",
+    "when": "Заавар, мэдээлэл эсвэл нөхцөл байдлыг өөрөөр ойлгосноос болж алдаа гаргасан үед өөрийн ойлголтын алдааг хүлээн зөвшөөрөхөд хэрэглэнэ.",
+    "context": "A: I asked you to send it on Friday.\nB: Sorry, I misunderstood."
+  },
+  {
+    "id": 397,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "I entered the wrong information.",
+    "mn": "Би буруу мэдээлэл оруулсан.",
+    "when": "Компьютерийн систем, маягт, файл эсвэл баримтад буруу мэдээлэл оруулсан үед алдааны шалтгааныг тодорхой хэлэхэд хэрэглэнэ.",
+    "context": "A: Why is the address wrong?\nB: I entered the wrong information."
+  },
+  {
+    "id": 398,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "What can I do to fix it?",
+    "mn": "Үүнийг засахын тулд би юу хийж болох вэ?",
+    "when": "Алдаа гарсны дараа буруугаа тайлбарлаад зогсохгүй асуудлыг хэрхэн шийдэх талаар зөвлөгөө авахад хэрэглэнэ.",
+    "context": "A: This caused a problem.\nB: What can I do to fix it?"
+  },
+  {
+    "id": 399,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "It won't happen again.",
+    "mn": "Дахиж ийм зүйл болохгүй.",
+    "when": "Алдаа гаргасныхаа дараа ижил алдааг дахин гаргахгүй гэдгээ хэлэхэд хэрэглэнэ. Уучлал хүссэний дараа итгэл төрүүлэх зорилгоор ашиглаж болно.",
+    "context": "A: Please be careful next time.\nB: I understand. It won't happen again."
+  },
+  {
+    "id": 400,
+    "chapter": 4,
+    "category": "Алдаа гаргах үед",
+    "en": "Thank you for pointing that out.",
+    "mn": "Үүнийг хэлж өгсөнд баярлалаа.",
+    "when": "Өөрийн анзаараагүй алдаа эсвэл асуудлыг хэн нэгэн хэлж өгсөн үед талархахад хэрэглэнэ. Алдааг хамгаалах биш, засах хандлагыг илэрхийлдэг ажил хэрэгч хэллэг.",
+    "context": "A: There's a small error here.\nB: Thank you for pointing that out."
+  }
+]
