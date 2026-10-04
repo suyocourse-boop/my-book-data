@@ -1,0 +1,902 @@
+[
+  {
+    "id": 401,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Where is the check-in counter?",
+    "mn": "Бүртгэлийн лангуу хаана байна вэ?",
+    "when": "Онгоцны буудал дээр нислэгтээ бүртгүүлэх газраа олохгүй байгаа үед ажилтнаас асууна. Аль компанийн нислэгээр нисэж байгаагаас шалтгаалан өөр лангуу байж болох тул хэрэгтэй асуулт.",
+    "context": "A: Excuse me, where is the check-in counter?\nB: It's over there."
+  },
+  {
+    "id": 402,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Where is my gate?",
+    "mn": "Миний онгоцны хаалга хаана байна вэ?",
+    "when": "Бүртгэлээ хийсний дараа онгоцонд суух хаалгаа олох хэрэгтэй үед хэрэглэнэ. Boarding pass дээрх gate-ийн дугаарыг хараад байршлыг асууж болно.",
+    "context": "A: Where is my gate?\nB: Gate 12 is upstairs."
+  },
+  {
+    "id": 403,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Where can I check in?",
+    "mn": "Би хаана бүртгүүлэх вэ?",
+    "when": "Нислэгтээ бүртгүүлэх газраа мэдэхгүй үед хэрэглэнэ. Check-in counter-ийг хайж байгаа үед ажилтнаас асуухад тохиромжтой.",
+    "context": "A: Where can I check in?\nB: You can check in at counter B."
+  },
+  {
+    "id": 404,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "I'd like to check in.",
+    "mn": "Би бүртгүүлэх гэсэн юм.",
+    "when": "Онгоцны буудлын ажилтанд очоод нислэгтээ бүртгүүлэх хүсэлтэй байгаагаа хэлэхэд хэрэглэнэ.",
+    "context": "A: How can I help you?\nB: I'd like to check in."
+  },
+  {
+    "id": 405,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Here is my passport.",
+    "mn": "Миний паспорт байна.",
+    "when": "Бүртгэл эсвэл шалгалтын үеэр ажилтан паспортоо өгөхийг хүсэхэд паспортоо үзүүлээд хэлж болно.",
+    "context": "A: May I see your passport?\nB: Sure. Here is my passport."
+  },
+  {
+    "id": 406,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "I have one bag to check in.",
+    "mn": "Би нэг ачаа бүртгүүлнэ.",
+    "when": "Бүртгэлийн үеэр онгоцны ачаанд өгөх чемодан хэд байгааг хэлэхэд хэрэглэнэ. Гар тээшээс тусдаа бүртгүүлэх ачаагаа хэлж байгаа хэрэг.",
+    "context": "A: How many bags are you checking in?\nB: I have one bag to check in."
+  },
+  {
+    "id": 407,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Can I take this as carry-on?",
+    "mn": "Би үүнийг гар тээшээр авч явж болох уу?",
+    "when": "Цүнх, жижиг чемодан эсвэл өөр зүйлээ онгоцны бүхээгт авч орох боломжтой эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Can I take this as carry-on?\nB: Yes, if it fits the size limit."
+  },
+  {
+    "id": 408,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Is my flight on time?",
+    "mn": "Миний нислэг цагтаа байгаа юу?",
+    "when": "Нислэг хойшилсон эсэхийг мэдэхийг хүсэхэд хэрэглэнэ. Онгоцны буудлын дэлгэц эсвэл ажилтнаас шалгахдаа ашиглаж болно.",
+    "context": "A: Is my flight on time?\nB: Yes, it's on time."
+  },
+  {
+    "id": 409,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Has the flight been delayed?",
+    "mn": "Нислэг хойшилсон уу?",
+    "when": "Нислэг товлосон цагаасаа хоцрох болсон эсэхийг асуухад хэрэглэнэ. Хүлээлгийн танхимд удаан хүлээж байгаа үед ялангуяа хэрэгтэй.",
+    "context": "A: Has the flight been delayed?\nB: Yes, by 30 minutes."
+  },
+  {
+    "id": 410,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "What time does boarding start?",
+    "mn": "Онгоцонд суух ажиллагаа хэдэн цагт эхлэх вэ?",
+    "when": "Онгоцонд зорчигчдыг оруулж эхлэх цагийг мэдэхийг хүсэхэд хэрэглэнэ. Нислэгийн хөөрөх цагаас boarding эхлэх цаг өөр байдаг.",
+    "context": "A: What time does boarding start?\nB: At 8:30."
+  },
+  {
+    "id": 411,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "When does boarding close?",
+    "mn": "Онгоцонд суух ажиллагаа хэзээ дуусах вэ?",
+    "when": "Онгоцонд суух эцсийн хугацааг мэдэхэд хэрэглэнэ. Нислэгийн цагт амжихын тулд boarding хаагдах хугацааг мэдэх нь чухал.",
+    "context": "A: When does boarding close?\nB: It closes at 9:10."
+  },
+  {
+    "id": 412,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Is this the line for Flight 123?",
+    "mn": "Энэ 123-р нислэгийн дараалал мөн үү?",
+    "when": "Олон дараалалтай үед өөрийн нислэгийн зөв дараалалд зогсож байгаа эсэхээ шалгахад хэрэглэнэ.",
+    "context": "A: Is this the line for Flight 123?\nB: Yes, it is."
+  },
+  {
+    "id": 413,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "I'd like a window seat.",
+    "mn": "Би цонхны талын суудал авмаар байна.",
+    "when": "Онгоцны суудлаа сонгох боломжтой үед цонхны дэргэдэх суудал хүсэхэд хэрэглэнэ.",
+    "context": "A: Do you have a seat preference?\nB: I'd like a window seat."
+  },
+  {
+    "id": 414,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "I'd like an aisle seat.",
+    "mn": "Би коридорын талын суудал авмаар байна.",
+    "when": "Онгоцны суудал сонгохдоо коридорын талын суудал хүсэхэд хэрэглэнэ. Ялангуяа босож явахад хялбар суудал хүсэж байгаа үед тохиромжтой.",
+    "context": "A: Window or aisle?\nB: I'd like an aisle seat."
+  },
+  {
+    "id": 415,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Is this seat taken?",
+    "mn": "Энэ суудал эзэнтэй юу?",
+    "when": "Хүлээлгийн хэсэг эсвэл онгоцонд сул мэт харагдаж байгаа суудалд суухаасаа өмнө өөр хүн суух эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is this seat taken?\nB: No, it's free."
+  },
+  {
+    "id": 416,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Where can I get a boarding pass?",
+    "mn": "Би boarding pass-аа хаанаас авах вэ?",
+    "when": "Онгоцонд суух эрхийн бичгээ хаанаас авах эсвэл хэвлүүлэхээ мэдэхгүй үед хэрэглэнэ. Boarding pass-ийг цахимаар авсан ч шаардлагатай үед ажилтнаас асууж болно.",
+    "context": "A: Where can I get a boarding pass?\nB: You can get one at the counter."
+  },
+  {
+    "id": 417,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "What terminal do I need?",
+    "mn": "Би аль терминал руу очих вэ?",
+    "when": "Том онгоцны буудал дээр хэд хэдэн терминал байдаг үед өөрийн нислэгийн терминалыг асуухад хэрэглэнэ.",
+    "context": "A: What terminal do I need?\nB: Terminal 2."
+  },
+  {
+    "id": 418,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Where is the baggage drop?",
+    "mn": "Ачаа өгөх газар хаана байна вэ?",
+    "when": "Онлайнаар check-in хийсэн боловч бүртгүүлэх ачаагаа өгөх шаардлагатай үед baggage drop-ийн байршлыг асуухад хэрэглэнэ.",
+    "context": "A: Where is the baggage drop?\nB: It's next to the check-in counters."
+  },
+  {
+    "id": 419,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "What gate should I go to?",
+    "mn": "Би аль gate руу явах вэ?",
+    "when": "Онгоцонд суух хаалгаа тодорхой мэдэхгүй үед хэрэглэнэ. Gate-ийн дугаар өөрчлөгдсөн эсэхийг шалгахад ч ашиглаж болно.",
+    "context": "A: What gate should I go to?\nB: Gate 25."
+  },
+  {
+    "id": 420,
+    "chapter": 5,
+    "category": "Онгоцны буудал & Нислэг",
+    "en": "Where is the departure area?",
+    "mn": "Нислэг хөдлөх хэсэг хаана байна вэ?",
+    "when": "Онгоцны буудалд ирээд departure буюу нислэг хөдлөх хэсэг рүү хаашаа явахаа мэдэхгүй үед хэрэглэнэ.",
+    "context": "A: Where is the departure area?\nB: Go upstairs and turn left."
+  },
+  {
+    "id": 421,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "Here is my passport.",
+    "mn": "Миний паспорт байна.",
+    "when": "Паспортын шалгалтын үеэр ажилтан паспортоо үзүүлэхийг хүсэхэд өгөөд хэлж болно.",
+    "context": "A: Passport, please.\nB: Here is my passport."
+  },
+  {
+    "id": 422,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "I'm here on vacation.",
+    "mn": "Би энд амрахаар ирсэн.",
+    "when": "Хил, паспортын шалгалтын үеэр аяллын зорилгоо асуухад амралт, аяллын зорилгоор ирснээ хэлэхэд хэрэглэнэ.",
+    "context": "A: Why are you visiting?\nB: I'm here on vacation."
+  },
+  {
+    "id": 423,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "I'm here for business.",
+    "mn": "Би ажил хэргийн зорилгоор ирсэн.",
+    "when": "Аяллын зорилгыг асуухад ажил хэргийн уулзалт, бизнесийн ажилтай холбоотой ирснээ хэлэхэд хэрэглэнэ.",
+    "context": "A: What's the purpose of your visit?\nB: I'm here for business."
+  },
+  {
+    "id": 424,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "I'm staying for five days.",
+    "mn": "Би тав хоног байна.",
+    "when": "Хил дээр хэд хоног байхыг асуухад аяллын хугацаагаа хэлэхэд хэрэглэнэ. Тоог өөрийн аяллын хугацаагаар сольж болно.",
+    "context": "A: How long are you staying?\nB: I'm staying for five days."
+  },
+  {
+    "id": 425,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "I'm staying at this hotel.",
+    "mn": "Би энэ буудалд байрлана.",
+    "when": "Хил дээр хаана байрлахыг асуухад зочид буудлынхаа талаар хэлэхэд хэрэглэнэ.",
+    "context": "A: Where are you staying?\nB: I'm staying at this hotel."
+  },
+  {
+    "id": 426,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "Here is my hotel reservation.",
+    "mn": "Миний буудлын захиалга энд байна.",
+    "when": "Хил, паспортын шалгалтын үеэр байрлах газрын баталгааг үзүүлэх шаардлагатай үед захиалгаа харуулж хэлж болно.",
+    "context": "A: Do you have a hotel reservation?\nB: Yes. Here is my hotel reservation."
+  },
+  {
+    "id": 427,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "I have nothing to declare.",
+    "mn": "Надад мэдүүлэх зүйл байхгүй.",
+    "when": "Гаалийн мэдүүлэгт заавал мэдүүлэх зүйл байхгүй үед хэрэглэдэг албан хэллэг. Ямар зүйл мэдүүлэх шаардлагатайг тухайн улсын дүрмээс хамаарч шалгах хэрэгтэй.",
+    "context": "A: Do you have anything to declare?\nB: I have nothing to declare."
+  },
+  {
+    "id": 428,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "I have something to declare.",
+    "mn": "Надад мэдүүлэх зүйл байна.",
+    "when": "Гаалийн мэдүүлэгт оруулах зүйлтэй үед ажилтанд хэлэхэд хэрэглэнэ. Ямар зүйл болохыг дараа нь тодруулж асууж болно.",
+    "context": "A: Do you have anything to declare?\nB: Yes, I have something to declare."
+  },
+  {
+    "id": 429,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "Where is immigration?",
+    "mn": "Паспортын шалгалт хаана байна вэ?",
+    "when": "Олон улсын нислэгээр ирсний дараа immigration буюу хил, паспортын шалгалтын хэсгийг хайж байгаа үед хэрэглэнэ.",
+    "context": "A: Excuse me, where is immigration?\nB: Follow the signs."
+  },
+  {
+    "id": 430,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "Do I need to fill this out?",
+    "mn": "Би үүнийг бөглөх хэрэгтэй юу?",
+    "when": "Хил, гаалийн хэсэгт маягт эсвэл мэдүүлэг өгсөн боловч бөглөх шаардлагатай эсэхээ мэдэхгүй үед хэрэглэнэ.",
+    "context": "A: Do I need to fill this out?\nB: Yes, please."
+  },
+  {
+    "id": 431,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "How long can I stay?",
+    "mn": "Би хэр удаан байж болох вэ?",
+    "when": "Тухайн улсад хэдий хугацаанд байх эрхтэйгээ мэдэхийг хүсэхэд хэрэглэнэ. Хил, визтэй холбоотой нөхцөлд ашиглаж болно.",
+    "context": "A: How long can I stay?\nB: You can stay for 90 days."
+  },
+  {
+    "id": 432,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "Do I need a visa?",
+    "mn": "Надад виз хэрэгтэй юу?",
+    "when": "Тухайн улс руу нэвтрэхэд виз шаардлагатай эсэхийг асуухад хэрэглэнэ. Аяллын өмнө шаардлагыг заавал албан ёсны эх сурвалжаас шалгах нь зөв.",
+    "context": "A: Do I need a visa?\nB: It depends on your passport."
+  },
+  {
+    "id": 433,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "Where can I get my passport stamped?",
+    "mn": "Паспортдоо хаана тамга даруулах вэ?",
+    "when": "Паспортын тамга шаардлагатай үед хаана хийлгэхээ асуухад хэрэглэнэ. Улс бүрийн журам өөр байж болохыг анхаарна.",
+    "context": "A: Where can I get my passport stamped?\nB: At the immigration counter."
+  },
+  {
+    "id": 434,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "I don't understand the question.",
+    "mn": "Би асуултыг ойлгохгүй байна.",
+    "when": "Хил, гаалийн ажилтан асуулт асуухад англи хэлээр ойлгоход хэцүү байгаа үед шууд хэлж болно.",
+    "context": "A: What is the purpose of your visit?\nB: Sorry, I don't understand the question."
+  },
+  {
+    "id": 435,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "Could you speak more slowly, please?",
+    "mn": "Та арай удаан ярьж болох уу?",
+    "when": "Паспорт эсвэл гаалийн шалгалтын үеэр ажилтан хурдан ярьж, ойлгоход хэцүү байвал эелдгээр удаан ярихыг хүсэхэд хэрэглэнэ.",
+    "context": "A: How long are you staying?\nB: Could you speak more slowly, please?"
+  },
+  {
+    "id": 436,
+    "chapter": 5,
+    "category": "Гааль & Паспорт",
+    "en": "What does this mean?",
+    "mn": "Энэ юу гэсэн үг вэ?",
+    "when": "Маягт, тэмдэг, асуулт эсвэл англи үгийг ойлгохгүй үед тайлбар хүсэхэд хэрэглэнэ.",
+    "context": "A: Please sign here.\nB: What does this mean?"
+  },
+  {
+    "id": 437,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "I have a reservation.",
+    "mn": "Би захиалгатай.",
+    "when": "Зочид буудалд ирээд өмнө нь өрөө захиалсан гэдгээ хүлээн авах ажилтанд хэлэхэд хэрэглэнэ.",
+    "context": "A: Welcome. How can I help you?\nB: I have a reservation."
+  },
+  {
+    "id": 438,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "I'd like to check in.",
+    "mn": "Би буудалд бүртгүүлэх гэсэн юм.",
+    "when": "Зочид буудалд ирээд өрөөндөө орохын өмнө check-in хийх хүсэлтэй байгаагаа хэлэхэд хэрэглэнэ.",
+    "context": "A: Welcome to our hotel.\nB: I'd like to check in."
+  },
+  {
+    "id": 439,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "I'd like to check out.",
+    "mn": "Би буудлаас гарах бүртгэл хийлгэмээр байна.",
+    "when": "Буудлаас гарахдаа өрөөний төлбөр, түлхүүр болон бусад зүйлийг дуусгахын тулд check-out хийх хүсэлтэй байгаагаа хэлэхэд хэрэглэнэ.",
+    "context": "A: Good morning. How can I help you?\nB: I'd like to check out."
+  },
+  {
+    "id": 440,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Can I see my room?",
+    "mn": "Би өрөөгөө үзэж болох уу?",
+    "when": "Өрөөний талаар тодорхой зүйл шалгах эсвэл өрөө рүү орохын өмнө үзэх шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Your room is on the third floor.\nB: Can I see my room?"
+  },
+  {
+    "id": 441,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "What time is check-in?",
+    "mn": "Check-in хэдэн цагт вэ?",
+    "when": "Зочид буудалд өрөөндөө хэдэн цагаас орж болохыг асуухад хэрэглэнэ.",
+    "context": "A: What time is check-in?\nB: Check-in starts at 3 p.m."
+  },
+  {
+    "id": 442,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "What time is check-out?",
+    "mn": "Check-out хэдэн цагт вэ?",
+    "when": "Өрөөгөө хэдэн цаг гэхэд суллаж буудлаас гарах ёстойг асуухад хэрэглэнэ.",
+    "context": "A: What time is check-out?\nB: It's at 11 a.m."
+  },
+  {
+    "id": 443,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Is breakfast included?",
+    "mn": "Өглөөний цай үнэд багтсан уу?",
+    "when": "Өрөөний үнэд өглөөний цай орсон эсэхийг асуухад хэрэглэнэ. Захиалга хийхдээ эсвэл буудалд очоод асууж болно.",
+    "context": "A: Is breakfast included?\nB: Yes, breakfast is included."
+  },
+  {
+    "id": 444,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Is Wi-Fi free?",
+    "mn": "Wi-Fi үнэгүй юу?",
+    "when": "Буудлын интернетийн үйлчилгээ төлбөртэй эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is Wi-Fi free?\nB: Yes, it's free."
+  },
+  {
+    "id": 445,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "What's the Wi-Fi password?",
+    "mn": "Wi-Fi-ийн нууц үг юу вэ?",
+    "when": "Зочид буудлын интернетэд холбогдохын тулд нууц үг хэрэгтэй үед ажилтнаас асууна.",
+    "context": "A: What's the Wi-Fi password?\nB: It's written on your room card."
+  },
+  {
+    "id": 446,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Could I have another towel?",
+    "mn": "Надад нэг алчуур нэмж өгч болох уу?",
+    "when": "Өрөөнд байгаа алчуур хүрэлцэхгүй үед буудлын ажилтнаас нэмэлт алчуур хүсэхэд хэрэглэнэ.",
+    "context": "A: How can I help you?\nB: Could I have another towel?"
+  },
+  {
+    "id": 447,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Could I get another key?",
+    "mn": "Надад нэг түлхүүр нэмж өгч болох уу?",
+    "when": "Өрөөнд хамт байрлаж байгаа хүнтэйгээ тусдаа түлхүүр хэрэгтэй үед эсвэл түлхүүрээ ашиглах боломжгүй болсон үед хэрэглэнэ.",
+    "context": "A: Could I get another key?\nB: Sure."
+  },
+  {
+    "id": 448,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "The air conditioner isn't working.",
+    "mn": "Агааржуулагч ажиллахгүй байна.",
+    "when": "Өрөөний агааржуулагч ажиллахгүй болсон үед буудлын ажилтанд асуудлыг мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: Is everything okay?\nB: The air conditioner isn't working."
+  },
+  {
+    "id": 449,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "There's a problem with my room.",
+    "mn": "Миний өрөөнд асуудал байна.",
+    "when": "Өрөөнд ямар нэгэн асуудал гарсан боловч яг юу болохыг дараа нь тайлбарлах үед эхлээд ерөнхийд нь мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: How can I help you?\nB: There's a problem with my room."
+  },
+  {
+    "id": 450,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Could you clean my room?",
+    "mn": "Та миний өрөөг цэвэрлэж өгч болох уу?",
+    "when": "Өрөөгөө цэвэрлүүлэх шаардлагатай үед буудлын үйлчлэгч эсвэл хүлээн авах ажилтнаас хүсэхэд хэрэглэнэ.",
+    "context": "A: How can I help you?\nB: Could you clean my room?"
+  },
+  {
+    "id": 451,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Is there a restaurant in the hotel?",
+    "mn": "Энэ буудалд ресторан байдаг уу?",
+    "when": "Буудлаас гаралгүйгээр хооллох газар байгаа эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is there a restaurant in the hotel?\nB: Yes, it's on the first floor."
+  },
+  {
+    "id": 452,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Can I leave my luggage here?",
+    "mn": "Би ачаагаа энд үлдээж болох уу?",
+    "when": "Check-in хийх цаг болоогүй эсвэл check-out хийсний дараа ачаагаа түр хадгалуулах шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Can I leave my luggage here?\nB: Yes, we can keep it for you."
+  },
+  {
+    "id": 453,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Can I have a late check-out?",
+    "mn": "Би оройтож check-out хийж болох уу?",
+    "when": "Товлосон check-out цагаас арай хожуу өрөөгөө суллах шаардлагатай үед зөвшөөрөл хүсэхэд хэрэглэнэ.",
+    "context": "A: Can I have a late check-out?\nB: It depends on availability."
+  },
+  {
+    "id": 454,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Could you call me a taxi?",
+    "mn": "Та надад такси дуудаж өгч болох уу?",
+    "when": "Зочид буудлаас гарахдаа такси хэрэгтэй болсон үед reception-оос такси дуудаж өгөхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: Could you call me a taxi?\nB: Of course."
+  },
+  {
+    "id": 455,
+    "chapter": 5,
+    "category": "Буудал (Hotel)",
+    "en": "Could you recommend a restaurant?",
+    "mn": "Та ресторан санал болгож болох уу?",
+    "when": "Тухайн хотод сайн ресторан мэдэхгүй үед буудлын ажилтнаас ойролцоох эсвэл сайн ресторан санал болгохыг хүсэхэд хэрэглэнэ.",
+    "context": "A: Where can I eat nearby?\nB: Could you recommend a restaurant?"
+  },
+  {
+    "id": 456,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Could you take me to this address?",
+    "mn": "Та намайг энэ хаяг руу хүргэж өгч болох уу?",
+    "when": "Таксины жолоочид очих газрын хаягаа утас эсвэл цаасан дээр үзүүлээд хэлэхэд хэрэглэнэ.",
+    "context": "A: Where would you like to go?\nB: Could you take me to this address?"
+  },
+  {
+    "id": 457,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "How much is it to the airport?",
+    "mn": "Онгоцны буудал хүртэл хэд болох вэ?",
+    "when": "Таксигаар онгоцны буудал хүртэл явахын өмнө ойролцоогоор хэдэн төгрөг, доллар эсвэл тухайн улсын мөнгө төлөхийг асуухад хэрэглэнэ.",
+    "context": "A: How much is it to the airport?\nB: About 30 dollars."
+  },
+  {
+    "id": 458,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "How long will it take?",
+    "mn": "Хэр удах вэ?",
+    "when": "Такси эсвэл галт тэргээр очих газар хүртэл хэр хугацаа шаардагдахыг асуухад хэрэглэнэ.",
+    "context": "A: How long will it take?\nB: About 20 minutes."
+  },
+  {
+    "id": 459,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Please stop here.",
+    "mn": "Энд зогсоно уу.",
+    "when": "Таксигаар явж байхдаа хүрэх газартаа ирээд жолоочид энд буух хүсэлтэй байгаагаа хэлэхэд хэрэглэнэ.",
+    "context": "A: Is this okay?\nB: Yes, please stop here."
+  },
+  {
+    "id": 460,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Keep the change.",
+    "mn": "Хариултыг өөртөө үлдээгээрэй.",
+    "when": "Таксины төлбөр төлсний дараа үлдэгдэл мөнгийг жолоочид үлдээх үед хэрэглэнэ. Энэ нь тухайн орны соёл, үйлчилгээний нөхцөлөөс хамаарч өөр байж болно.",
+    "context": "A: Here's your change.\nB: Keep the change."
+  },
+  {
+    "id": 461,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Where is the train station?",
+    "mn": "Галт тэрэгний буудал хаана байна вэ?",
+    "when": "Тухайн хотод галт тэрэгний буудлыг хайж байгаа үед орон нутгийн хүнээс зам асуухад хэрэглэнэ.",
+    "context": "A: Excuse me, where is the train station?\nB: It's five minutes from here."
+  },
+  {
+    "id": 462,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Which train should I take?",
+    "mn": "Би аль галт тэргээр явах вэ?",
+    "when": "Олон чиглэл, олон галт тэрэгтэй буудал дээр аль галт тэргийг сонгохоо мэдэхгүй үед ажилтан эсвэл мэдээллийн төвөөс асууна.",
+    "context": "A: I want to go to Kyoto.\nB: Which train should I take?"
+  },
+  {
+    "id": 463,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Which platform is it?",
+    "mn": "Аль тавцан дээр вэ?",
+    "when": "Галт тэрэгний зөв platform буюу тавцанг олохгүй байгаа үед хэрэглэнэ. Том буудал дээр энэ асуулт маш хэрэгтэй.",
+    "context": "A: Which platform is it?\nB: Platform 4."
+  },
+  {
+    "id": 464,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Does this train go to Tokyo?",
+    "mn": "Энэ галт тэрэг Токио руу явдаг уу?",
+    "when": "Суух гэж байгаа галт тэрэг таны очих газар руу явдаг эсэхийг баталгаажуулахад хэрэглэнэ.",
+    "context": "A: Does this train go to Tokyo?\nB: Yes, it does."
+  },
+  {
+    "id": 465,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Is this the right train?",
+    "mn": "Энэ зөв галт тэрэг мөн үү?",
+    "when": "Галт тэрэгний дугаар, чиглэл эсвэл platform-доо эргэлзэж байгаа үед суухаасаа өмнө баталгаажуулахад хэрэглэнэ.",
+    "context": "A: Is this the right train?\nB: Yes, this one goes to Osaka."
+  },
+  {
+    "id": 466,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Where can I buy a ticket?",
+    "mn": "Би билет хаанаас авах вэ?",
+    "when": "Галт тэрэг, автобус эсвэл өөр нийтийн тээврийн билет авах газраа мэдэхгүй үед хэрэглэнэ.",
+    "context": "A: Where can I buy a ticket?\nB: At the ticket machine."
+  },
+  {
+    "id": 467,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "One ticket to Kyoto, please.",
+    "mn": "Киото хүртэл нэг билет өгнө үү.",
+    "when": "Билетийн кассан дээр очих газраа болон хэдэн билет хэрэгтэйгээ хэлэхэд хэрэглэнэ. Хотын нэрийг өөрийн очих газраар сольж болно.",
+    "context": "A: Where are you going?\nB: One ticket to Kyoto, please."
+  },
+  {
+    "id": 468,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Is this seat reserved?",
+    "mn": "Энэ суудал захиалгатай юу?",
+    "when": "Галт тэргэнд сул харагдаж байгаа суудалд суухаасаа өмнө тухайн суудал өөр хүнд захиалагдсан эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is this seat reserved?\nB: No, you can sit there."
+  },
+  {
+    "id": 469,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "What time is the next train?",
+    "mn": "Дараагийн галт тэрэг хэдэн цагт вэ?",
+    "when": "Одоо явж амжаагүй эсвэл дараагийн галт тэрэг хэзээ ирэхийг мэдэх шаардлагатай үед хэрэглэнэ.",
+    "context": "A: What time is the next train?\nB: At 10:15."
+  },
+  {
+    "id": 470,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "How many stops is it?",
+    "mn": "Хэдэн буудал явах вэ?",
+    "when": "Галт тэргээр явахдаа хэдэн буудлын дараа буухаа мэдэхийг хүсэхэд хэрэглэнэ. Чиглэлээ хянахад их хэрэгтэй.",
+    "context": "A: How many stops is it?\nB: It's four stops."
+  },
+  {
+    "id": 471,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Do I need to change trains?",
+    "mn": "Би галт тэрэг солих хэрэгтэй юу?",
+    "when": "Очих газартаа шууд хүрэх эсэхээ мэдэхгүй үед хэрэглэнэ. Замын дунд өөр галт тэргэнд шилжих шаардлагатай эсэхийг асууж байна.",
+    "context": "A: Do I need to change trains?\nB: Yes, at the next station."
+  },
+  {
+    "id": 472,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Where should I get off?",
+    "mn": "Би хаана буух вэ?",
+    "when": "Очих газрынхаа нэрийг мэдэж байгаа ч яг аль буудал дээр буухаа мэдэхгүй үед асууна.",
+    "context": "A: Where should I get off?\nB: Get off at Central Station."
+  },
+  {
+    "id": 473,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Is this train going in the right direction?",
+    "mn": "Энэ галт тэрэг зөв чиглэлд явж байна уу?",
+    "when": "Галт тэрэгний чиглэлд эргэлзэж байгаа үед буруу замаар явж байгаа эсэхээ шалгахад хэрэглэнэ.",
+    "context": "A: Is this train going in the right direction?\nB: Yes, you're going the right way."
+  },
+  {
+    "id": 474,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Can I pay by card?",
+    "mn": "Би картаар төлж болох уу?",
+    "when": "Такси, билетийн касс эсвэл өөр үйлчилгээний төлбөрийг картаар төлөх боломжтой эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Can I pay by card?\nB: Yes, we accept cards."
+  },
+  {
+    "id": 475,
+    "chapter": 5,
+    "category": "Такси & Галт тэрэг",
+    "en": "Can you give me a receipt?",
+    "mn": "Та надад баримт өгч болох уу?",
+    "when": "Такси, билет эсвэл өөр төлбөр хийсний дараа төлбөрийн баримт авах шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Can you give me a receipt?\nB: Sure."
+  },
+  {
+    "id": 476,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Excuse me, where is...?",
+    "mn": "Уучлаарай, ... хаана байна вэ?",
+    "when": "Танихгүй газар тодорхой газар, барилга эсвэл үйлчилгээний байршлыг асуухдаа яриагаа эелдгээр эхлүүлэхэд хэрэглэнэ.",
+    "context": "A: Excuse me, where is the station?\nB: It's over there."
+  },
+  {
+    "id": 477,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "How do I get to the station?",
+    "mn": "Би буудал руу яаж очих вэ?",
+    "when": "Явганаар эсвэл нийтийн тээврээр тодорхой газар хүрэх замыг асуухад хэрэглэнэ.",
+    "context": "A: How do I get to the station?\nB: Go straight and turn right."
+  },
+  {
+    "id": 478,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Is it far from here?",
+    "mn": "Эндээс хол уу?",
+    "when": "Очих газар ойр эсвэл хол эсэхийг мэдэхэд хэрэглэнэ. Цааш алхах уу, такси авах уу гэдгээ шийдэхэд хэрэгтэй.",
+    "context": "A: Is it far from here?\nB: No, it's about ten minutes away."
+  },
+  {
+    "id": 479,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Is it within walking distance?",
+    "mn": "Эндээс алхаж хүрэхээр ойрхон уу?",
+    "when": "Тухайн газар алхаж очиход боломжтой зайд байгаа эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is it within walking distance?\nB: Yes, it's only ten minutes away."
+  },
+  {
+    "id": 480,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Which way should I go?",
+    "mn": "Би аль зүг рүү явах вэ?",
+    "when": "Замын уулзвар дээр аль зүг рүү явахаа мэдэхгүй үед хэрэглэнэ. Товч бөгөөд өдөр тутмын ярианд түгээмэл.",
+    "context": "A: Which way should I go?\nB: Go this way."
+  },
+  {
+    "id": 481,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Should I turn left here?",
+    "mn": "Би энд зүүн тийш эргэх үү?",
+    "when": "Өөрийн ойлгосон зам зөв эсэхийг баталгаажуулахад хэрэглэнэ. Зам тайлбарлуулж байх үед маш хэрэгтэй.",
+    "context": "A: Should I turn left here?\nB: Yes, turn left."
+  },
+  {
+    "id": 482,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Should I turn right here?",
+    "mn": "Би энд баруун тийш эргэх үү?",
+    "when": "Явах чиглэлээ баталгаажуулахдаа тухайн газарт баруун тийш эргэх эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Should I turn right here?\nB: No, keep going straight."
+  },
+  {
+    "id": 483,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Do I go straight?",
+    "mn": "Би чигээрээ явах уу?",
+    "when": "Уулзвар эсвэл замын салаанд эргэхгүйгээр шууд явах эсэхээ асуухад хэрэглэнэ.",
+    "context": "A: Do I go straight?\nB: Yes, for about five minutes."
+  },
+  {
+    "id": 484,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "How long does it take to walk there?",
+    "mn": "Тийшээ алхаж очиход хэр хугацаа хэрэгтэй вэ?",
+    "when": "Алхаж очих хугацааг мэдэхэд хэрэглэнэ. Тухайн газар ойр эсэхийг илүү тодорхой ойлгоход тусална.",
+    "context": "A: How long does it take to walk there?\nB: About 15 minutes."
+  },
+  {
+    "id": 485,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Is there a bus stop nearby?",
+    "mn": "Ойрхон автобусны буудал байна уу?",
+    "when": "Автобусаар явах шаардлагатай үед ойр орчмын автобусны буудлыг хайж асуухад хэрэглэнэ.",
+    "context": "A: Is there a bus stop nearby?\nB: Yes, it's across the street."
+  },
+  {
+    "id": 486,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Where is the nearest station?",
+    "mn": "Хамгийн ойрын буудал хаана байна вэ?",
+    "when": "Галт тэрэг эсвэл метроны хамгийн ойрын буудлыг олох шаардлагатай үед хэрэглэнэ. Танихгүй хотод маш хэрэгтэй.",
+    "context": "A: Where is the nearest station?\nB: It's two blocks away."
+  },
+  {
+    "id": 487,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Can you show me on the map?",
+    "mn": "Та газрын зураг дээр зааж өгч болох уу?",
+    "when": "Англиар тайлбарласан замыг бүрэн ойлгохгүй байгаа үед утасныхаа газрын зураг эсвэл цаасан газрын зураг дээр зааж өгөхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: Go straight and turn left.\nB: Can you show me on the map?"
+  },
+  {
+    "id": 488,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Am I going the right way?",
+    "mn": "Би зөв замаар явж байна уу?",
+    "when": "Өөрийн явж байгаа чиглэл зөв эсэхэд эргэлзэж байгаа үед замын хүнээс баталгаажуулахад хэрэглэнэ.",
+    "context": "A: Am I going the right way?\nB: Yes, keep going."
+  },
+  {
+    "id": 489,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "Is this the right street?",
+    "mn": "Энэ зөв гудамж мөн үү?",
+    "when": "Газрын зураг дээрх эсвэл сонссон гудамжны нэртэй таарч байгаа эсэхийг баталгаажуулахад хэрэглэнэ.",
+    "context": "A: Is this the right street?\nB: Yes, this is it."
+  },
+  {
+    "id": 490,
+    "chapter": 5,
+    "category": "Чиглэл асуух",
+    "en": "How far is it from here?",
+    "mn": "Эндээс хэр хол вэ?",
+    "when": "Очих газар хүртэлх зайг ерөнхийд нь мэдэхэд хэрэглэнэ. Алхах эсвэл тээврээр явах эсэхээ шийдэхэд тусална.",
+    "context": "A: How far is it from here?\nB: About one kilometer."
+  },
+  {
+    "id": 491,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "My luggage is missing.",
+    "mn": "Миний ачаа алга болсон.",
+    "when": "Нислэгийн дараа ачаагаа авах хэсэгт ирээд чемодан тань гарч ирээгүй үед нисэх буудлын ажилтанд мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: How can I help you?\nB: My luggage is missing."
+  },
+  {
+    "id": 492,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "My bag didn't arrive.",
+    "mn": "Миний цүнх ирсэнгүй.",
+    "when": "Таны ниссэн онгоц ирсэн боловч бүртгүүлсэн ачаа тань ачаа авах туузан дээр гарч ирээгүй үед хэрэглэнэ.",
+    "context": "A: Did you find your bag?\nB: No, my bag didn't arrive."
+  },
+  {
+    "id": 493,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "I can't find my luggage.",
+    "mn": "Би ачаагаа олж чадахгүй байна.",
+    "when": "Ачаа авах хэсэгт өөрийн чемоданыг хаана байгааг олж чадахгүй үед ажилтнаас тусламж хүсэхэд хэрэглэнэ.",
+    "context": "A: What seems to be the problem?\nB: I can't find my luggage."
+  },
+  {
+    "id": 494,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "My bag was damaged.",
+    "mn": "Миний цүнх гэмтсэн байна.",
+    "when": "Нислэгийн дараа ачаагаа авахад чемодан эвдэрсэн, урагдсан эсвэл гэмтсэн байвал нислэгийн компанийн ажилтанд мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: What's wrong with your bag?\nB: My bag was damaged."
+  },
+  {
+    "id": 495,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "My flight was canceled.",
+    "mn": "Миний нислэг цуцлагдсан.",
+    "when": "Нислэг цуцлагдсан тухай мэдээлэл авсан үед нөхцөл байдлаа тайлбарлахад хэрэглэнэ. Дараагийн нислэгийн талаар асуухдаа үргэлжлүүлэн ашиглаж болно.",
+    "context": "A: Why are you still here?\nB: My flight was canceled."
+  },
+  {
+    "id": 496,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "I missed my flight.",
+    "mn": "Би нислэгээсээ хоцорсон.",
+    "when": "Нислэгийн boarding хаагдсан эсвэл онгоц хөөрсөн тул өөрийн нислэгт сууж чадаагүй үед хэрэглэнэ.",
+    "context": "A: Why do you need help?\nB: I missed my flight."
+  },
+  {
+    "id": 497,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "What should I do now?",
+    "mn": "Би одоо яах вэ?",
+    "when": "Аяллын үеэр асуудал гарч, дараагийн алхмаа мэдэхгүй болсон үед ажилтан эсвэл үйлчилгээ үзүүлэгчээс зөвлөгөө авахад хэрэглэнэ.",
+    "context": "A: Your flight has been canceled.\nB: What should I do now?"
+  },
+  {
+    "id": 498,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "Where can I report this?",
+    "mn": "Би үүнийг хаана мэдэгдэх вэ?",
+    "when": "Алга болсон ачаа, гэмтсэн зүйл, нислэгийн асуудал зэрэг тохиолдлыг хаана албан ёсоор бүртгүүлэхээ мэдэхгүй үед хэрэглэнэ.",
+    "context": "A: My luggage is missing.\nB: Where can I report this?"
+  },
+  {
+    "id": 499,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "Can you help me find my luggage?",
+    "mn": "Та надад ачаагаа олоход тусалж болох уу?",
+    "when": "Ачаа тань хаана байгааг мэдэхгүй, өөрөө олж чадахгүй байгаа үед нисэх буудлын ажилтнаас шууд тусламж хүсэхэд хэрэглэнэ.",
+    "context": "A: Can you help me find my luggage?\nB: Yes. Do you have your baggage receipt?"
+  },
+  {
+    "id": 500,
+    "chapter": 5,
+    "category": "Аяллын асуудал (Ачаа төөрсөн г.м)",
+    "en": "I need help with this problem.",
+    "mn": "Надад энэ асуудлаар тусламж хэрэгтэй байна.",
+    "when": "Аяллын үеэр өөрөө шийдэж чадахгүй асуудал гарсан үед ажилтан эсвэл үйлчилгээний газарт тусламж хүсэхэд хэрэглэнэ. Дараа нь асуудлаа дэлгэрэнгүй тайлбарлаж болно.",
+    "context": "A: How can I help you?\nB: I need help with this problem."
+  }
+]
