@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 901,
+    "chapter": 10,
+    "category": "Анх уулзах",
+    "title": "Шинэ хамт олонтой танилцах",
+    "when": "Шинэ ажилд орсон эхний өдөр хамт олонтойгоо танилцахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Hi, I'm John from marketing.", "mn": "Сайн уу, би маркетингийн Жон байна."},
+      {"speaker": "B", "en": "Nice to meet you, John. I'm Tsolmon.", "mn": "Уулзсандаа таатай байна, Жон. Намайг Цолмон гэдэг."},
+      {"speaker": "A", "en": "Nice to meet you too.", "mn": "Би ч бас уулзсандаа таатай байна."},
+      {"speaker": "B", "en": "Welcome to the team.", "mn": "Манай багт тавтай морилно уу."}
+    ]
+  },
+  {
+    "id": 902,
+    "chapter": 10,
+    "category": "Анх уулзах",
+    "title": "Шинэ хүнтэй энгийнээр танилцах",
+    "when": "Үдэшлэг, арга хэмжээ эсвэл шинэ орчинд танихгүй хүнтэй яриа эхлүүлэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Hi, is this your first time here?", "mn": "Сайн уу, энд анх удаа ирж байна уу?"},
+      {"speaker": "B", "en": "Yes, it is. How about you?", "mn": "Тийм ээ. Харин та?"},
+      {"speaker": "A", "en": "It's my first time too.", "mn": "Би ч бас анх удаа ирж байна."},
+      {"speaker": "B", "en": "Nice to meet you.", "mn": "Тантай танилцсандаа таатай байна."}
+    ]
+  },
+  {
+    "id": 903,
+    "chapter": 10,
+    "category": "Кафед",
+    "title": "Кофе захиалах",
+    "when": "Кафед орж өөрт хэрэгтэй ундаагаа захиалах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Hi. What can I get for you?", "mn": "Сайн байна уу. Танд юу өгөх вэ?"},
+      {"speaker": "B", "en": "I'd like a latte, please.", "mn": "Нэг латте авъя."},
+      {"speaker": "A", "en": "What size would you like?", "mn": "Ямар хэмжээтэй авах вэ?"},
+      {"speaker": "B", "en": "Medium, please.", "mn": "Дунд хэмжээтэй."}
+    ]
+  },
+  {
+    "id": 904,
+    "chapter": 10,
+    "category": "Кафед",
+    "title": "Кафед суудал асуух",
+    "when": "Кафед хүнтэй уулзах эсвэл ганцаараа суухдаа сул ширээ байгаа эсэхийг асуухад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Is this seat taken?", "mn": "Энэ суудал эзэнтэй юу?"},
+      {"speaker": "B", "en": "No, it's free.", "mn": "Үгүй ээ, сул."},
+      {"speaker": "A", "en": "Can I sit here?", "mn": "Би энд сууж болох уу?"},
+      {"speaker": "B", "en": "Sure, go ahead.", "mn": "Тэгэлгүй яах вэ, суу."}
+    ]
+  },
+  {
+    "id": 905,
+    "chapter": 10,
+    "category": "Дэлгүүрт",
+    "title": "Барааны үнэ асуух",
+    "when": "Дэлгүүрт бараа сонгож байхдаа үнийг нь мэдэх шаардлагатай үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. How much is this?", "mn": "Уучлаарай. Энэ ямар үнэтэй вэ?"},
+      {"speaker": "B", "en": "It's twenty dollars.", "mn": "Хорин доллар."},
+      {"speaker": "A", "en": "Is it on sale?", "mn": "Хямдарсан уу?"},
+      {"speaker": "B", "en": "Yes, it's twenty percent off.", "mn": "Тийм ээ, хорин хувийн хямдралтай."}
+    ]
+  },
+  {
+    "id": 906,
+    "chapter": 10,
+    "category": "Дэлгүүрт",
+    "title": "Хувцасны размер асуух",
+    "when": "Хувцас худалдаж авахдаа өөрийн хэмжээ тохирох эсэхийг асуухад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Do you have this in a medium?", "mn": "Энэ дунд размертай юу?"},
+      {"speaker": "B", "en": "Let me check.", "mn": "Шалгаад үзье."},
+      {"speaker": "A", "en": "Thank you.", "mn": "Баярлалаа."},
+      {"speaker": "B", "en": "Yes, we have one in the back.", "mn": "Тийм ээ, арын хэсэгт нэг байна."}
+    ]
+  },
+  {
+    "id": 907,
+    "chapter": 10,
+    "category": "Таксинд",
+    "title": "Такси дуудах",
+    "when": "Таксинд суухдаа очих газраа жолоочид хэлэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Where are you going?", "mn": "Хаашаа явах вэ?"},
+      {"speaker": "B", "en": "Could you take me to the station, please?", "mn": "Намайг вокзал руу хүргэж өгч болох уу?"},
+      {"speaker": "A", "en": "Sure.", "mn": "Тэгэлгүй яах вэ."},
+      {"speaker": "B", "en": "How long will it take?", "mn": "Хэр удах бол?"}
+    ]
+  },
+  {
+    "id": 908,
+    "chapter": 10,
+    "category": "Таксинд",
+    "title": "Очих газраа тайлбарлах",
+    "when": "Таксины жолоочид яг очих байршил эсвэл барилгын нэрийг тайлбарлах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What's the address?", "mn": "Хаяг нь хэд вэ?"},
+      {"speaker": "B", "en": "It's 25 Main Street.", "mn": "Main Street-ийн 25 дугаар."},
+      {"speaker": "A", "en": "Do you have the exact location?", "mn": "Яг байршил нь байна уу?"},
+      {"speaker": "B", "en": "Yes, I'll show you on my phone.", "mn": "Тийм ээ, утсан дээрээ харуулъя."}
+    ]
+  },
+  {
+    "id": 909,
+    "chapter": 10,
+    "category": "Зочид буудал",
+    "title": "Зочид буудалд бүртгүүлэх",
+    "when": "Зочид буудалд очоод захиалгаа баталгаажуулж өрөөндөө орох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Hi. I have a reservation.", "mn": "Сайн байна уу. Би өрөө захиалсан."},
+      {"speaker": "B", "en": "Sure. What's your name?", "mn": "За. Таны нэр хэн бэ?"},
+      {"speaker": "A", "en": "It's Tsolmon.", "mn": "Цолмон."},
+      {"speaker": "B", "en": "May I see your passport, please?", "mn": "Паспортоо үзүүлнэ үү?"}
+    ]
+  },
+  {
+    "id": 910,
+    "chapter": 10,
+    "category": "Зочид буудал",
+    "title": "Өрөөний асуудал хэлэх",
+    "when": "Зочид буудлын өрөөнд ямар нэгэн зүйл ажиллахгүй эсвэл асуудал гарсан үед ажилтанд хэлэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. The air conditioner isn't working.", "mn": "Уучлаарай. Агааржуулагч ажиллахгүй байна."},
+      {"speaker": "B", "en": "I'm sorry about that.", "mn": "Уучлаарай."},
+      {"speaker": "A", "en": "Could someone check it?", "mn": "Хэн нэгэн шалгаж өгч болох уу?"},
+      {"speaker": "B", "en": "Of course. We'll send someone up.", "mn": "Мэдээж. Бид хүн явуулъя."}
+    ]
+  },
+  {
+    "id": 911,
+    "chapter": 10,
+    "category": "Ресторанд",
+    "title": "Ширээ захиалах",
+    "when": "Ресторанд урьдчилж захиалга хийсэн эсвэл хийх гэж байгаа үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Do you have a reservation?", "mn": "Танд захиалга байгаа юу?"},
+      {"speaker": "B", "en": "Yes, under the name Tsolmon.", "mn": "Тийм ээ, Цолмон нэрээр."},
+      {"speaker": "A", "en": "For how many people?", "mn": "Хэдэн хүний захиалга вэ?"},
+      {"speaker": "B", "en": "For two people.", "mn": "Хоёр хүнийх."}
+    ]
+  },
+  {
+    "id": 912,
+    "chapter": 10,
+    "category": "Ресторанд",
+    "title": "Хоол захиалах",
+    "when": "Ресторанд менюгээс хоол сонгож захиалга өгөх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Are you ready to order?", "mn": "Захиалга өгөхөд бэлэн үү?"},
+      {"speaker": "B", "en": "Yes. I'll have the chicken, please.", "mn": "Тийм ээ. Тахианы махтай хоол авъя."},
+      {"speaker": "A", "en": "Would you like anything to drink?", "mn": "Уух зүйл авах уу?"},
+      {"speaker": "B", "en": "Just water, please.", "mn": "Зүгээр ус авъя."}
+    ]
+  },
+  {
+    "id": 913,
+    "chapter": 10,
+    "category": "Онгоцны буудал",
+    "title": "Check-in хийх",
+    "when": "Нисэх онгоцны буудалд нислэгийн бүртгэл хийх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Where are you flying today?", "mn": "Өнөөдөр хаашаа нисэх вэ?"},
+      {"speaker": "B", "en": "I'm flying to Tokyo.", "mn": "Би Токио руу ниснэ."},
+      {"speaker": "A", "en": "Do you have any bags to check?", "mn": "Ачаа бүртгүүлэх үү?"},
+      {"speaker": "B", "en": "Yes, I have one suitcase.", "mn": "Тийм ээ, нэг чемодантай."}
+    ]
+  },
+  {
+    "id": 914,
+    "chapter": 10,
+    "category": "Онгоцны буудал",
+    "title": "Gate асуух",
+    "when": "Онгоцны буудал дээр нислэгийнхээ хаалга буюу gate-ийг олох шаардлагатай үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. Where is Gate 12?", "mn": "Уучлаарай. 12-р gate хаана байна?"},
+      {"speaker": "B", "en": "It's on the second floor.", "mn": "Хоёрдугаар давхарт байгаа."},
+      {"speaker": "A", "en": "Is it far from here?", "mn": "Эндээс хол уу?"},
+      {"speaker": "B", "en": "No, it's just around the corner.", "mn": "Үгүй ээ, булан тойроод л байна."}
+    ]
+  },
+  {
+    "id": 915,
+    "chapter": 10,
+    "category": "Зам асуух",
+    "title": "Зам асуух",
+    "when": "Танихгүй хотод тодорхой газар руу явах замаа хүнээс асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. How do I get to the station?", "mn": "Уучлаарай. Вокзал руу яаж явах вэ?"},
+      {"speaker": "B", "en": "Go straight and turn left.", "mn": "Чигээрээ яваад зүүн тийш эргэ."},
+      {"speaker": "A", "en": "Is it far?", "mn": "Хол уу?"},
+      {"speaker": "B", "en": "About ten minutes on foot.", "mn": "Явганаар ойролцоогоор арван минут."}
+    ]
+  },
+  {
+    "id": 916,
+    "chapter": 10,
+    "category": "Зам асуух",
+    "title": "Төөрсөн үед",
+    "when": "Замдаа төөрөөд өөрийн байгаа газраа тодорхойлж, зөв чиглэл асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. I think I'm lost.", "mn": "Уучлаарай. Би төөрчихсөн бололтой."},
+      {"speaker": "B", "en": "Where are you trying to go?", "mn": "Та хаашаа явах гэж байгаа вэ?"},
+      {"speaker": "A", "en": "I'm looking for the city hall.", "mn": "Би хотын захиргааг хайж байна."},
+      {"speaker": "B", "en": "It's about five minutes from here.", "mn": "Эндээс ойролцоогоор таван минутын зайтай."}
+    ]
+  },
+  {
+    "id": 917,
+    "chapter": 10,
+    "category": "Нийтийн тээвэр",
+    "title": "Автобусны чиглэл асуух",
+    "when": "Автобусанд суухдаа зөв чиглэл эсвэл зөв буудал мөн эсэхийг шалгах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Does this bus go to the station?", "mn": "Энэ автобус вокзал руу явдаг уу?"},
+      {"speaker": "B", "en": "Yes, it does.", "mn": "Тийм ээ."},
+      {"speaker": "A", "en": "Which stop should I get off at?", "mn": "Би аль буудал дээр буух вэ?"},
+      {"speaker": "B", "en": "Get off at the next stop.", "mn": "Дараагийн буудал дээр бууна."}
+    ]
+  },
+  {
+    "id": 918,
+    "chapter": 10,
+    "category": "Ажил дээр",
+    "title": "Өглөө ажил дээр мэндлэх",
+    "when": "Ажилдаа ирээд хамт ажилладаг хүмүүстэйгээ энгийнээр мэндлэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Good morning. How are you?", "mn": "Өглөөний мэнд. Та сайн уу?"},
+      {"speaker": "B", "en": "Good morning. I'm good, thanks.", "mn": "Өглөөний мэнд. Сайн, баярлалаа."},
+      {"speaker": "A", "en": "Did you have a good weekend?", "mn": "Амралтын өдрүүдээ сайхан өнгөрөөсөн үү?"},
+      {"speaker": "B", "en": "Yes, it was great.", "mn": "Тийм ээ, сайхан байсан."}
+    ]
+  },
+  {
+    "id": 919,
+    "chapter": 10,
+    "category": "Ажил дээр",
+    "title": "Даалгаврын талаар асуух",
+    "when": "Ажлын даалгаврыг яг юу хийх ёстойгоо ойлгоогүй үед хамт ажиллагчаасаа тодруулахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Could you explain this task to me?", "mn": "Энэ даалгаврыг надад тайлбарлаж өгч болох уу?"},
+      {"speaker": "B", "en": "Sure. What part is unclear?", "mn": "Мэдээж. Аль хэсэг нь ойлгомжгүй байна?"},
+      {"speaker": "A", "en": "I'm not sure what I should do first.", "mn": "Би эхлээд юу хийх ёстойгоо сайн мэдэхгүй байна."},
+      {"speaker": "B", "en": "Let's go through it together.", "mn": "Хамтдаа нэг бүрчлэн үзье."}
+    ]
+  },
+  {
+    "id": 920,
+    "chapter": 10,
+    "category": "Ажил дээр",
+    "title": "Уулзалтын цаг товлох",
+    "when": "Хамт ажилладаг хүнтэйгээ уулзалтын өдөр, цаг тохирох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Are you free tomorrow afternoon?", "mn": "Маргааш үдээс хойш завтай юу?"},
+      {"speaker": "B", "en": "Yes. What time?", "mn": "Тийм ээ. Хэдэн цагт?"},
+      {"speaker": "A", "en": "How about two o'clock?", "mn": "Хоёр цагт ямар вэ?"},
+      {"speaker": "B", "en": "That works for me.", "mn": "Надад тохирно."}
+    ]
+  },
+  {
+    "id": 921,
+    "chapter": 10,
+    "category": "Утасны яриа",
+    "title": "Утсаар хүнтэй холбогдох",
+    "when": "Байгууллага эсвэл хүн рүү утасдаж тодорхой хүнтэй яримаар байгаа үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Hello, may I speak to Mr. Smith?", "mn": "Сайн байна уу, ноён Смиттэй ярьж болох уу?"},
+      {"speaker": "B", "en": "Who's calling, please?", "mn": "Хэн ярьж байна вэ?"},
+      {"speaker": "A", "en": "This is Tsolmon calling.", "mn": "Цолмон ярьж байна."},
+      {"speaker": "B", "en": "One moment, please.", "mn": "Түр хүлээнэ үү."}
+    ]
+  },
+  {
+    "id": 922,
+    "chapter": 10,
+    "category": "Утасны яриа",
+    "title": "Дахин залгах хүсэлт",
+    "when": "Утасны сүлжээ муу эсвэл тухайн хүн завгүй үед дараа нь дахин яримаар байгаагаа хэлэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'm sorry, I can't hear you clearly.", "mn": "Уучлаарай, таныг сайн сонсож чадахгүй байна."},
+      {"speaker": "B", "en": "The connection is bad.", "mn": "Сүлжээ муу байна."},
+      {"speaker": "A", "en": "Can I call you back later?", "mn": "Би дараа дахин залгаж болох уу?"},
+      {"speaker": "B", "en": "Sure. No problem.", "mn": "Тэгэлгүй яах вэ. Асуудалгүй."}
+    ]
+  },
+  {
+    "id": 923,
+    "chapter": 10,
+    "category": "Найзтайгаа уулзах",
+    "title": "Уулзах газар тохирох",
+    "when": "Найзтайгаа уулзахдаа хаана, хэдэн цагт уулзахаа тохирох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Where should we meet?", "mn": "Хаана уулзах вэ?"},
+      {"speaker": "B", "en": "How about the café near the station?", "mn": "Вокзалын дэргэдэх кафед ямар вэ?"},
+      {"speaker": "A", "en": "Sounds good. What time?", "mn": "Зүгээр юм байна. Хэдэн цагт?"},
+      {"speaker": "B", "en": "Let's meet at six.", "mn": "Зургаан цагт уулзъя."}
+    ]
+  },
+  {
+    "id": 924,
+    "chapter": 10,
+    "category": "Найзтайгаа уулзах",
+    "title": "Уулзалтаас хоцрох",
+    "when": "Уулзахаар тохирсон газартаа хоцрох гэж байгаа үед найздаа мэдэгдэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Where are you?", "mn": "Чи хаана байна?"},
+      {"speaker": "B", "en": "I'm on my way.", "mn": "Би явж байна."},
+      {"speaker": "A", "en": "Are you going to be late?", "mn": "Чи хоцрох уу?"},
+      {"speaker": "B", "en": "Yes, I'll be about ten minutes late.", "mn": "Тийм ээ, би арван минут орчим хоцорно."}
+    ]
+  },
+  {
+    "id": 925,
+    "chapter": 10,
+    "category": "Цаг агаар",
+    "title": "Цаг агаарын талаар ярих",
+    "when": "Танил хүнтэй яриа эхлүүлэх эсвэл өдөр тутмын энгийн яриа өрнүүлэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "It's really cold today, isn't it?", "mn": "Өнөөдөр үнэхээр хүйтэн байна, тийм ээ?"},
+      {"speaker": "B", "en": "Yes, much colder than yesterday.", "mn": "Тийм ээ, өчигдрөөс хамаагүй хүйтэн байна."},
+      {"speaker": "A", "en": "Do you think it will snow?", "mn": "Цас орох болов уу?"},
+      {"speaker": "B", "en": "Maybe. The weather forecast says it might.", "mn": "Магадгүй. Цаг агаарын мэдээгээр орж магадгүй гэсэн."}
+    ]
+  },
+  {
+    "id": 926,
+    "chapter": 10,
+    "category": "Хөрштэйгээ",
+    "title": "Шинэ хөрштэй танилцах",
+    "when": "Шинэ байр, байшин эсвэл орчинд нүүж ирээд хөрштэйгээ анх танилцах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Hi. Are you new here?", "mn": "Сайн уу. Та энд шинээр ирсэн үү?"},
+      {"speaker": "B", "en": "Yes, I just moved in.", "mn": "Тийм ээ, саяхан нүүж ирсэн."},
+      {"speaker": "A", "en": "Welcome to the neighborhood.", "mn": "Манай хороололд тавтай морил."},
+      {"speaker": "B", "en": "Thank you. Nice to meet you.", "mn": "Баярлалаа. Тантай танилцсандаа таатай байна."}
+    ]
+  },
+  {
+    "id": 927,
+    "chapter": 10,
+    "category": "Эмнэлэгт",
+    "title": "Эмчид үзүүлэх",
+    "when": "Өвдсөн үед эмнэлэгт очиж шинж тэмдгээ эмчид тайлбарлахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What brings you in today?", "mn": "Өнөөдөр ямар зовиуртай ирсэн бэ?"},
+      {"speaker": "B", "en": "I have a headache and a fever.", "mn": "Толгой өвдөж, халуурч байна."},
+      {"speaker": "A", "en": "How long have you felt this way?", "mn": "Хэр удаан ийм байдалтай байна вэ?"},
+      {"speaker": "B", "en": "Since yesterday.", "mn": "Өчигдрөөс хойш."}
+    ]
+  },
+  {
+    "id": 928,
+    "chapter": 10,
+    "category": "Эмийн сан",
+    "title": "Эм авах",
+    "when": "Эмийн санд шинж тэмдгээ хэлж, тохирох эмийн талаар асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Can I help you?", "mn": "Танд туслах уу?"},
+      {"speaker": "B", "en": "I need something for a cold.", "mn": "Ханиадны эм хэрэгтэй байна."},
+      {"speaker": "A", "en": "Do you have a fever?", "mn": "Халуурч байна уу?"},
+      {"speaker": "B", "en": "No, I don't.", "mn": "Үгүй ээ."}
+    ]
+  },
+  {
+    "id": 929,
+    "chapter": 10,
+    "category": "Банканд",
+    "title": "Банкны үйлчилгээ асуух",
+    "when": "Банканд очоод данс, шилжүүлэг зэрэг үйлчилгээний талаар ажилтнаас мэдээлэл авах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "How can I help you today?", "mn": "Өнөөдөр танд юугаар туслах вэ?"},
+      {"speaker": "B", "en": "I'd like to make a bank transfer.", "mn": "Би банкны шилжүүлэг хийх гэсэн юм."},
+      {"speaker": "A", "en": "Do you have your ID with you?", "mn": "Та иргэний үнэмлэхтэйгээ ирсэн үү?"},
+      {"speaker": "B", "en": "Yes, I have it here.", "mn": "Тийм ээ, энд байна."}
+    ]
+  },
+  {
+    "id": 930,
+    "chapter": 10,
+    "category": "Банканд",
+    "title": "Карт ажиллахгүй байх",
+    "when": "Банкны карт төлбөр хийхгүй эсвэл ажиллахгүй үед банкны ажилтанд асуудлаа тайлбарлахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What seems to be the problem?", "mn": "Ямар асуудал гарсан бэ?"},
+      {"speaker": "B", "en": "My card isn't working.", "mn": "Миний карт ажиллахгүй байна."},
+      {"speaker": "A", "en": "Did you try it more than once?", "mn": "Та нэгээс олон удаа оролдож үзсэн үү?"},
+      {"speaker": "B", "en": "Yes, but it still doesn't work.", "mn": "Тийм ээ, гэхдээ одоо ч ажиллахгүй байна."}
+    ]
+  },
+  {
+    "id": 931,
+    "chapter": 10,
+    "category": "Онлайн худалдан авалт",
+    "title": "Захиалгын талаар асуух",
+    "when": "Онлайнаар худалдаж авсан бараа хаана явж байгааг мэдэх шаардлагатай үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "How can I help you?", "mn": "Танд яаж туслах вэ?"},
+      {"speaker": "B", "en": "I'd like to check my order.", "mn": "Би захиалгаа шалгамаар байна."},
+      {"speaker": "A", "en": "Do you have your order number?", "mn": "Захиалгын дугаар байгаа юу?"},
+      {"speaker": "B", "en": "Yes, it's 45821.", "mn": "Тийм ээ, 45821."}
+    ]
+  },
+  {
+    "id": 932,
+    "chapter": 10,
+    "category": "Онлайн худалдан авалт",
+    "title": "Бараа ирээгүй тухай мэдэгдэх",
+    "when": "Онлайнаар захиалсан бараа хүлээгдэж байсан хугацаандаа ирээгүй үед худалдагчид мэдэгдэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What can I help you with?", "mn": "Танд юугаар туслах вэ?"},
+      {"speaker": "B", "en": "My order hasn't arrived yet.", "mn": "Миний захиалга одоо хүртэл ирээгүй байна."},
+      {"speaker": "A", "en": "When did you place the order?", "mn": "Та хэзээ захиалсан бэ?"},
+      {"speaker": "B", "en": "I placed it two weeks ago.", "mn": "Хоёр долоо хоногийн өмнө захиалсан."}
+    ]
+  },
+  {
+    "id": 933,
+    "chapter": 10,
+    "category": "Нислэгийн асуудал",
+    "title": "Нислэг хойшлох",
+    "when": "Нислэг хойшилсон үед нислэгийн шинэ цагийн талаар ажилтнаас мэдээлэл авахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. Has the flight been delayed?", "mn": "Уучлаарай. Нислэг хойшилсон уу?"},
+      {"speaker": "B", "en": "Yes, it's delayed by two hours.", "mn": "Тийм ээ, хоёр цагаар хойшилсон."},
+      {"speaker": "A", "en": "When will boarding start?", "mn": "Онгоцонд суулгаж эхлэх нь хэзээ вэ?"},
+      {"speaker": "B", "en": "Boarding will start at 8 p.m.", "mn": "Оройн найман цагт суулгаж эхэлнэ."}
+    ]
+  },
+  {
+    "id": 934,
+    "chapter": 10,
+    "category": "Нислэгийн асуудал",
+    "title": "Ачаа ирээгүй",
+    "when": "Нислэгийн дараа бүртгүүлсэн ачаа туузан дээр гарч ирэхгүй үед ажилтнаас тусламж хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "My luggage hasn't arrived.", "mn": "Миний ачаа ирсэнгүй."},
+      {"speaker": "B", "en": "Can I see your baggage tag?", "mn": "Ачааны шошгыг тань үзэж болох уу?"},
+      {"speaker": "A", "en": "Sure. Here it is.", "mn": "Тэгэлгүй яах вэ. Энд байна."},
+      {"speaker": "B", "en": "We'll check the system for you.", "mn": "Бид системээс шалгаад өгье."}
+    ]
+  },
+  {
+    "id": 935,
+    "chapter": 10,
+    "category": "Гааль",
+    "title": "Гаалийн асуултад хариулах",
+    "when": "Улс хилээр нэвтрэх үед гаалийн ажилтан аяллын зорилго, авч явж буй зүйлсийн талаар асуухад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What's the purpose of your visit?", "mn": "Та ямар зорилгоор ирсэн бэ?"},
+      {"speaker": "B", "en": "I'm here for a holiday.", "mn": "Би амралтаар ирсэн."},
+      {"speaker": "A", "en": "How long will you stay?", "mn": "Та хэр удаан байх вэ?"},
+      {"speaker": "B", "en": "I'll stay for one week.", "mn": "Би нэг долоо хоног байна."}
+    ]
+  },
+  {
+    "id": 936,
+    "chapter": 10,
+    "category": "Гааль",
+    "title": "Юм мэдүүлэх",
+    "when": "Хилээр нэвтрэхдээ мэдүүлэх шаардлагатай зүйл байгаа эсэхийг асуух эсвэл тайлбарлах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Do you have anything to declare?", "mn": "Мэдүүлэх зүйл байна уу?"},
+      {"speaker": "B", "en": "No, I don't.", "mn": "Үгүй ээ."},
+      {"speaker": "A", "en": "Are these all your bags?", "mn": "Эдгээр бүгд таны ачаа юу?"},
+      {"speaker": "B", "en": "Yes, they are.", "mn": "Тийм ээ."}
+    ]
+  },
+  {
+    "id": 937,
+    "chapter": 10,
+    "category": "Нийгмийн харилцаа",
+    "title": "Урилга хүлээж авах",
+    "when": "Найз эсвэл танил хүн таныг арга хэмжээ, оройн хоол зэрэгт урьсан үед зөвшөөрч хариулахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Would you like to come to dinner tonight?", "mn": "Өнөө орой оройн хоолонд хамт явах уу?"},
+      {"speaker": "B", "en": "I'd love to.", "mn": "Маш дуртайяа."},
+      {"speaker": "A", "en": "Great. Let's meet at seven.", "mn": "Гоё. Долоон цагт уулзъя."},
+      {"speaker": "B", "en": "Sounds good.", "mn": "Тэгье."}
+    ]
+  },
+  {
+    "id": 938,
+    "chapter": 10,
+    "category": "Нийгмийн харилцаа",
+    "title": "Урилгаас татгалзах",
+    "when": "Урилгыг хүлээж авах боломжгүй үед хүнийг гомдоохгүйгээр эелдгээр татгалзахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Do you want to join us tonight?", "mn": "Өнөө орой бидэнтэй хамт явах уу?"},
+      {"speaker": "B", "en": "I'd love to, but I can't tonight.", "mn": "Маш их хүсэж байна, гэхдээ өнөө орой чадахгүй."},
+      {"speaker": "A", "en": "That's okay. Maybe next time.", "mn": "Зүгээр ээ. Дараагийн удаа байж болно."},
+      {"speaker": "B", "en": "Yes, definitely.", "mn": "Тийм ээ, заавал."}
+    ]
+  },
+  {
+    "id": 939,
+    "chapter": 10,
+    "category": "Жижиг яриа",
+    "title": "Амралтын тухай ярих",
+    "when": "Ажил, сургууль эсвэл танил хүмүүстэй энгийн яриа эхлүүлэхдээ амралтын өдрийн талаар асуухад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What did you do this weekend?", "mn": "Энэ амралтын өдрүүдээр юу хийсэн бэ?"},
+      {"speaker": "B", "en": "I went hiking with my friends.", "mn": "Найзуудтайгаа ууланд алхахаар явсан."},
+      {"speaker": "A", "en": "That sounds fun.", "mn": "Сонирхолтой сонсогдож байна."},
+      {"speaker": "B", "en": "Yes, it was really nice.", "mn": "Тийм ээ, үнэхээр сайхан байсан."}
+    ]
+  },
+  {
+    "id": 940,
+    "chapter": 10,
+    "category": "Жижиг яриа",
+    "title": "Хоббигийн талаар ярих",
+    "when": "Шинэ хүнтэй танилцах эсвэл харилцаагаа ойртуулахын тулд сонирхдог зүйлсийн талаар ярилцах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What do you like to do in your free time?", "mn": "Чөлөөт цагаараа юу хийх дуртай вэ?"},
+      {"speaker": "B", "en": "I like reading and watching movies.", "mn": "Би ном унших, кино үзэх дуртай."},
+      {"speaker": "A", "en": "What kind of movies do you like?", "mn": "Ямар төрлийн кинонд дуртай вэ?"},
+      {"speaker": "B", "en": "I really like comedies.", "mn": "Би инээдмийн кинонд их дуртай."}
+    ]
+  },
+  {
+    "id": 941,
+    "chapter": 10,
+    "category": "Сургууль",
+    "title": "Багшаас асуулт асуух",
+    "when": "Хичээлийн үеэр ойлгоогүй зүйлээ багшаасаа тодруулж асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. Can I ask a question?", "mn": "Уучлаарай. Би асуулт асууж болох уу?"},
+      {"speaker": "B", "en": "Of course.", "mn": "Мэдээж."},
+      {"speaker": "A", "en": "Could you explain this again?", "mn": "Үүнийг дахин тайлбарлаж өгч болох уу?"},
+      {"speaker": "B", "en": "Sure. I'll explain it one more time.", "mn": "Мэдээж. Дахин нэг тайлбарлая."}
+    ]
+  },
+  {
+    "id": 942,
+    "chapter": 10,
+    "category": "Сургууль",
+    "title": "Хичээл хоцорсон үед",
+    "when": "Хичээлд хоцорч ирээд багшаасаа уучлалт хүсэж, ангидаа орох зөвшөөрөл авах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Sorry I'm late.", "mn": "Хоцорсонд уучлаарай."},
+      {"speaker": "B", "en": "That's okay. Come in.", "mn": "Зүгээр ээ. Ороорой."},
+      {"speaker": "A", "en": "Did I miss anything important?", "mn": "Би чухал зүйлээс хоцорсон уу?"},
+      {"speaker": "B", "en": "We just started the lesson.", "mn": "Бид дөнгөж хичээлээ эхэлсэн."}
+    ]
+  },
+  {
+    "id": 943,
+    "chapter": 10,
+    "category": "Тусламж хүсэх",
+    "title": "Танихгүй хүнээс тусламж авах",
+    "when": "Өдөр тутмын амьдралд өөрөө шийдэж чадахгүй зүйл гарч, ойр байгаа хүнээс эелдгээр тусламж хүсэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. Could you help me?", "mn": "Уучлаарай. Надад тусалж болох уу?"},
+      {"speaker": "B", "en": "Sure. What's wrong?", "mn": "Мэдээж. Яасан бэ?"},
+      {"speaker": "A", "en": "I can't open this door.", "mn": "Би энэ хаалгыг онгойлгож чадахгүй байна."},
+      {"speaker": "B", "en": "Let me help you.", "mn": "Би танд тусалъя."}
+    ]
+  },
+  {
+    "id": 944,
+    "chapter": 10,
+    "category": "Тусламж хүсэх",
+    "title": "Хүнд зүйл өргөхөд тусламж хүсэх",
+    "when": "Хүнд цүнх, хайрцаг эсвэл эд зүйл зөөхдөө өөр хүнээс тусламж хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Could you give me a hand?", "mn": "Надад тусалж болох уу?"},
+      {"speaker": "B", "en": "Sure. What do you need?", "mn": "Мэдээж. Юугаар туслах вэ?"},
+      {"speaker": "A", "en": "Could you help me carry this box?", "mn": "Энэ хайрцгийг зөөхөд тусалж болох уу?"},
+      {"speaker": "B", "en": "Of course.", "mn": "Мэдээж."}
+    ]
+  },
+  {
+    "id": 945,
+    "chapter": 10,
+    "category": "Төлбөр тооцоо",
+    "title": "Ресторанд төлбөр төлөх",
+    "when": "Ресторанд хооллож дууссаны дараа тооцоо нэхэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Could we have the bill, please?", "mn": "Тооцоо авч болох уу?"},
+      {"speaker": "B", "en": "Sure. I'll bring it right away.", "mn": "Мэдээж. Одоо авчиръя."},
+      {"speaker": "A", "en": "Can I pay by card?", "mn": "Картаар төлж болох уу?"},
+      {"speaker": "B", "en": "Yes, we accept cards.", "mn": "Тийм ээ, карт хүлээж авна."}
+    ]
+  },
+  {
+    "id": 946,
+    "chapter": 10,
+    "category": "Төлбөр тооцоо",
+    "title": "Төлбөр буруу бодогдсон",
+    "when": "Ресторан, дэлгүүр эсвэл үйлчилгээний газар төлөх дүн буруу санагдсан үед ажилтнаас шалгаж өгөхийг хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. I think there's a mistake on the bill.", "mn": "Уучлаарай. Тооцоон дээр алдаа гарсан бололтой."},
+      {"speaker": "B", "en": "Let me check it for you.", "mn": "Шалгаад өгье."},
+      {"speaker": "A", "en": "I didn't order this item.", "mn": "Би энэ зүйлийг захиалаагүй."},
+      {"speaker": "B", "en": "You're right. I'll remove it.", "mn": "Таны зөв байна. Үүнийг хасъя."}
+    ]
+  },
+  {
+    "id": 947,
+    "chapter": 10,
+    "category": "Утас ба интернет",
+    "title": "Интернет ажиллахгүй байх",
+    "when": "Гэр, зочид буудал эсвэл ажлын газрын интернет холбогдохгүй үед үйлчилгээ үзүүлэгчээс тусламж хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "The internet isn't working.", "mn": "Интернет ажиллахгүй байна."},
+      {"speaker": "B", "en": "Have you restarted the router?", "mn": "Та router-аа дахин асааж үзсэн үү?"},
+      {"speaker": "A", "en": "Yes, but it didn't help.", "mn": "Тийм ээ, гэхдээ нэмэр болсонгүй."},
+      {"speaker": "B", "en": "We'll send someone to check it.", "mn": "Бид шалгахаар хүн явуулъя."}
+    ]
+  },
+  {
+    "id": 948,
+    "chapter": 10,
+    "category": "Утас ба интернет",
+    "title": "Wi-Fi нууц үг асуух",
+    "when": "Кафе, зочид буудал, оффис зэрэг газар Wi-Fi ашиглахын тулд нууц үг асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. What's the Wi-Fi password?", "mn": "Уучлаарай. Wi-Fi-ийн нууц үг хэд вэ?"},
+      {"speaker": "B", "en": "It's written on the menu.", "mn": "Меню дээр бичсэн байгаа."},
+      {"speaker": "A", "en": "Oh, I see it. Thank you.", "mn": "Өө, харлаа. Баярлалаа."},
+      {"speaker": "B", "en": "You're welcome.", "mn": "Зүгээр ээ."}
+    ]
+  },
+  {
+    "id": 949,
+    "chapter": 10,
+    "category": "Яаралтай үед",
+    "title": "Цагдаа дуудах",
+    "when": "Ноцтой асуудал, аюултай нөхцөл байдал үүссэн үед цагдаагийн тусламж хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What's happening?", "mn": "Юу болсон бэ?"},
+      {"speaker": "B", "en": "I need help. Someone stole my bag.", "mn": "Надад тусламж хэрэгтэй байна. Хэн нэгэн миний цүнхийг хулгайлсан."},
+      {"speaker": "A", "en": "Should I call the police?", "mn": "Би цагдаа дуудах уу?"},
+      {"speaker": "B", "en": "Yes, please.", "mn": "Тийм ээ, тэгээч."}
+    ]
+  },
+  {
+    "id": 950,
+    "chapter": 10,
+    "category": "Яаралтай үед",
+    "title": "Эмнэлгийн яаралтай тусламж хүсэх",
+    "when": "Хүн гэнэт бие нь муудах, гэмтэх зэрэг яаралтай нөхцөлд тусламж дуудах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Is everything okay?", "mn": "Бүх зүйл зүгээр үү?"},
+      {"speaker": "B", "en": "No. I need medical help.", "mn": "Үгүй ээ. Надад эмнэлгийн тусламж хэрэгтэй байна."},
+      {"speaker": "A", "en": "I'll call an ambulance.", "mn": "Би түргэн тусламж дуудъя."},
+      {"speaker": "B", "en": "Thank you. Please hurry.", "mn": "Баярлалаа. Түргэлээрэй."}
+    ]
+  },
+  {
+    "id": 951,
+    "chapter": 10,
+    "category": "Өдөр тутмын яриа",
+    "title": "Өнөөдрийн төлөвлөгөө",
+    "when": "Найз, хамт ажиллагч эсвэл гэр бүлийн хүнээс өнөөдөр юу хийх гэж байгааг нь асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What are you doing today?", "mn": "Өнөөдөр юу хийх гэж байна?"},
+      {"speaker": "B", "en": "I'm working until five.", "mn": "Би таван цаг хүртэл ажиллана."},
+      {"speaker": "A", "en": "What are you doing after work?", "mn": "Ажлын дараа юу хийх вэ?"},
+      {"speaker": "B", "en": "I'm going home and cooking dinner.", "mn": "Гэртээ харьж оройн хоол хийнэ."}
+    ]
+  },
+  {
+    "id": 952,
+    "chapter": 10,
+    "category": "Өдөр тутмын яриа",
+    "title": "Өдөр тутмын ажлын тухай",
+    "when": "Хүний өдөр тутмын ажил, амьдралын хэв маягийн талаар энгийнээр асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What time do you usually start work?", "mn": "Та ихэвчлэн хэдэн цагт ажилдаа ордог вэ?"},
+      {"speaker": "B", "en": "I usually start at nine.", "mn": "Би ихэвчлэн есөн цагт ажилдаа ордог."},
+      {"speaker": "A", "en": "Do you work late?", "mn": "Та орой болтол ажилладаг уу?"},
+      {"speaker": "B", "en": "Sometimes, but not every day.", "mn": "Заримдаа, гэхдээ өдөр бүр биш."}
+    ]
+  },
+  {
+    "id": 953,
+    "chapter": 10,
+    "category": "Санал бодол",
+    "title": "Киноны талаар санал бодлоо хэлэх",
+    "when": "Найзтайгаа кино үзсэний дараа тухайн киноны талаар өөрийн бодлыг хуваалцах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What did you think of the movie?", "mn": "Кино ямар санагдсан бэ?"},
+      {"speaker": "B", "en": "I really liked it.", "mn": "Надад үнэхээр таалагдсан."},
+      {"speaker": "A", "en": "Which part did you like most?", "mn": "Аль хэсэг нь хамгийн их таалагдсан бэ?"},
+      {"speaker": "B", "en": "I liked the ending.", "mn": "Төгсгөл нь таалагдсан."}
+    ]
+  },
+  {
+    "id": 954,
+    "chapter": 10,
+    "category": "Санал бодол",
+    "title": "Санал нийлэхгүй байх",
+    "when": "Хэн нэгэнтэй санал бодол өөр байгаа үед маргалдахгүйгээр эелдгээр өөрийн байр суурийг хэлэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I think this is the best option.", "mn": "Миний бодлоор энэ хамгийн сайн сонголт."},
+      {"speaker": "B", "en": "I'm not sure I agree.", "mn": "Би үүнтэй санал нийлэх эсэхдээ эргэлзэж байна."},
+      {"speaker": "A", "en": "Why do you think so?", "mn": "Яагаад тэгж бодож байна?"},
+      {"speaker": "B", "en": "I think the other option is simpler.", "mn": "Нөгөө сонголт нь илүү энгийн гэж бодож байна."}
+    ]
+  },
+  {
+    "id": 955,
+    "chapter": 10,
+    "category": "Зочин хүлээж авах",
+    "title": "Гэртээ зочин угтах",
+    "when": "Найз эсвэл танил хүн гэрт тань ирэх үед угтаж авах, дотогш урихдаа ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Hi, come in!", "mn": "Сайн уу, ороорой!"},
+      {"speaker": "B", "en": "Thanks for having me.", "mn": "Намайг урьсанд баярлалаа."},
+      {"speaker": "A", "en": "Would you like something to drink?", "mn": "Уух зүйл авах уу?"},
+      {"speaker": "B", "en": "Water would be great, thanks.", "mn": "Ус байхад болно, баярлалаа."}
+    ]
+  },
+  {
+    "id": 956,
+    "chapter": 10,
+    "category": "Зочин хүлээж авах",
+    "title": "Зочинд юм санал болгох",
+    "when": "Гэрт ирсэн зочинд хоол, ундаа эсвэл өөр зүйл санал болгох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Would you like some coffee?", "mn": "Кофе уух уу?"},
+      {"speaker": "B", "en": "Yes, please.", "mn": "Тэгье, баярлалаа."},
+      {"speaker": "A", "en": "Do you take milk?", "mn": "Сүүтэй уух уу?"},
+      {"speaker": "B", "en": "No, black coffee is fine.", "mn": "Үгүй ээ, хар кофе байхад болно."}
+    ]
+  },
+  {
+    "id": 957,
+    "chapter": 10,
+    "category": "Өглөөний яриа",
+    "title": "Өглөөний мэнд ба төлөвлөгөө",
+    "when": "Өглөө гэр бүлийн хүн эсвэл хамт ажиллагчтайгаа тухайн өдрийн төлөвлөгөөний талаар ярихад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Good morning. Did you sleep well?", "mn": "Өглөөний мэнд. Сайхан унтав уу?"},
+      {"speaker": "B", "en": "Yes, I did. How about you?", "mn": "Тийм ээ. Харин чи?"},
+      {"speaker": "A", "en": "I slept well too.", "mn": "Би ч бас сайхан унтсан."},
+      {"speaker": "B", "en": "What are you doing today?", "mn": "Өнөөдөр юу хийх вэ?"}
+    ]
+  },
+  {
+    "id": 958,
+    "chapter": 10,
+    "category": "Оройн яриа",
+    "title": "Өдөр хэр өнгөрснийг асуух",
+    "when": "Орой гэр бүлийн хүн, найз эсвэл хамт ажиллагчтайгаа тухайн өдрийн талаар ярилцах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "How was your day?", "mn": "Өдөр чинь хэр өнгөрөв?"},
+      {"speaker": "B", "en": "It was pretty busy.", "mn": "Нэлээд завгүй байлаа."},
+      {"speaker": "A", "en": "Are you tired?", "mn": "Ядарсан уу?"},
+      {"speaker": "B", "en": "A little, but I'm okay.", "mn": "Жаахан, гэхдээ зүгээр ээ."}
+    ]
+  },
+  {
+    "id": 959,
+    "chapter": 10,
+    "category": "Хоол хийх",
+    "title": "Оройн хоол бэлдэх",
+    "when": "Гэр бүлийн хүнтэйгээ оройн хоол юу хийх талаар ярилцах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What should we have for dinner?", "mn": "Оройн хоолонд юу идэх вэ?"},
+      {"speaker": "B", "en": "How about pasta?", "mn": "Паста идэх үү?"},
+      {"speaker": "A", "en": "Sounds good. Do we have any tomatoes?", "mn": "Зүгээр юм байна. Улаан лооль байгаа юу?"},
+      {"speaker": "B", "en": "Yes, there's some in the fridge.", "mn": "Тийм ээ, хөргөгчинд байгаа."}
+    ]
+  },
+  {
+    "id": 960,
+    "chapter": 10,
+    "category": "Хоол хийх",
+    "title": "Гэр бүлийн хүнээс тусламж хүсэх",
+    "when": "Гэрт хоол хийх эсвэл гэрийн ажил хийхдээ ойр байгаа хүнээс тусламж хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Could you help me with dinner?", "mn": "Оройн хоолонд надад тусалж болох уу?"},
+      {"speaker": "B", "en": "Sure. What should I do?", "mn": "Мэдээж. Би юу хийх вэ?"},
+      {"speaker": "A", "en": "Could you cut the vegetables?", "mn": "Ногоог хэрчиж өгч болох уу?"},
+      {"speaker": "B", "en": "Sure, no problem.", "mn": "Мэдээж, асуудалгүй."}
+    ]
+  },
+  {
+    "id": 961,
+    "chapter": 10,
+    "category": "Засвар үйлчилгээ",
+    "title": "Засварчин дуудах",
+    "when": "Гэрийн ус, цахилгаан эсвэл тоног төхөөрөмжид асуудал гарч мэргэжлийн хүнээс тусламж авах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What's the problem?", "mn": "Ямар асуудал гарсан бэ?"},
+      {"speaker": "B", "en": "The sink is leaking.", "mn": "Угаалтуурын ус гоожиж байна."},
+      {"speaker": "A", "en": "When did it start?", "mn": "Хэзээнээс эхэлсэн бэ?"},
+      {"speaker": "B", "en": "It started this morning.", "mn": "Өнөө өглөөнөөс эхэлсэн."}
+    ]
+  },
+  {
+    "id": 962,
+    "chapter": 10,
+    "category": "Засвар үйлчилгээ",
+    "title": "Засварын цаг тохирох",
+    "when": "Засварчин эсвэл үйлчилгээний ажилтантай гэрт ирэх өдөр, цагийг тохирох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Can someone come tomorrow?", "mn": "Маргааш хүн ирж болох уу?"},
+      {"speaker": "B", "en": "Yes. What time is convenient for you?", "mn": "Тийм ээ. Танд хэдэн цаг тохиромжтой вэ?"},
+      {"speaker": "A", "en": "Anytime after three is fine.", "mn": "Гурван цагаас хойш хэзээ ч болно."},
+      {"speaker": "B", "en": "We'll come around four.", "mn": "Бид дөрвөн цагийн орчимд очъё."}
+    ]
+  },
+  {
+    "id": 963,
+    "chapter": 10,
+    "category": "Үсчин",
+    "title": "Үсчинд цаг авах",
+    "when": "Үсчинд очихоосоо өмнө цаг товлох эсвэл сул цаг байгаа эсэхийг асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'd like to make an appointment.", "mn": "Би цаг авах гэсэн юм."},
+      {"speaker": "B", "en": "Sure. What day would you like?", "mn": "Мэдээж. Та хэдний өдрийг хүсэж байна?"},
+      {"speaker": "A", "en": "Tomorrow, if possible.", "mn": "Боломжтой бол маргааш."},
+      {"speaker": "B", "en": "We have an opening at two.", "mn": "Хоёр цагт сул цаг байна."}
+    ]
+  },
+  {
+    "id": 964,
+    "chapter": 10,
+    "category": "Үсчин",
+    "title": "Үсээ хэрхэн засуулахыг хэлэх",
+    "when": "Үсчинд өөрийн хүссэн үсний засалтыг тайлбарлах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "How would you like your hair cut?", "mn": "Үсээ хэрхэн засуулах вэ?"},
+      {"speaker": "B", "en": "I'd like it a little shorter.", "mn": "Жаахан богино болгоё."},
+      {"speaker": "A", "en": "How much should I take off?", "mn": "Хэр их тайрах вэ?"},
+      {"speaker": "B", "en": "Just a little, please.", "mn": "Зүгээр жаахан тайраарай."}
+    ]
+  },
+  {
+    "id": 965,
+    "chapter": 10,
+    "category": "Найзтайгаа хооллох",
+    "title": "Хоол сонгох",
+    "when": "Найзтайгаа хамт хооллохдоо юу идэхээ ярилцаж сонгох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What do you feel like eating?", "mn": "Юу идмээр байна?"},
+      {"speaker": "B", "en": "I'm in the mood for something spicy.", "mn": "Би халуун ногоотой юм идмээр байна."},
+      {"speaker": "A", "en": "How about Thai food?", "mn": "Тайланд хоол идэх үү?"},
+      {"speaker": "B", "en": "That sounds great.", "mn": "Гоё санагдаж байна."}
+    ]
+  },
+  {
+    "id": 966,
+    "chapter": 10,
+    "category": "Найзтайгаа хооллох",
+    "title": "Хоол хувааж идэх",
+    "when": "Найзтайгаа нэг хоолыг хамт захиалж хувааж идэх санал гаргах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Do you want to share this?", "mn": "Энийг хувааж идэх үү?"},
+      {"speaker": "B", "en": "Sure. It looks delicious.", "mn": "Тэгье. Их амттай харагдаж байна."},
+      {"speaker": "A", "en": "I'll order one for both of us.", "mn": "Хоёуланд маань нэгийг захиалъя."},
+      {"speaker": "B", "en": "Perfect.", "mn": "Гоё."}
+    ]
+  },
+  {
+    "id": 967,
+    "chapter": 10,
+    "category": "Дэлгүүрийн буцаалт",
+    "title": "Бараа буцаах",
+    "when": "Худалдаж авсан бараа тохирохгүй эсвэл асуудалтай болсон үед дэлгүүрт буцаах хүсэлт гаргахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'd like to return this item.", "mn": "Би энэ барааг буцаах гэсэн юм."},
+      {"speaker": "B", "en": "What's the reason for the return?", "mn": "Ямар шалтгаанаар буцааж байгаа вэ?"},
+      {"speaker": "A", "en": "It doesn't fit me.", "mn": "Надад таарахгүй байна."},
+      {"speaker": "B", "en": "Do you have the receipt?", "mn": "Баримт нь байгаа юу?"}
+    ]
+  },
+  {
+    "id": 968,
+    "chapter": 10,
+    "category": "Дэлгүүрийн буцаалт",
+    "title": "Өөр хэмжээгээр солих",
+    "when": "Худалдаж авсан хувцасны хэмжээ тохирохгүй үед өөр размертайгаар солих хүсэлт гаргахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Can I exchange this for a larger size?", "mn": "Үүнийг том размертайгаар сольж болох уу?"},
+      {"speaker": "B", "en": "Sure. What size do you need?", "mn": "Мэдээж. Танд ямар размер хэрэгтэй вэ?"},
+      {"speaker": "A", "en": "I need a large.", "mn": "Надад L размер хэрэгтэй."},
+      {"speaker": "B", "en": "Let me see if we have one.", "mn": "Байгаа эсэхийг шалгаад үзье."}
+    ]
+  },
+  {
+    "id": 969,
+    "chapter": 10,
+    "category": "Аяллын төлөвлөгөө",
+    "title": "Аяллын талаар ярилцах",
+    "when": "Найз эсвэл гэр бүлийн хүнтэйгээ хамт аяллын төлөвлөгөө гаргах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Where should we go this summer?", "mn": "Энэ зун хаашаа явах вэ?"},
+      {"speaker": "B", "en": "How about Kyoto?", "mn": "Киото руу явах уу?"},
+      {"speaker": "A", "en": "I've always wanted to visit Kyoto.", "mn": "Би Киотод үргэлж очихыг хүсдэг байсан."},
+      {"speaker": "B", "en": "Then let's go there.", "mn": "Тэгвэл тийшээ явцгаая."}
+    ]
+  },
+  {
+    "id": 970,
+    "chapter": 10,
+    "category": "Аяллын төлөвлөгөө",
+    "title": "Аяллын огноо тохирох",
+    "when": "Хамт аялах хүмүүс аяллынхаа өдөр, хугацааг тохирох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "When should we leave?", "mn": "Хэзээ явах вэ?"},
+      {"speaker": "B", "en": "How about Friday morning?", "mn": "Баасан гарагийн өглөө ямар вэ?"},
+      {"speaker": "A", "en": "Friday works for me.", "mn": "Баасан гараг надад тохирно."},
+      {"speaker": "B", "en": "Great. I'll book the tickets.", "mn": "Гоё. Би тасалбаруудаа захиалъя."}
+    ]
+  },
+  {
+    "id": 971,
+    "chapter": 10,
+    "category": "Ажлын уулзалт",
+    "title": "Уулзалт эхлүүлэх",
+    "when": "Ажлын уулзалт эхлэх үед оролцогчдод мэндлээд уулзалтын зорилгыг танилцуулахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Good morning, everyone. Shall we get started?", "mn": "Өглөөний мэнд, бүгдээрээ. Эхлэх үү?"},
+      {"speaker": "B", "en": "Yes, let's start.", "mn": "Тийм ээ, эхэлье."},
+      {"speaker": "A", "en": "Today, I'd like to discuss the new project.", "mn": "Өнөөдөр шинэ төслийн талаар ярилцъя."},
+      {"speaker": "B", "en": "Sounds good.", "mn": "Тэгье."}
+    ]
+  },
+  {
+    "id": 972,
+    "chapter": 10,
+    "category": "Ажлын уулзалт",
+    "title": "Уулзалтын үеэр санал хэлэх",
+    "when": "Ажлын уулзалтын үеэр өөрийн санаа, санал эсвэл шийдлийг бусдад танилцуулах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Can I make a suggestion?", "mn": "Би нэг санал хэлж болох уу?"},
+      {"speaker": "B", "en": "Sure. Go ahead.", "mn": "Мэдээж. Хэлээрэй."},
+      {"speaker": "A", "en": "I think we should start with the website.", "mn": "Бид вэбсайтаас эхлэх хэрэгтэй гэж бодож байна."},
+      {"speaker": "B", "en": "That's a good idea.", "mn": "Сайхан санаа байна."}
+    ]
+  },
+  {
+    "id": 973,
+    "chapter": 10,
+    "category": "Имэйл",
+    "title": "Имэйлээр мэдээлэл хүсэх",
+    "when": "Ажил хэргийн имэйлээр тодорхой мэдээлэл эсвэл баримт бичиг хүсэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Could you send me the report?", "mn": "Та надад тайланг явуулж өгч болох уу?"},
+      {"speaker": "B", "en": "Sure. I'll send it this afternoon.", "mn": "Мэдээж. Өнөөдөр үдээс хойш явуулъя."},
+      {"speaker": "A", "en": "Thank you. I need it for the meeting.", "mn": "Баярлалаа. Надад уулзалтад хэрэгтэй байгаа юм."},
+      {"speaker": "B", "en": "No problem.", "mn": "Асуудалгүй."}
+    ]
+  },
+  {
+    "id": 974,
+    "chapter": 10,
+    "category": "Имэйл",
+    "title": "Имэйлд хариу өгөх",
+    "when": "Ажлын имэйл хүлээн аваад хүссэн мэдээллийг өгч, асуултад хариулах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Did you get my email?", "mn": "Миний имэйлийг авсан уу?"},
+      {"speaker": "B", "en": "Yes, I did.", "mn": "Тийм ээ, авсан."},
+      {"speaker": "A", "en": "Could you reply by tomorrow?", "mn": "Маргааш гэхэд хариу өгч болох уу?"},
+      {"speaker": "B", "en": "Yes, I'll reply by then.", "mn": "Тийм ээ, тэр хүртэл хариу өгнө."}
+    ]
+  },
+  {
+    "id": 975,
+    "chapter": 10,
+    "category": "Хэлний бэрхшээл",
+    "title": "Англиар ойлгохгүй үед",
+    "when": "Хэн нэгний хэлсэн англи үгийг ойлгоогүй үед яриаг зогсоохгүйгээр дахин тайлбарлуулахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Did you understand what I said?", "mn": "Миний хэлснийг ойлгосон уу?"},
+      {"speaker": "B", "en": "Not completely.", "mn": "Бүрэн ойлгосонгүй."},
+      {"speaker": "A", "en": "Would you like me to explain it again?", "mn": "Би дахин тайлбарлах уу?"},
+      {"speaker": "B", "en": "Yes, please. A little more slowly.", "mn": "Тийм ээ. Жаахан удаан тайлбарлаарай."}
+    ]
+  },
+  {
+    "id": 976,
+    "chapter": 10,
+    "category": "Хэлний бэрхшээл",
+    "title": "Удаан ярихыг хүсэх",
+    "when": "Нөгөө хүн хэт хурдан ярьж, ойлгоход хэцүү үед эелдгээр удаан ярихыг хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Sorry, could you speak more slowly?", "mn": "Уучлаарай, арай удаан ярьж болох уу?"},
+      {"speaker": "B", "en": "Of course. Is this better?", "mn": "Мэдээж. Одоо дээр үү?"},
+      {"speaker": "A", "en": "Yes, much better.", "mn": "Тийм ээ, хамаагүй дээр байна."},
+      {"speaker": "B", "en": "Okay. I'll speak slowly.", "mn": "За. Би удаан ярья."}
+    ]
+  },
+  {
+    "id": 977,
+    "chapter": 10,
+    "category": "Хувийн зүйлээ тайлбарлах",
+    "title": "Хаанаас ирснээ хэлэх",
+    "when": "Шинэ хүнтэй танилцахдаа өөрийн хаанаас ирснийг товч танилцуулах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Where are you from?", "mn": "Та хаанаас ирсэн бэ?"},
+      {"speaker": "B", "en": "I'm from Mongolia.", "mn": "Би Монголоос ирсэн."},
+      {"speaker": "A", "en": "Are you living here now?", "mn": "Та одоо энд амьдардаг уу?"},
+      {"speaker": "B", "en": "Yes, I live here now.", "mn": "Тийм ээ, одоо энд амьдардаг."}
+    ]
+  },
+  {
+    "id": 978,
+    "chapter": 10,
+    "category": "Хувийн зүйлээ тайлбарлах",
+    "title": "Ажлынхаа талаар ярих",
+    "when": "Шинэ хүнтэй танилцахдаа ямар ажил хийдэг тухайгаа энгийнээр тайлбарлах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What do you do?", "mn": "Та ямар ажил хийдэг вэ?"},
+      {"speaker": "B", "en": "I'm a marketer.", "mn": "Би маркетер."},
+      {"speaker": "A", "en": "Do you enjoy your work?", "mn": "Та ажилдаа дуртай юу?"},
+      {"speaker": "B", "en": "Yes, I really enjoy it.", "mn": "Тийм ээ, би ажилдаа их дуртай."}
+    ]
+  },
+  {
+    "id": 979,
+    "chapter": 10,
+    "category": "Худалдаа хийх",
+    "title": "Бэлэг сонгох",
+    "when": "Хэн нэгэнд бэлэг авахдаа дэлгүүрийн ажилтнаас тохирох зүйл санал болгохыг хүсэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'm looking for a gift for my friend.", "mn": "Би найздаа бэлэг хайж байна."},
+      {"speaker": "B", "en": "What kind of gift are you looking for?", "mn": "Ямар төрлийн бэлэг хайж байна вэ?"},
+      {"speaker": "A", "en": "Something simple and useful.", "mn": "Энгийн бөгөөд хэрэгтэй зүйл."},
+      {"speaker": "B", "en": "How about this one?", "mn": "Энийг ямар вэ?"}
+    ]
+  },
+  {
+    "id": 980,
+    "chapter": 10,
+    "category": "Худалдаа хийх",
+    "title": "Бэлэг боолгох",
+    "when": "Дэлгүүрээс авсан бараагаа бэлэг болгон өгөхөөр боолгох үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Could you gift-wrap this, please?", "mn": "Үүнийг бэлэг шиг боож өгч болох уу?"},
+      {"speaker": "B", "en": "Sure. Is it a gift?", "mn": "Мэдээж. Бэлэг юм уу?"},
+      {"speaker": "A", "en": "Yes, it's for my sister.", "mn": "Тийм ээ, эгчдээ өгөх юм."},
+      {"speaker": "B", "en": "No problem. It'll take a few minutes.", "mn": "Асуудалгүй. Хэдхэн минут болно."}
+    ]
+  },
+  {
+    "id": 981,
+    "chapter": 10,
+    "category": "Төлөвлөгөө өөрчлөх",
+    "title": "Уулзалтыг хойшлуулах",
+    "when": "Товлосон уулзалтад очих боломжгүй болсон үед уулзалтыг өөр өдөр эсвэл цагт шилжүүлэхийг хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Can we move our meeting to tomorrow?", "mn": "Бидний уулзалтыг маргааш болгож болох уу?"},
+      {"speaker": "B", "en": "Sure. What time works for you?", "mn": "Мэдээж. Танд хэдэн цаг тохирох вэ?"},
+      {"speaker": "A", "en": "How about ten in the morning?", "mn": "Өглөөний арван цагт ямар вэ?"},
+      {"speaker": "B", "en": "That works for me.", "mn": "Надад тохирно."}
+    ]
+  },
+  {
+    "id": 982,
+    "chapter": 10,
+    "category": "Төлөвлөгөө өөрчлөх",
+    "title": "Уулзалтыг цуцлах",
+    "when": "Төлөвлөсөн уулзалтыг ямар нэгэн шалтгаанаар хийх боломжгүй болсон үед эелдгээр цуцлахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'm sorry, but I need to cancel our meeting.", "mn": "Уучлаарай, би бидний уулзалтыг цуцлах хэрэгтэй боллоо."},
+      {"speaker": "B", "en": "Is everything okay?", "mn": "Бүх зүйл зүгээр үү?"},
+      {"speaker": "A", "en": "Yes, but something came up.", "mn": "Тийм ээ, гэхдээ гэнэт ажил гарчихлаа."},
+      {"speaker": "B", "en": "No problem. Let's meet another day.", "mn": "Асуудалгүй. Өөр өдөр уулзъя."}
+    ]
+  },
+  {
+    "id": 983,
+    "chapter": 10,
+    "category": "Сэтгэл санаа",
+    "title": "Ядарсан тухай ярих",
+    "when": "Өдөр хүнд өнгөрсөн эсвэл их ажилласны дараа өөрийн бие, сэтгэл санааны байдлыг хэлэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "You look tired. Are you okay?", "mn": "Чи ядарсан харагдаж байна. Зүгээр үү?"},
+      {"speaker": "B", "en": "I'm just a little tired.", "mn": "Би зүгээр ээ, жаахан ядарч байна."},
+      {"speaker": "A", "en": "You should get some rest.", "mn": "Жаахан амрах хэрэгтэй."},
+      {"speaker": "B", "en": "Yes, I think I will.", "mn": "Тийм ээ, амарсан нь дээр байх."}
+    ]
+  },
+  {
+    "id": 984,
+    "chapter": 10,
+    "category": "Сэтгэл санаа",
+    "title": "Санаа зовж байгаагаа хэлэх",
+    "when": "Ямар нэгэн асуудлаас болж санаа зовж байгаа үед ойр хүнтэйгээ мэдрэмжээ хуваалцахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "You seem worried. What's wrong?", "mn": "Чи санаа зовсон харагдаж байна. Яасан бэ?"},
+      {"speaker": "B", "en": "I'm worried about my interview tomorrow.", "mn": "Маргаашийн ярилцлагын талаар санаа зовж байна."},
+      {"speaker": "A", "en": "I'm sure you'll do well.", "mn": "Чамайг сайн хийнэ гэдэгт итгэлтэй байна."},
+      {"speaker": "B", "en": "Thanks. I hope so.", "mn": "Баярлалаа. Би ч бас тэгж найдаж байна."}
+    ]
+  },
+  {
+    "id": 985,
+    "chapter": 10,
+    "category": "Сайн мэдээ",
+    "title": "Сайн мэдээ хуваалцах",
+    "when": "Шинэ ажил, амжилт эсвэл өөрт тохиолдсон сайхан мэдээг найз эсвэл хамт ажиллагсадтайгаа хуваалцах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I have some good news!", "mn": "Надад сайхан мэдээ байна!"},
+      {"speaker": "B", "en": "Really? What happened?", "mn": "Нээрээ юу? Юу болсон бэ?"},
+      {"speaker": "A", "en": "I got the job!", "mn": "Би ажилд орчихлоо!"},
+      {"speaker": "B", "en": "Congratulations! That's great!", "mn": "Баяр хүргэе! Үнэхээр сайхан мэдээ байна!"}
+    ]
+  },
+  {
+    "id": 986,
+    "chapter": 10,
+    "category": "Сайн мэдээ",
+    "title": "Баяр хүргэх",
+    "when": "Хэн нэгэн амжилт гаргасан, шинэ ажилтай болсон эсвэл сайн мэдээ сонссон үед баяр хүргэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I passed my exam!", "mn": "Би шалгалтаа тэнцсэн!"},
+      {"speaker": "B", "en": "Congratulations!", "mn": "Баяр хүргэе!"},
+      {"speaker": "A", "en": "Thank you! I'm really happy.", "mn": "Баярлалаа! Би үнэхээр баяртай байна."},
+      {"speaker": "B", "en": "You worked hard for it.", "mn": "Чи үүний төлөө их хичээсэн шүү."}
+    ]
+  },
+  {
+    "id": 987,
+    "chapter": 10,
+    "category": "Алдаа гаргах",
+    "title": "Алдаагаа хүлээн зөвшөөрөх",
+    "when": "Ажил, сургууль эсвэл өдөр тутмын амьдралд алдаа гаргаснаа ойлгож, бусдад тайлбарлах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "There's a problem with this file.", "mn": "Энэ файлд асуудал байна."},
+      {"speaker": "B", "en": "I'm sorry. I made a mistake.", "mn": "Уучлаарай. Би алдаа гаргасан."},
+      {"speaker": "A", "en": "Can you fix it?", "mn": "Чи үүнийг засаж чадах уу?"},
+      {"speaker": "B", "en": "Yes, I'll fix it right away.", "mn": "Тийм ээ, би одоо шууд засъя."}
+    ]
+  },
+  {
+    "id": 988,
+    "chapter": 10,
+    "category": "Алдаа гаргах",
+    "title": "Уучлалт хүсэх",
+    "when": "Хэн нэгнийг хүлээлгэх, буруу зүйл хийх эсвэл төвөг учруулсан үед эелдгээр уучлалт хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'm sorry I'm late.", "mn": "Хоцорсонд уучлаарай."},
+      {"speaker": "B", "en": "That's okay. What happened?", "mn": "Зүгээр ээ. Юу болсон бэ?"},
+      {"speaker": "A", "en": "The train was delayed.", "mn": "Галт тэрэг хойшилсон."},
+      {"speaker": "B", "en": "I understand.", "mn": "Ойлголоо."}
+    ]
+  },
+  {
+    "id": 989,
+    "chapter": 10,
+    "category": "Шийдвэр гаргах",
+    "title": "Сонголтын талаар зөвлөлдөх",
+    "when": "Хоёр эсвэл хэд хэдэн сонголтын дундаас шийдвэр гаргахдаа өөр хүнээс санал авах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Which one do you think I should choose?", "mn": "Би алийг нь сонгох хэрэгтэй гэж чи бодож байна?"},
+      {"speaker": "B", "en": "I think the first one is better.", "mn": "Эхнийх нь дээр гэж бодож байна."},
+      {"speaker": "A", "en": "Why do you think so?", "mn": "Яагаад тэгж бодож байна?"},
+      {"speaker": "B", "en": "It's cheaper and easier to use.", "mn": "Илүү хямд бас хэрэглэхэд хялбар."}
+    ]
+  },
+  {
+    "id": 990,
+    "chapter": 10,
+    "category": "Шийдвэр гаргах",
+    "title": "Шийдвэрээ хэлэх",
+    "when": "Өөрийн сонголтоо эцэслэн шийдсэн үед бусдад шийдвэрээ хэлэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Have you made a decision?", "mn": "Чи шийдвэрээ гаргасан уу?"},
+      {"speaker": "B", "en": "Yes, I've decided to take the offer.", "mn": "Тийм ээ, би тэр саналыг хүлээж авахаар шийдсэн."},
+      {"speaker": "A", "en": "Are you sure?", "mn": "Чи итгэлтэй байна уу?"},
+      {"speaker": "B", "en": "Yes. I think it's the right choice.", "mn": "Тийм ээ. Энэ зөв сонголт гэж бодож байна."}
+    ]
+  },
+  {
+    "id": 991,
+    "chapter": 10,
+    "category": "Үйлчилгээний газар",
+    "title": "Дугаар хүлээх",
+    "when": "Эмнэлэг, банк, үйлчилгээний газар зэрэгт дараалал хүлээж байхдаа өөрийн ээлжийг шалгах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Excuse me. Is this the line for customer service?", "mn": "Уучлаарай. Үйлчилгээний дараалал энэ мөн үү?"},
+      {"speaker": "B", "en": "Yes, it is.", "mn": "Тийм ээ."},
+      {"speaker": "A", "en": "How long is the wait?", "mn": "Хэр удаан хүлээх бол?"},
+      {"speaker": "B", "en": "Probably about twenty minutes.", "mn": "Ойролцоогоор хорин минут байх."}
+    ]
+  },
+  {
+    "id": 992,
+    "chapter": 10,
+    "category": "Үйлчилгээний газар",
+    "title": "Үйлчилгээний цаг асуух",
+    "when": "Банк, дэлгүүр, эмнэлэг зэрэг байгууллага хэдэн цаг хүртэл ажиллахыг мэдэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What time do you close today?", "mn": "Та нар өнөөдөр хэдэн цагт хаах вэ?"},
+      {"speaker": "B", "en": "We close at eight.", "mn": "Найман цагт хаана."},
+      {"speaker": "A", "en": "Are you open on Sundays?", "mn": "Ням гарагт ажиллах уу?"},
+      {"speaker": "B", "en": "Yes, we're open from ten to six.", "mn": "Тийм ээ, аравнаас зургаа хүртэл ажиллана."}
+    ]
+  },
+  {
+    "id": 993,
+    "chapter": 10,
+    "category": "Төрийн үйлчилгээ",
+    "title": "Бичиг баримтын талаар асуух",
+    "when": "Төрийн байгууллага эсвэл албан ёсны үйлчилгээ авахдаа ямар бичиг баримт хэрэгтэйг асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What documents do I need?", "mn": "Надад ямар бичиг баримт хэрэгтэй вэ?"},
+      {"speaker": "B", "en": "You'll need your passport and this form.", "mn": "Танд паспорт болон энэ маягт хэрэгтэй."},
+      {"speaker": "A", "en": "Do I need anything else?", "mn": "Өөр зүйл хэрэгтэй юу?"},
+      {"speaker": "B", "en": "No, that's all.", "mn": "Үгүй ээ, тэр хоёр байхад болно."}
+    ]
+  },
+  {
+    "id": 994,
+    "chapter": 10,
+    "category": "Төрийн үйлчилгээ",
+    "title": "Маягт бөглөх",
+    "when": "Албан ёсны маягт бөглөхдөө ойлгоогүй хэсгээ ажилтнаас тодруулах үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'm not sure how to fill out this form.", "mn": "Энэ маягтыг хэрхэн бөглөхөө сайн мэдэхгүй байна."},
+      {"speaker": "B", "en": "I can help you with it.", "mn": "Би танд тусалж болно."},
+      {"speaker": "A", "en": "What should I write here?", "mn": "Би энд юу бичих вэ?"},
+      {"speaker": "B", "en": "Write your current address here.", "mn": "Энд одоо байгаа хаягаа бичнэ."}
+    ]
+  },
+  {
+    "id": 995,
+    "chapter": 10,
+    "category": "Нисэх буудлаас явах",
+    "title": "Онгоцны буудлаас хот руу явах",
+    "when": "Онгоцны буудалд буусны дараа хотын төв рүү хэрхэн явах талаар асуух үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "What's the best way to get to the city center?", "mn": "Хотын төв рүү явах хамгийн тохиромжтой арга юу вэ?"},
+      {"speaker": "B", "en": "You can take the train.", "mn": "Та галт тэргээр явж болно."},
+      {"speaker": "A", "en": "How long does it take?", "mn": "Хэр удаан явах вэ?"},
+      {"speaker": "B", "en": "About thirty minutes.", "mn": "Ойролцоогоор гучин минут."}
+    ]
+  },
+  {
+    "id": 996,
+    "chapter": 10,
+    "category": "Нисэх буудлаас явах",
+    "title": "Тээврийн хэрэгслийн үнэ асуух",
+    "when": "Онгоцны буудлаас такси, автобус эсвэл өөр тээврийн хэрэгслээр явахдаа үнийг нь урьдчилж мэдэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "How much is a taxi to downtown?", "mn": "Хотын төв хүртэл такси хэд вэ?"},
+      {"speaker": "B", "en": "It's usually around forty dollars.", "mn": "Ихэвчлэн дөчин доллар орчим байдаг."},
+      {"speaker": "A", "en": "Is that a fixed price?", "mn": "Тогтсон үнэ юу?"},
+      {"speaker": "B", "en": "Yes, it is.", "mn": "Тийм ээ."}
+    ]
+  },
+  {
+    "id": 997,
+    "chapter": 10,
+    "category": "Шинэ орчинд",
+    "title": "Ойр орчмын газар асуух",
+    "when": "Шинэ хот, дүүрэг эсвэл хороололд очоод ойрхон дэлгүүр, ресторан зэрэг хэрэгтэй газраа хайх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Is there a supermarket nearby?", "mn": "Ойрхон супермаркет байгаа юу?"},
+      {"speaker": "B", "en": "Yes, there's one across the street.", "mn": "Тийм ээ, замын нөгөө талд нэг байгаа."},
+      {"speaker": "A", "en": "Is it open now?", "mn": "Одоо ажиллаж байгаа юу?"},
+      {"speaker": "B", "en": "Yes, it's open until ten.", "mn": "Тийм ээ, арван цаг хүртэл ажиллана."}
+    ]
+  },
+  {
+    "id": 998,
+    "chapter": 10,
+    "category": "Шинэ орчинд",
+    "title": "Орон нутгийн хүнээс зөвлөгөө авах",
+    "when": "Тухайн газрыг сайн мэдэхгүй үед нутгийн хүнээс хаашаа очвол тохиромжтой талаар зөвлөгөө авахад ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I'm new here. Is there anywhere you recommend?", "mn": "Би энд шинээр ирсэн юм. Та ямар нэг газар санал болгох уу?"},
+      {"speaker": "B", "en": "You should visit the park nearby.", "mn": "Ойролцоох цэцэрлэгт хүрээлэнд очоорой."},
+      {"speaker": "A", "en": "Is it nice?", "mn": "Сайхан газар уу?"},
+      {"speaker": "B", "en": "Yes, especially in the evening.", "mn": "Тийм ээ, ялангуяа орой их сайхан."}
+    ]
+  },
+  {
+    "id": 999,
+    "chapter": 10,
+    "category": "Өдөр тутмын асуудал",
+    "title": "Түлхүүрээ мартсан",
+    "when": "Гэр, өрөө эсвэл байрныхаа түлхүүрийг мартсан үед гэр бүлийн хүн, хөрш эсвэл үйлчилгээний ажилтнаас тусламж хүсэхэд ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "Oh no, I forgot my keys.", "mn": "Өө үгүй, би түлхүүрээ мартчихжээ."},
+      {"speaker": "B", "en": "Are you locked out?", "mn": "Чи гадаа түгжигдчихсэн үү?"},
+      {"speaker": "A", "en": "Yes. Can you help me?", "mn": "Тийм ээ. Надад тусалж болох уу?"},
+      {"speaker": "B", "en": "Sure. Let's see what we can do.", "mn": "Мэдээж. Яаж болохыг үзье."}
+    ]
+  },
+  {
+    "id": 1000,
+    "chapter": 10,
+    "category": "Өдөр тутмын асуудал",
+    "title": "Өнөөдрийн яриаг дуусгах",
+    "when": "Яриагаа эелдгээр дуусгаад дараа дахин уулзах эсвэл ярилцахаа хэлэх үед ашиглана.",
+    "dialogue": [
+      {"speaker": "A", "en": "I should get going.", "mn": "Би одоо явах хэрэгтэй боллоо."},
+      {"speaker": "B", "en": "Okay. It was nice talking to you.", "mn": "За. Чамтай ярилцах сайхан байлаа."},
+      {"speaker": "A", "en": "It was nice talking to you too.", "mn": "Надтай ч бас сайхан ярилцлаа."},
+      {"speaker": "B", "en": "See you next time.", "mn": "Дараа уулзъя."}
+    ]
+  }
+]
