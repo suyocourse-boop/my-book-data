@@ -1,0 +1,902 @@
+[
+  {
+    "id": 501,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "I'd like to make a reservation.",
+    "mn": "Би ширээ захиалмаар байна.",
+    "when": "Ресторан руу урьдчилан утасдах, мессеж бичих эсвэл очиж ширээ захиалахдаа хэрэглэнэ. Хэдэн хүн, хэдэн цагт гэдгээ дараа нь хэлж болно.",
+    "context": "A: How can I help you?\nB: I'd like to make a reservation."
+  },
+  {
+    "id": 502,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "I'd like to reserve a table for two.",
+    "mn": "Би хоёр хүний ширээ захиалмаар байна.",
+    "when": "Хоёр хүн ресторанд хооллох гэж байгаа бөгөөд урьдчилан ширээ захиалах үед хэрэглэнэ. Two гэдэг тоог өөрийн хүмүүсийн тоогоор сольж болно.",
+    "context": "A: How many people?\nB: I'd like to reserve a table for two."
+  },
+  {
+    "id": 503,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Do you have a table for two?",
+    "mn": "Хоёр хүний сул ширээ байна уу?",
+    "when": "Урьдчилан захиалга хийлгүйгээр ресторанд очоод шууд суух боломжтой эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Do you have a table for two?\nB: Yes, right this way."
+  },
+  {
+    "id": 504,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Do you have a table available?",
+    "mn": "Сул ширээ байна уу?",
+    "when": "Ресторанд ороод тухайн үед сул ширээ байгаа эсэхийг ерөнхийд нь асуухад хэрэглэнэ.",
+    "context": "A: Do you have a table available?\nB: Yes, we do."
+  },
+  {
+    "id": 505,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "I have a reservation.",
+    "mn": "Би захиалгатай.",
+    "when": "Ресторанд очоод ажилтанд өмнө нь ширээ захиалсан гэдгээ хэлэхэд хэрэглэнэ. Нэрээ хэлэхийн өмнө ашиглаж болно.",
+    "context": "A: Welcome. Do you have a reservation?\nB: Yes, I have a reservation."
+  },
+  {
+    "id": 506,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "The reservation is under Tsolmon.",
+    "mn": "Захиалга Цолмонгийн нэр дээр байгаа.",
+    "when": "Ресторан захиалгын нэрийг асуухад өөрийн нэрээр захиалсан гэдгээ хэлэхэд хэрэглэнэ. Under гэдэг нь энд захиалга тухайн хүний нэр дээр бүртгэгдсэнийг хэлнэ.",
+    "context": "A: What name is the reservation under?\nB: The reservation is under Tsolmon."
+  },
+  {
+    "id": 507,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "We have a reservation for seven.",
+    "mn": "Бид долоон хүний захиалгатай.",
+    "when": "Олон хүнтэйгээр ресторанд очоод хэдэн хүний захиалга хийснээ хэлэхэд хэрэглэнэ.",
+    "context": "A: How many people?\nB: We have a reservation for seven."
+  },
+  {
+    "id": 508,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Can we sit outside?",
+    "mn": "Бид гадаа сууж болох уу?",
+    "when": "Ресторан дотор биш гадаах талбайд суухыг хүсэж байгаа үед хэрэглэнэ. Цаг агаар, рестораны боломжийг харгалзан ажилтан хариулна.",
+    "context": "A: Can we sit outside?\nB: Sure, follow me."
+  },
+  {
+    "id": 509,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Can we sit by the window?",
+    "mn": "Бид цонхны дэргэд сууж болох уу?",
+    "when": "Цонхны дэргэдэх ширээнд суухыг хүсэж байгаа үед хэрэглэнэ. Сул ширээ байгаа эсэхээс хамаарч ресторан зөвшөөрч болно.",
+    "context": "A: Can we sit by the window?\nB: Yes, this table is available."
+  },
+  {
+    "id": 510,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "How long do we have to wait?",
+    "mn": "Бид хэр удаан хүлээх вэ?",
+    "when": "Сул ширээ байхгүй үед ширээ сулрах хүртэл ойролцоогоор хэдэн минут хүлээхийг асуухад хэрэглэнэ.",
+    "context": "A: How long do we have to wait?\nB: About 20 minutes."
+  },
+  {
+    "id": 511,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Can we wait here?",
+    "mn": "Бид энд хүлээж болох уу?",
+    "when": "Ширээ сулрахыг хүлээж байхдаа хаана хүлээхээ мэдэхгүй үед ажилтнаас асуухад хэрэглэнэ.",
+    "context": "A: Can we wait here?\nB: Yes, please wait over there."
+  },
+  {
+    "id": 512,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "A table for three, please.",
+    "mn": "Гурван хүний ширээ өгнө үү.",
+    "when": "Захиалгагүйгээр ресторанд ороод хэдэн хүний ширээ хэрэгтэйгээ товч хэлэхэд хэрэглэнэ.",
+    "context": "A: How many people?\nB: A table for three, please."
+  },
+  {
+    "id": 513,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Can we sit here?",
+    "mn": "Бид энд сууж болох уу?",
+    "when": "Сул харагдаж байгаа ширээнд шууд суухаасаа өмнө тухайн ширээ сул эсэхийг ажилтнаас асуухад хэрэглэнэ.",
+    "context": "A: Can we sit here?\nB: Yes, of course."
+  },
+  {
+    "id": 514,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Is this table free?",
+    "mn": "Энэ ширээ сул уу?",
+    "when": "Ресторанд сул мэт харагдаж байгаа ширээ өөр хүнд захиалагдсан эсэхийг мэдэхгүй үед хэрэглэнэ.",
+    "context": "A: Is this table free?\nB: Sorry, it's reserved."
+  },
+  {
+    "id": 515,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Can we move to another table?",
+    "mn": "Бид өөр ширээ рүү шилжиж болох уу?",
+    "when": "Сонгосон ширээ таалагдахгүй, хэт чимээтэй эсвэл өөр шалтгаанаар өөр ширээнд суух хүсэлтэй үед эелдгээр хүсэлт гаргахад хэрэглэнэ.",
+    "context": "A: Can we move to another table?\nB: Let me check."
+  },
+  {
+    "id": 516,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Could we have a high chair?",
+    "mn": "Хүүхдийн өндөр сандал өгч болох уу?",
+    "when": "Бага насны хүүхэдтэй ресторанд ороод хүүхдийн зориулалтын өндөр сандал хэрэгтэй үед ажилтнаас хүсэхэд хэрэглэнэ.",
+    "context": "A: Could we have a high chair?\nB: Of course."
+  },
+  {
+    "id": 517,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Could we have a quieter table?",
+    "mn": "Бид арай нам гүм ширээнд сууж болох уу?",
+    "when": "Ресторан дотор дуу чимээ ихтэй байгаа бөгөөд ярилцахад тохиромжтой нам гүм газар хүсэж байгаа үед хэрэглэнэ.",
+    "context": "A: Could we have a quieter table?\nB: Yes, there's one in the back."
+  },
+  {
+    "id": 518,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "We're ready to order.",
+    "mn": "Бид захиалгаа өгөхөд бэлэн боллоо.",
+    "when": "Менюгээ үзэж дуусаад хоол, ундааныхаа захиалгыг өгөхөд бэлэн болсон үед зөөгчид хэлнэ.",
+    "context": "A: Are you ready to order?\nB: Yes, we're ready to order."
+  },
+  {
+    "id": 519,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "We'll sit here.",
+    "mn": "Бид энд сууя.",
+    "when": "Ажилтан хэд хэдэн ширээ санал болгосны дараа аль ширээг сонгосноо хэлэхэд хэрэглэнэ.",
+    "context": "A: You can choose any table.\nB: We'll sit here."
+  },
+  {
+    "id": 520,
+    "chapter": 6,
+    "category": "Ширээ захиалах & Орж суух",
+    "en": "Thank you for waiting.",
+    "mn": "Хүлээж өгсөнд баярлалаа.",
+    "when": "Ширээ сулрахыг хүлээсний дараа ажилтан таныг суулгах үед талархлаа илэрхийлэхэд хэрэглэнэ.",
+    "context": "A: Thank you for waiting.\nB: Thank you."
+  },
+  {
+    "id": 521,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Can I see the menu, please?",
+    "mn": "Менюгээ харж болох уу?",
+    "when": "Ресторанд суусны дараа хоолны сонголтоо харахын тулд меню хүсэхэд хэрэглэнэ.",
+    "context": "A: Can I see the menu, please?\nB: Sure, here you are."
+  },
+  {
+    "id": 522,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Do you have an English menu?",
+    "mn": "Англи хэл дээрх меню байна уу?",
+    "when": "Меню нь тухайн нутгийн хэл дээр байгаа бөгөөд англи хувилбарыг хүсэж байгаа үед хэрэглэнэ.",
+    "context": "A: Do you have an English menu?\nB: Yes, we do."
+  },
+  {
+    "id": 523,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What's today's special?",
+    "mn": "Өнөөдрийн тусгай хоол юу вэ?",
+    "when": "Тухайн өдөр ресторан онцгой санал болгож байгаа хоол байгаа эсэх, юу болохыг асуухад хэрэглэнэ.",
+    "context": "A: What's today's special?\nB: Today's special is grilled salmon."
+  },
+  {
+    "id": 524,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What do you recommend?",
+    "mn": "Та юу санал болгох вэ?",
+    "when": "Менюгээс юу сонгохоо мэдэхгүй үед зөөгчөөс рестораны хамгийн сайн эсвэл түгээмэл хоолыг санал болгохыг хүсэхэд хэрэглэнэ.",
+    "context": "A: What do you recommend?\nB: I recommend the steak."
+  },
+  {
+    "id": 525,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What's the most popular dish?",
+    "mn": "Хамгийн их захиалдаг хоол нь аль вэ?",
+    "when": "Тус рестораны үйлчлүүлэгчид хамгийн их сонгодог хоолыг мэдэхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: What's the most popular dish?\nB: The chicken curry is very popular."
+  },
+  {
+    "id": 526,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What is this dish?",
+    "mn": "Энэ ямар хоол вэ?",
+    "when": "Меню дээрх хоолны нэрийг мэдэж байгаа ч яг ямар хоол болохыг ойлгохгүй үед тайлбарлуулахад хэрэглэнэ.",
+    "context": "A: What is this dish?\nB: It's a traditional noodle dish."
+  },
+  {
+    "id": 527,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What does it come with?",
+    "mn": "Үүнтэй хамт юу дагалдаж ирдэг вэ?",
+    "when": "Үндсэн хоолыг захиалахдаа хачир, салат, соус эсвэл бусад зүйл хамт ордог эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: What does it come with?\nB: It comes with rice and salad."
+  },
+  {
+    "id": 528,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Is this spicy?",
+    "mn": "Энэ халуун ногоотой юу?",
+    "when": "Хоол халуун ногоотой эсэхийг мэдэхийг хүсэхэд хэрэглэнэ. Халуун амт иддэггүй хүмүүст захиалга өгөхийн өмнө хэрэгтэй.",
+    "context": "A: Is this spicy?\nB: Yes, it's quite spicy."
+  },
+  {
+    "id": 529,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Is this sweet?",
+    "mn": "Энэ чихэрлэг үү?",
+    "when": "Амт нь чихэрлэг эсэхийг захиалахаасаа өмнө асуухад хэрэглэнэ. Ялангуяа амттанд тохиромжтой.",
+    "context": "A: Is this sweet?\nB: Yes, it's very sweet."
+  },
+  {
+    "id": 530,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Is this a large portion?",
+    "mn": "Энэ их хэмжээний порц уу?",
+    "when": "Хоолны хэмжээ хэр их болохыг мэдэхийг хүсэхэд хэрэглэнэ. Хоёр хүн хувааж идэх эсвэл ганцаараа идэх эсэхээ шийдэхэд тусална.",
+    "context": "A: Is this a large portion?\nB: Yes, it's enough for two people."
+  },
+  {
+    "id": 531,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Do you have vegetarian options?",
+    "mn": "Цагаан хоолны сонголт байна уу?",
+    "when": "Махгүй хоол идэхийг хүсэж байгаа үед ресторан ямар сонголттойг асуухад хэрэглэнэ.",
+    "context": "A: Do you have vegetarian options?\nB: Yes, we have several."
+  },
+  {
+    "id": 532,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Do you have anything light?",
+    "mn": "Хөнгөн хоол байна уу?",
+    "when": "Хэт хүнд, тос ихтэй хоол биш хөнгөн зүйл идэхийг хүсэж байгаа үед зөөгчөөс санал авахад хэрэглэнэ.",
+    "context": "A: Do you have anything light?\nB: Try the vegetable soup."
+  },
+  {
+    "id": 533,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What's good here?",
+    "mn": "Энд ямар хоол нь гоё вэ?",
+    "when": "Тухайн рестораны сайн хоолыг энгийн, өдөр тутмын хэллэгээр асуухад хэрэглэнэ.",
+    "context": "A: What's good here?\nB: The seafood pasta is great."
+  },
+  {
+    "id": 534,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Can you recommend something for me?",
+    "mn": "Надад ямар нэгэн хоол санал болгож болох уу?",
+    "when": "Менюгээс сонголт хийхэд эргэлзэж байгаа үед өөрийн амт, хүсэлд тохирох хоол санал болгохыг зөөгчөөс хүсэхэд хэрэглэнэ.",
+    "context": "A: Can you recommend something for me?\nB: Try the grilled chicken."
+  },
+  {
+    "id": 535,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What's the difference between these two?",
+    "mn": "Энэ хоёрын ялгаа юу вэ?",
+    "when": "Хоёр ижил төстэй хоолны аль нэгийг сонгохдоо найрлага, хэмжээ эсвэл амтын ялгааг мэдэхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: What's the difference between these two?\nB: One is spicy and the other isn't."
+  },
+  {
+    "id": 536,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Is there a set menu?",
+    "mn": "Комбо буюу багц меню байна уу?",
+    "when": "Хоол, ундаа эсвэл хачир хамт орсон багц сонголт байгаа эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is there a set menu?\nB: Yes, we have a lunch set."
+  },
+  {
+    "id": 537,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "What comes with the set?",
+    "mn": "Энэ багцад юу юу ордог вэ?",
+    "when": "Set menu буюу багц хоол сонгохдоо багцад ямар хоол, ундаа эсвэл хачир орсныг асуухад хэрэглэнэ.",
+    "context": "A: What comes with the set?\nB: It comes with soup and a drink."
+  },
+  {
+    "id": 538,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Can I see the drinks menu?",
+    "mn": "Ундааны меню харж болох уу?",
+    "when": "Хоолноос гадна ямар ундаа захиалж болохыг харахыг хүсэхэд хэрэглэнэ.",
+    "context": "A: Can I see the drinks menu?\nB: Sure, here you are."
+  },
+  {
+    "id": 539,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Do you have a kids' menu?",
+    "mn": "Хүүхдийн меню байна уу?",
+    "when": "Хүүхэдтэй ресторанд ороод хүүхдэд зориулсан тусгай хоолны сонголт байгаа эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Do you have a kids' menu?\nB: Yes, here it is."
+  },
+  {
+    "id": 540,
+    "chapter": 6,
+    "category": "Меню асуух & Зөвлөгөө авах",
+    "en": "Can I have some more time?",
+    "mn": "Би жаахан дахиад бодож болох уу?",
+    "when": "Менюгээс сонголтоо хараахан хийж дуусаагүй бөгөөд зөөгч захиалга авах гэж ирсэн үед бага зэрэг хугацаа хүсэхэд хэрэглэнэ.",
+    "context": "A: Are you ready to order?\nB: Can I have some more time?"
+  },
+  {
+    "id": 541,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "I'd like to order.",
+    "mn": "Би захиалга өгмөөр байна.",
+    "when": "Хоол, ундааныхаа сонголтыг хийж дуусаад зөөгчид захиалгаа эхлүүлэхдээ хэрэглэнэ.",
+    "context": "A: Are you ready to order?\nB: Yes, I'd like to order."
+  },
+  {
+    "id": 542,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "I'd like the chicken, please.",
+    "mn": "Би тахианы хоол авъя.",
+    "when": "Менюгээс сонгосон хоолоо захиалахдаа хоолны нэрийг хэлэхэд хэрэглэнэ. Chicken гэдэг хэсгийг өөрийн сонгосон хоолоор сольж болно.",
+    "context": "A: What would you like?\nB: I'd like the chicken, please."
+  },
+  {
+    "id": 543,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "I'll have the steak.",
+    "mn": "Би стейк авъя.",
+    "when": "Хоолны сонголтоо тодорхой болгосны дараа тухайн хоолыг авах хүсэлтэйгээ хэлэхэд хэрэглэнэ.",
+    "context": "A: What would you like?\nB: I'll have the steak."
+  },
+  {
+    "id": 544,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "I'll have this one.",
+    "mn": "Би энийг авъя.",
+    "when": "Меню дээрх тодорхой хоолыг зааж, нэрийг нь хэлэх шаардлагагүйгээр захиалах үед хэрэглэнэ.",
+    "context": "A: What would you like?\nB: I'll have this one."
+  },
+  {
+    "id": 545,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I get a coffee?",
+    "mn": "Надад кофе өгч болох уу?",
+    "when": "Ресторанд кофе эсвэл өөр ундаа захиалахдаа эелдэг, өдөр тутмын байдлаар хүсэлт гаргахад хэрэглэнэ.",
+    "context": "A: Would you like anything to drink?\nB: Can I get a coffee?"
+  },
+  {
+    "id": 546,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "I'd like a glass of water.",
+    "mn": "Надад нэг аяга ус өгнө үү.",
+    "when": "Ресторанд ус захиалах эсвэл ус хүсэхэд хэрэглэнэ. Glass гэдэг нь аяга эсвэл хундага хэмжээний усыг хэлнэ.",
+    "context": "A: What would you like to drink?\nB: I'd like a glass of water."
+  },
+  {
+    "id": 547,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "I'd like some coffee, please.",
+    "mn": "Надад кофе өгнө үү.",
+    "when": "Кофе захиалахдаа эелдгээр хэлэхэд хэрэглэнэ. Хэмжээ эсвэл төрлийг дараа нь тодруулж болно.",
+    "context": "A: What would you like?\nB: I'd like some coffee, please."
+  },
+  {
+    "id": 548,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I have a beer?",
+    "mn": "Нэг пиво авч болох уу?",
+    "when": "Ресторан эсвэл зөвшөөрөгдсөн орчинд пиво захиалахдаа хэрэглэнэ. Насны болон тухайн газрын дүрэм үйлчилнэ.",
+    "context": "A: What would you like to drink?\nB: Can I have a beer?"
+  },
+  {
+    "id": 549,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "I'll have the same.",
+    "mn": "Би бас адилханыг авъя.",
+    "when": "Хамт хооллож байгаа хүн ямар нэгэн хоол, ундаа захиалсныг сонсоод яг адилхан зүйл авахыг хүсэхэд хэрэглэнэ.",
+    "context": "A: I'll have the pasta.\nB: I'll have the same."
+  },
+  {
+    "id": 550,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "That's all for now.",
+    "mn": "Одоохондоо ингээд болно.",
+    "when": "Захиалах зүйлээ хэлж дуусаад нэмж зүйл авахгүй гэдгээ зөөгчид хэлэхэд хэрэглэнэ.",
+    "context": "A: Anything else?\nB: That's all for now."
+  },
+  {
+    "id": 551,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I change the side dish?",
+    "mn": "Хачраа сольж болох уу?",
+    "when": "Хоолтой хамт ирэх хачир таалагдахгүй эсвэл өөр хачир авахыг хүсэж байгаа үед захиалга өгөхдөө асууна.",
+    "context": "A: It comes with fries.\nB: Can I change the side dish?"
+  },
+  {
+    "id": 552,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I have it without onions?",
+    "mn": "Сонгино хийлгүйгээр авч болох уу?",
+    "when": "Сонгино иддэггүй эсвэл хоолондоо сонгино оруулахыг хүсэхгүй үед захиалгаа тусгайлан өөрчлөхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: Can I have it without onions?\nB: Sure."
+  },
+  {
+    "id": 553,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can you make it less spicy?",
+    "mn": "Арай бага халуун ногоотой болгож болох уу?",
+    "when": "Хоолыг халуун ногоо багатайгаар бэлтгүүлэхийг хүсэж байгаа үед захиалга өгөхдөө хэрэглэнэ.",
+    "context": "A: Can you make it less spicy?\nB: Yes, we can."
+  },
+  {
+    "id": 554,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can you make it more spicy?",
+    "mn": "Арай илүү халуун ногоотой болгож болох уу?",
+    "when": "Халуун ногоотой хоолонд дуртай бөгөөд ердийнхөөс нь арай халуун болгохыг хүсэж байгаа үед хэрэглэнэ.",
+    "context": "A: Can you make it more spicy?\nB: Sure."
+  },
+  {
+    "id": 555,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I get this to go?",
+    "mn": "Үүнийг авч явах савлагаатай болгож болох уу?",
+    "when": "Ресторанд хооллож дуусгаагүй хоолоо эсвэл захиалсан хоолоо авч явахыг хүсэхэд хэрэглэнэ.",
+    "context": "A: Can I get this to go?\nB: Of course."
+  },
+  {
+    "id": 556,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I order this without the sauce?",
+    "mn": "Үүнийг соусгүйгээр авч болох уу?",
+    "when": "Хоолны соусыг идэхийг хүсэхгүй байгаа үед захиалга өгөхдөө соусгүйгээр бэлтгэх боломжтой эсэхийг асууна.",
+    "context": "A: Can I order this without the sauce?\nB: Yes, that's fine."
+  },
+  {
+    "id": 557,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I have extra sauce?",
+    "mn": "Нэмэлт соус авч болох уу?",
+    "when": "Хоолонд ердийн хэмжээнээс илүү соус хэрэгтэй үед захиалга өгөхдөө нэмэлтээр хүсэхэд хэрэглэнэ.",
+    "context": "A: Can I have extra sauce?\nB: Sure."
+  },
+  {
+    "id": 558,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Can I have some extra rice?",
+    "mn": "Нэмэлт будаа авч болох уу?",
+    "when": "Хоолтой хамт ирэх будаанаас нэмээд авахыг хүсэж байгаа үед хэрэглэнэ. Нэмэлт төлбөртэй эсэхийг ресторан шийднэ.",
+    "context": "A: Can I have some extra rice?\nB: Yes, for an extra charge."
+  },
+  {
+    "id": 559,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Could we have some more water?",
+    "mn": "Бидэнд ус нэмж өгч болох уу?",
+    "when": "Ширээн дээрх ус дууссан эсвэл дахин ус авах шаардлагатай үед зөөгчөөс хүсэхэд хэрэглэнэ.",
+    "context": "A: Could we have some more water?\nB: Certainly."
+  },
+  {
+    "id": 560,
+    "chapter": 6,
+    "category": "Захиалга өгөх",
+    "en": "Could we have some bread?",
+    "mn": "Бидэнд талх өгч болох уу?",
+    "when": "Хоолны өмнө эсвэл хоолтой хамт талх хүсэж байгаа үед хэрэглэнэ.",
+    "context": "A: Could we have some bread?\nB: Sure."
+  },
+  {
+    "id": 561,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Does this contain nuts?",
+    "mn": "Энэ хоолонд самар ордог уу?",
+    "when": "Самрын харшилтай хүн хоол захиалахдаа тухайн хоолонд самар эсвэл самрын төрлийн найрлага байгаа эсэхийг заавал асуухад хэрэглэнэ.",
+    "context": "A: Does this contain nuts?\nB: No, it doesn't."
+  },
+  {
+    "id": 562,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "I'm allergic to nuts.",
+    "mn": "Би самрын харшилтай.",
+    "when": "Ресторан дахь ажилтанд өөрийн харшлын талаар урьдчилан мэдэгдэхэд хэрэглэнэ. Ноцтой харшлын үед хоолны найрлага болон бэлтгэлийн талаар илүү тодорхой асуух хэрэгтэй.",
+    "context": "A: Does this contain nuts?\nB: I'm allergic to nuts."
+  },
+  {
+    "id": 563,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "I'm allergic to seafood.",
+    "mn": "Би далайн гаралтай хүнсний харшилтай.",
+    "when": "Далайн гаралтай хүнс идэж болохгүй харшилтайгаа ресторан ажилтанд мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: Do you have any allergies?\nB: I'm allergic to seafood."
+  },
+  {
+    "id": 564,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "I'm allergic to dairy.",
+    "mn": "Би сүүн бүтээгдэхүүний харшилтай.",
+    "when": "Сүү, сүүн бүтээгдэхүүн хэрэглэж болохгүй харшилтай хүн хоол захиалахын өмнө ажилтанд мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: Do you have any allergies?\nB: I'm allergic to dairy."
+  },
+  {
+    "id": 565,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Does this contain milk?",
+    "mn": "Энэ хоолонд сүү ордог уу?",
+    "when": "Сүү орсон эсэхийг хоол захиалахаасаа өмнө шалгах үед хэрэглэнэ. Харшил болон хоолны дэглэмийн шалтгаанаар асууж болно.",
+    "context": "A: Does this contain milk?\nB: Yes, it does."
+  },
+  {
+    "id": 566,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Does this contain eggs?",
+    "mn": "Энэ хоолонд өндөг ордог уу?",
+    "when": "Өндөг иддэггүй эсвэл өндөгний харшилтай үед тухайн хоолны найрлагыг шалгахын тулд хэрэглэнэ.",
+    "context": "A: Does this contain eggs?\nB: No, it doesn't."
+  },
+  {
+    "id": 567,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Is there any meat in this?",
+    "mn": "Энэ хоолонд мах ордог уу?",
+    "when": "Махгүй хоол идэхийг хүсэж байгаа үед тухайн хоолонд ямар нэгэн мах орсон эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is there any meat in this?\nB: No, it's vegetarian."
+  },
+  {
+    "id": 568,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Does this contain pork?",
+    "mn": "Энэ хоолонд гахайн мах ордог уу?",
+    "when": "Гахайн мах иддэггүй эсвэл тодорхой шалтгаанаар хэрэглэхээс зайлсхийдэг үед хоолны найрлагыг шалгахад хэрэглэнэ.",
+    "context": "A: Does this contain pork?\nB: No, it doesn't."
+  },
+  {
+    "id": 569,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Is this vegetarian?",
+    "mn": "Энэ цагаан хоол мөн үү?",
+    "when": "Мах болон бусад амьтны гаралтай найрлага агуулаагүй хоол мөн эсэхийг тодруулахад хэрэглэнэ. Ресторан бүр vegetarian гэсэн ойлголтыг өөрөөр тайлбарлаж болох тул шаардлагатай бол найрлагыг нэмж асууна.",
+    "context": "A: Is this vegetarian?\nB: Yes, it is."
+  },
+  {
+    "id": 570,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Is this vegan?",
+    "mn": "Энэ веган хоол мөн үү?",
+    "when": "Мах, загас, өндөг, сүү зэрэг амьтны гаралтай бүтээгдэхүүн хэрэглэхгүй хоол мөн эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is this vegan?\nB: Yes, it's completely vegan."
+  },
+  {
+    "id": 571,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "What are the ingredients?",
+    "mn": "Ямар найрлагатай вэ?",
+    "when": "Хоолонд яг ямар орц орсныг мэдэхийг хүсэхэд хэрэглэнэ. Харшилтай эсвэл тодорхой хүнс хэрэглэхгүй үед ялангуяа чухал.",
+    "context": "A: What are the ingredients?\nB: Chicken, vegetables, and rice."
+  },
+  {
+    "id": 572,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "What kind of meat is this?",
+    "mn": "Энэ ямар төрлийн мах вэ?",
+    "when": "Хоолонд орсон махны төрлийг мэдэхгүй үед үхэр, тахиа, гахай зэрэг яг ямар мах болохыг асуухад хэрэглэнэ.",
+    "context": "A: What kind of meat is this?\nB: It's beef."
+  },
+  {
+    "id": 573,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Is there fish sauce in this?",
+    "mn": "Энэ хоолонд загасны соус ордог уу?",
+    "when": "Загасны соус хэрэглэж болохгүй эсвэл найрлагыг нь мэдэх шаардлагатай үед хоол захиалахын өмнө асууна.",
+    "context": "A: Is there fish sauce in this?\nB: Yes, there is."
+  },
+  {
+    "id": 574,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Is this gluten-free?",
+    "mn": "Энэ цавуулаггүй юу?",
+    "when": "Цавуулаг хэрэглэхээс зайлсхийдэг хүн хоолонд gluten буюу цавуулаг агуулагдсан эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is this gluten-free?\nB: Yes, it is."
+  },
+  {
+    "id": 575,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Can you make this without dairy?",
+    "mn": "Үүнийг сүүн бүтээгдэхүүнгүйгээр хийж болох уу?",
+    "when": "Сүүн бүтээгдэхүүн хэрэглэдэггүй хүн тухайн хоолыг өөрчилж бэлтгэх боломжтой эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Can you make this without dairy?\nB: Yes, we can."
+  },
+  {
+    "id": 576,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Can you make this without meat?",
+    "mn": "Үүнийг махгүйгээр хийж болох уу?",
+    "when": "Меню дээрх хоолыг махгүй хувилбараар авахыг хүсэж байгаа үед ресторан өөрчлөх боломжтой эсэхийг асууна.",
+    "context": "A: Can you make this without meat?\nB: Yes, that's possible."
+  },
+  {
+    "id": 577,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Is this cooked with butter?",
+    "mn": "Энийг цөцгийн тосоор хийдэг үү?",
+    "when": "Хоол хийхдээ butter буюу цөцгийн тос хэрэглэдэг эсэхийг мэдэх шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Is this cooked with butter?\nB: Yes, it is."
+  },
+  {
+    "id": 578,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Is there any sugar in this?",
+    "mn": "Энэ хоолонд элсэн чихэр ордог уу?",
+    "when": "Элсэн чихэр хэрэглэхээс зайлсхийж байгаа үед хоол, соус эсвэл ундаанд сахар орсон эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Is there any sugar in this?\nB: Yes, a little."
+  },
+  {
+    "id": 579,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "Could you check the ingredients?",
+    "mn": "Та найрлагыг нь шалгаж өгч болох уу?",
+    "when": "Хоолны найрлагыг ажилтан өөрөө гал тогооноос шалгах шаардлагатай үед эелдгээр хүсэлт гаргахад хэрэглэнэ.",
+    "context": "A: I'm allergic to nuts.\nB: Could you check the ingredients?"
+  },
+  {
+    "id": 580,
+    "chapter": 6,
+    "category": "Хоолны талаар асуух (Харшил, найрлага)",
+    "en": "I have a food allergy.",
+    "mn": "Би хүнсний харшилтай.",
+    "when": "Ресторанд хоол захиалахын өмнө өөрийн харшилтайг ажилтанд ерөнхийд нь мэдэгдэхэд хэрэглэнэ. Дараа нь яг ямар хүнсэнд харшилтайгаа хэлнэ.",
+    "context": "A: Do you have any allergies?\nB: Yes, I have a food allergy."
+  },
+  {
+    "id": 581,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Could we have the bill, please?",
+    "mn": "Тооцоогоо авч болох уу?",
+    "when": "Хооллож дуусаад төлбөрөө хийхийн тулд тооцоо авчрахыг зөөгчөөс хүсэхэд хэрэглэнэ.",
+    "context": "A: Could we have the bill, please?\nB: Certainly."
+  },
+  {
+    "id": 582,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Can I have the check, please?",
+    "mn": "Тооцоогоо авч болох уу?",
+    "when": "Ялангуяа Америк англи хэлэнд рестораны төлбөрийн баримт буюу нийт тооцоог хүсэхэд хэрэглэдэг түгээмэл хэллэг.",
+    "context": "A: Can I have the check, please?\nB: Sure."
+  },
+  {
+    "id": 583,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Can we pay separately?",
+    "mn": "Бид тус тусдаа төлж болох уу?",
+    "when": "Хамт хооллосон хүмүүс нийт төлбөрөө нэг хүн биш, хүн бүр өөрийн хэсгийг тусад нь төлөхийг хүсэхэд хэрэглэнэ.",
+    "context": "A: Can we pay separately?\nB: Yes, that's fine."
+  },
+  {
+    "id": 584,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Can we split the bill?",
+    "mn": "Тооцоогоо хувааж төлж болох уу?",
+    "when": "Нийт төлбөрийг хоёр буюу түүнээс олон хүн хоорондоо хувааж төлөх үед хэрэглэнэ.",
+    "context": "A: Can we split the bill?\nB: Sure."
+  },
+  {
+    "id": 585,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Can I pay by card?",
+    "mn": "Би картаар төлж болох уу?",
+    "when": "Рестораны төлбөрийг бэлэн мөнгөөр биш картаар төлөх боломжтой эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Can I pay by card?\nB: Yes, we accept cards."
+  },
+  {
+    "id": 586,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Do you accept credit cards?",
+    "mn": "Та нар кредит карт хүлээж авдаг уу?",
+    "when": "Ресторан кредит картаар төлбөр авах боломжтой эсэхийг тодруулахад хэрэглэнэ.",
+    "context": "A: Do you accept credit cards?\nB: Yes, we do."
+  },
+  {
+    "id": 587,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Can I pay in cash?",
+    "mn": "Бэлэн мөнгөөр төлж болох уу?",
+    "when": "Картаар биш бэлэн мөнгөөр төлөх боломжтой эсэхийг асуухад хэрэглэнэ.",
+    "context": "A: Can I pay in cash?\nB: Yes, that's fine."
+  },
+  {
+    "id": 588,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Is service included?",
+    "mn": "Үйлчилгээний төлбөр багтсан уу?",
+    "when": "Нийт тооцоонд үйлчилгээний хураамж аль хэдийн орсон эсэхийг асуухад хэрэглэнэ. Улс орон болон ресторанаас хамааран service charge өөр байж болно.",
+    "context": "A: Is service included?\nB: Yes, it's included."
+  },
+  {
+    "id": 589,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Is the tip included?",
+    "mn": "Гар цайлгах мөнгө багтсан уу?",
+    "when": "Нийт тооцоонд tip буюу гар цайлгах мөнгө орсон эсэхийг асуухад хэрэглэнэ. Tip өгөх соёл улс орон бүрт өөр байдаг.",
+    "context": "A: Is the tip included?\nB: No, it isn't."
+  },
+  {
+    "id": 590,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Keep the change.",
+    "mn": "Хариултыг өөртөө үлдээгээрэй.",
+    "when": "Бэлэн мөнгөөр төлсний дараа буцааж өгөх мөнгөө зөөгчид үлдээх үед хэрэглэнэ. Тухайн орны tip-ийн соёлыг харгалзах нь зөв.",
+    "context": "A: Here's your change.\nB: Keep the change."
+  },
+  {
+    "id": 591,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Can I get a receipt?",
+    "mn": "Баримт авч болох уу?",
+    "when": "Төлбөр хийсний дараа төлбөрийн баримт авах шаардлагатай үед зөөгч эсвэл кассчнаас хүсэхэд хэрэглэнэ.",
+    "context": "A: Can I get a receipt?\nB: Sure."
+  },
+  {
+    "id": 592,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "The bill seems wrong.",
+    "mn": "Тооцоо буруу юм шиг байна.",
+    "when": "Тооцоон дээр захиалаагүй зүйл эсвэл буруу дүн байгааг анзаарсан үед шууд буруутгалгүйгээр шалгуулахад хэрэглэнэ.",
+    "context": "A: The bill seems wrong.\nB: Let me check it for you."
+  },
+  {
+    "id": 593,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "I didn't order this.",
+    "mn": "Би үүнийг захиалаагүй.",
+    "when": "Тооцоонд өөрийн захиалаагүй хоол, ундаа орсон байвал ажилтанд мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: Is everything correct?\nB: I didn't order this."
+  },
+  {
+    "id": 594,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "This charge is not mine.",
+    "mn": "Энэ төлбөр минийх биш.",
+    "when": "Тооцоонд өөрт хамаарахгүй төлбөр орсон гэж үзэж байгаа үед ажилтнаас шалгуулахад хэрэглэнэ.",
+    "context": "A: Is there a problem?\nB: This charge is not mine."
+  },
+  {
+    "id": 595,
+    "chapter": 6,
+    "category": "Төлбөр тооцоо",
+    "en": "Could you check the bill again?",
+    "mn": "Та тооцоог дахин шалгаж өгч болох уу?",
+    "when": "Тооцооны дүн эсвэл зүйлсийн талаар эргэлзэж байгаа үед ажилтнаас дахин шалгахыг эелдгээр хүсэхэд хэрэглэнэ.",
+    "context": "A: Could you check the bill again?\nB: Of course."
+  },
+  {
+    "id": 596,
+    "chapter": 6,
+    "category": "Асуудал гарвал (Хоол хөрсөн, буруу ирсэн)",
+    "en": "Excuse me, there's a problem with my food.",
+    "mn": "Уучлаарай, миний хоолонд асуудал байна.",
+    "when": "Хоол захиалсантай адилгүй, хэт хүйтэн эсвэл өөр асуудалтай ирсэн үед зөөгчийн анхаарлыг татаж асуудлаа хэлэхэд хэрэглэнэ.",
+    "context": "A: Is everything okay?\nB: Excuse me, there's a problem with my food."
+  },
+  {
+    "id": 597,
+    "chapter": 6,
+    "category": "Асуудал гарвал (Хоол хөрсөн, буруу ирсэн)",
+    "en": "My food is cold.",
+    "mn": "Миний хоол хүйтэн байна.",
+    "when": "Халуун байх ёстой хоол хэт хөрсөн байдлаар ирсэн үед зөөгчид асуудлыг шууд ойлгуулахад хэрэглэнэ.",
+    "context": "A: Is there a problem?\nB: My food is cold."
+  },
+  {
+    "id": 598,
+    "chapter": 6,
+    "category": "Асуудал гарвал (Хоол хөрсөн, буруу ирсэн)",
+    "en": "This isn't what I ordered.",
+    "mn": "Энэ миний захиалсан зүйл биш байна.",
+    "when": "Зөөгч таны захиалсан хоолноос өөр хоол авчирсан үед алдааг тайлбарлахад хэрэглэнэ.",
+    "context": "A: Here is your pasta.\nB: Sorry, this isn't what I ordered."
+  },
+  {
+    "id": 599,
+    "chapter": 6,
+    "category": "Асуудал гарвал (Хоол хөрсөн, буруу ирсэн)",
+    "en": "I ordered this without onions.",
+    "mn": "Би үүнийг сонгиногүй захиалсан.",
+    "when": "Тусгай хүсэлтээр сонгино хийхгүй байхыг хүссэн боловч хоолонд сонгино орсон үед захиалгынхаа нөхцөлийг тайлбарлахад хэрэглэнэ.",
+    "context": "A: Is everything okay?\nB: I ordered this without onions."
+  },
+  {
+    "id": 600,
+    "chapter": 6,
+    "category": "Асуудал гарвал (Хоол хөрсөн, буруу ирсэн)",
+    "en": "Could you replace it, please?",
+    "mn": "Үүнийг сольж өгч болох уу?",
+    "when": "Буруу хоол ирсэн, хэт хүйтэн болсон эсвэл захиалгын шаардлага хангаагүй үед шинэ хоолоор сольж өгөхийг эелдгээр хүсэхэд хэрэглэнэ.",
+    "context": "A: This isn't what I ordered.\nB: I'm sorry. Could you replace it, please?"
+  }
+]
