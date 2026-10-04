@@ -1,0 +1,902 @@
+[
+  {
+    "id": 201,
+    "chapter": 3,
+    "category": "What",
+    "en": "What is this?",
+    "mn": "Энэ юу вэ?",
+    "when": "Нэрийг нь мэдэхгүй зүйлээ зааж асуухдаа хэрэглэнэ. Шинэ зүйл, төхөөрөмж, хоол, бичиг баримт зэрэг ямар ч зүйл дээр хэрэглэж болно.",
+    "context": "A: What is this?\nB: It's a key."
+  },
+  {
+    "id": 202,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's that?",
+    "mn": "Тэр юу вэ?",
+    "when": "Өөрөөсөө арай хол байгаа зүйл юу болохыг асуухдаа хэрэглэнэ. Хараад танихгүй зүйлээ зааж асуух энгийн хэллэг.",
+    "context": "A: What's that?\nB: That's my new bag."
+  },
+  {
+    "id": 203,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's this called?",
+    "mn": "Үүнийг юу гэж нэрлэдэг вэ?",
+    "when": "Тухайн зүйл англиар эсвэл ерөнхийдөө ямар нэртэй болохыг мэдэхийг хүсэхдээ хэрэглэнэ. Шинэ зүйл сурах үед маш хэрэгтэй.",
+    "context": "A: What's this called?\nB: It's called a charger."
+  },
+  {
+    "id": 204,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's your name?",
+    "mn": "Таны нэр хэн бэ?",
+    "when": "Шинээр танилцаж байгаа хүнээс нэрийг нь асуухдаа хэрэглэнэ. Албан бус болон өдөр тутмын харилцаанд өргөн хэрэглэгддэг.",
+    "context": "A: What's your name?\nB: My name is Anna."
+  },
+  {
+    "id": 205,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's your phone number?",
+    "mn": "Таны утасны дугаар хэд вэ?",
+    "when": "Хэн нэгэнтэй утсаар холбоо барихын тулд дугаарыг нь асуухдаа хэрэглэнэ. Шинээр танилцах, үйлчилгээ бүртгүүлэх үед хэрэглэж болно.",
+    "context": "A: What's your phone number?\nB: It's 080-1234-5678."
+  },
+  {
+    "id": 206,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's your email address?",
+    "mn": "Таны имэйл хаяг юу вэ?",
+    "when": "Хүнд имэйл илгээх, холбоо барихын тулд цахим шуудангийн хаягийг нь асуухдаа хэрэглэнэ.",
+    "context": "A: What's your email address?\nB: It's anna@example.com."
+  },
+  {
+    "id": 207,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's your job?",
+    "mn": "Та ямар ажил хийдэг вэ?",
+    "when": "Шинээр танилцсан хүнээс ямар ажил эрхэлдэгийг нь асуухдаа хэрэглэнэ. Хүний мэргэжил, ажлын талаар энгийн яриа эхлүүлэхэд тохиромжтой.",
+    "context": "A: What's your job?\nB: I'm a teacher."
+  },
+  {
+    "id": 208,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's your address?",
+    "mn": "Таны хаяг юу вэ?",
+    "when": "Хүргэлт, бүртгэл, албан бичиг зэрэгт хэрэгтэй хүний оршин суугаа хаягийг асуухдаа хэрэглэнэ.",
+    "context": "A: What's your address?\nB: It's 10 Green Street."
+  },
+  {
+    "id": 209,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's the problem?",
+    "mn": "Ямар асуудал байна вэ?",
+    "when": "Хүн асуудалтай, ямар нэг зүйл буруу болсон мэт харагдах үед юу болсныг тодруулахдаа хэрэглэнэ. Ажил, гэр, үйлчилгээний газар зэрэг олон нөхцөлд ашиглана.",
+    "context": "A: You don't look well.\nB: What's the problem?\nA: I'm not feeling well."
+  },
+  {
+    "id": 210,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's wrong?",
+    "mn": "Юу болсон бэ? / Юу нь болохгүй байна?",
+    "when": "Хэн нэгэн сэтгэлээр унасан, өвдсөн эсвэл ямар нэгэн зүйл буруу болсон үед шалтгааныг нь асуухдаа хэрэглэнэ.",
+    "context": "A: You look worried.\nB: What's wrong?\nA: I lost my phone."
+  },
+  {
+    "id": 211,
+    "chapter": 3,
+    "category": "What",
+    "en": "What happened?",
+    "mn": "Юу болсон бэ?",
+    "when": "Ямар нэгэн үйл явдал, асуудал аль хэдийн болсон бөгөөд юу болсныг мэдэхгүй үед асууна. Осол, маргаан, гэнэтийн нөхцөлд түгээмэл.",
+    "context": "A: What happened?\nB: I dropped my phone."
+  },
+  {
+    "id": 212,
+    "chapter": 3,
+    "category": "What",
+    "en": "What are you doing?",
+    "mn": "Чи юу хийж байна вэ?",
+    "when": "Хэн нэгэн яг одоо юу хийж байгааг асуухдаа хэрэглэнэ. Утсаар ярих, гэртээ байх, ажил дээр байх зэрэг өдөр тутмын нөхцөлд маш түгээмэл.",
+    "context": "A: What are you doing?\nB: I'm making dinner."
+  },
+  {
+    "id": 213,
+    "chapter": 3,
+    "category": "What",
+    "en": "What are you looking for?",
+    "mn": "Чи юу хайж байна вэ?",
+    "when": "Хэн нэгэн ямар нэгэн зүйл хайж байгаа харагдах үед юу хайж байгааг нь асууна. Дэлгүүр болон гэрийн нөхцөлд хэрэглэж болно.",
+    "context": "A: What are you looking for?\nB: I'm looking for my keys."
+  },
+  {
+    "id": 214,
+    "chapter": 3,
+    "category": "What",
+    "en": "What do you want?",
+    "mn": "Чи юу хүсэж байна вэ?",
+    "when": "Хүн яг юу хүсэж байгааг шууд асуухдаа хэрэглэнэ. Ойр дотны хүмүүстэй хэрэглэхэд тохиромжтой боловч танихгүй хүнд хэлэхдээ өнгө аясаа анхаараарай.",
+    "context": "A: What do you want to eat?\nB: I want noodles."
+  },
+  {
+    "id": 215,
+    "chapter": 3,
+    "category": "What",
+    "en": "What do you need?",
+    "mn": "Чамд юу хэрэгтэй вэ?",
+    "when": "Хүнд ямар зүйл хэрэгтэй байгааг асуухдаа хэрэглэнэ. Туслах, дэлгүүрээс юм авч өгөх, ажил хийх үед ашигтай.",
+    "context": "A: I'm going to the store.\nB: What do you need?\nA: I need some milk."
+  },
+  {
+    "id": 216,
+    "chapter": 3,
+    "category": "What",
+    "en": "What do you like?",
+    "mn": "Чи юунд дуртай вэ?",
+    "when": "Хүний сонирхол, дуртай зүйлсийг мэдэхийн тулд асууна. Шинэ хүнтэй танилцах үед яриа эхлүүлэхэд тохиромжтой.",
+    "context": "A: What do you like?\nB: I like music."
+  },
+  {
+    "id": 217,
+    "chapter": 3,
+    "category": "What",
+    "en": "What do you think?",
+    "mn": "Чи юу гэж бодож байна вэ?",
+    "when": "Ямар нэгэн санаа, төлөвлөгөө, шийдвэрийн талаар нөгөө хүний бодлыг асуухдаа хэрэглэнэ.",
+    "context": "A: I want to buy this car. What do you think?\nB: I think it's a good choice."
+  },
+  {
+    "id": 218,
+    "chapter": 3,
+    "category": "What",
+    "en": "What do you mean?",
+    "mn": "Чи юу гэсэн үг вэ?",
+    "when": "Нөгөө хүний хэлсэн зүйл бүрэн ойлгомжгүй эсвэл өөр утгатай байж болох үед тодруулж асууна. Ярианы утгыг ойлгоход маш хэрэгтэй.",
+    "context": "A: We need to change the plan.\nB: What do you mean?\nA: We need to start earlier."
+  },
+  {
+    "id": 219,
+    "chapter": 3,
+    "category": "What",
+    "en": "What do you do?",
+    "mn": "Та ямар ажил хийдэг вэ?",
+    "when": "Шинээр танилцсан хүнээс ажил, мэргэжлийг нь асуухдаа хэрэглэнэ. Өдөр тутмын англи хэлэнд маш түгээмэл.",
+    "context": "A: What do you do?\nB: I'm a designer."
+  },
+  {
+    "id": 220,
+    "chapter": 3,
+    "category": "What",
+    "en": "What happened to you?",
+    "mn": "Чамд юу тохиолдсон бэ?",
+    "when": "Хэн нэгэн гэмтсэн, өөрчлөгдсөн эсвэл ердийнхөөсөө өөр харагдаж байвал юу болсныг асууна.",
+    "context": "A: You look tired. What happened to you?\nB: I didn't sleep well."
+  },
+  {
+    "id": 221,
+    "chapter": 3,
+    "category": "What",
+    "en": "What time is it?",
+    "mn": "Хэдэн цаг болж байна вэ?",
+    "when": "Одоогийн цагийг мэдэхгүй үед асууна. Уулзалт, ажил, сургууль, галт тэрэг зэрэг цагтай холбоотой бүх нөхцөлд хэрэглэж болно.",
+    "context": "A: What time is it?\nB: It's three thirty."
+  },
+  {
+    "id": 222,
+    "chapter": 3,
+    "category": "What",
+    "en": "What day is it?",
+    "mn": "Өнөөдөр хэд дэх өдөр вэ?",
+    "when": "Долоо хоногийн ямар өдөр болсныг мэдэхгүй үед асууна. Ажил, уулзалт, хичээлийн өдрөө шалгахад хэрэглэж болно.",
+    "context": "A: What day is it?\nB: It's Monday."
+  },
+  {
+    "id": 223,
+    "chapter": 3,
+    "category": "What",
+    "en": "What date is it?",
+    "mn": "Өнөөдөр хэдний өдөр вэ?",
+    "when": "Сарын хэдний өдөр болохыг асуухдаа хэрэглэнэ. Захиалга, уулзалт, бичиг баримт зэрэгт огноо шалгахад хэрэгтэй.",
+    "context": "A: What date is it?\nB: It's October fourth."
+  },
+  {
+    "id": 224,
+    "chapter": 3,
+    "category": "What",
+    "en": "What should I do?",
+    "mn": "Би яах ёстой вэ?",
+    "when": "Ямар нэгэн нөхцөлд дараагийн алхмаа мэдэхгүй үед зөвлөгөө эсвэл заавар хүсэхдээ хэрэглэнэ.",
+    "context": "A: I don't know what to do.\nB: What should I do?\nA: You should call the office."
+  },
+  {
+    "id": 225,
+    "chapter": 3,
+    "category": "What",
+    "en": "What can I do?",
+    "mn": "Би юу хийж чадах вэ?",
+    "when": "Асуудлыг шийдэхэд өөрийн зүгээс ямар тусламж үзүүлж болохыг асуухдаа хэрэглэнэ. Мөн боломжийнхоо талаар асуухад ашиглана.",
+    "context": "A: We have a problem.\nB: What can I do?\nA: Can you call him?"
+  },
+  {
+    "id": 226,
+    "chapter": 3,
+    "category": "What",
+    "en": "What do you need me to do?",
+    "mn": "Надаар юу хийлгэх хэрэгтэй вэ?",
+    "when": "Ажил эсвэл тодорхой нөхцөлд өөрөөс тань яг ямар зүйл хийхийг хүсэж байгааг тодруулахдаа хэрэглэнэ.",
+    "context": "A: We need some help.\nB: What do you need me to do?\nA: Please send this email."
+  },
+  {
+    "id": 227,
+    "chapter": 3,
+    "category": "What",
+    "en": "What kind of food do you like?",
+    "mn": "Чи ямар төрлийн хоолонд дуртай вэ?",
+    "when": "Хэн нэгний хоолны сонголтыг мэдэхдээ хэрэглэнэ. Хамт хооллох газар сонгох үед ялангуяа хэрэгтэй.",
+    "context": "A: What kind of food do you like?\nB: I like Japanese food."
+  },
+  {
+    "id": 228,
+    "chapter": 3,
+    "category": "What",
+    "en": "What kind of music do you like?",
+    "mn": "Чи ямар төрлийн хөгжимд дуртай вэ?",
+    "when": "Хүний хөгжмийн сонирхлыг асуухдаа хэрэглэнэ. Шинэ хүнтэй танилцах, чөлөөт яриа хийх үед ашиглаж болно.",
+    "context": "A: What kind of music do you like?\nB: I like pop music."
+  },
+  {
+    "id": 229,
+    "chapter": 3,
+    "category": "What",
+    "en": "What size do you need?",
+    "mn": "Танд ямар размер хэрэгтэй вэ?",
+    "when": "Хувцас, гутал зэрэг бараа авах үед хүний хэрэгтэй хэмжээг асуухдаа хэрэглэнэ. Дэлгүүрийн ажилтан хэрэглэгчээс асууж болно.",
+    "context": "A: What size do you need?\nB: I need a medium."
+  },
+  {
+    "id": 230,
+    "chapter": 3,
+    "category": "What",
+    "en": "What color do you want?",
+    "mn": "Та ямар өнгө хүсэж байна вэ?",
+    "when": "Хэд хэдэн өнгөний сонголт байгаа үед хүний хүссэн өнгийг тодруулахдаа хэрэглэнэ. Хувцас, эд зүйл сонгох үед түгээмэл.",
+    "context": "A: What color do you want?\nB: I'd like black."
+  },
+  {
+    "id": 231,
+    "chapter": 3,
+    "category": "What",
+    "en": "What happened here?",
+    "mn": "Энд юу болсон бэ?",
+    "when": "Тодорхой газар ямар нэгэн ер бусын зүйл болсон харагдах үед юу болсныг асууна.",
+    "context": "A: What happened here?\nB: There was an accident."
+  },
+  {
+    "id": 232,
+    "chapter": 3,
+    "category": "What",
+    "en": "What are you talking about?",
+    "mn": "Чи юу яриад байгаа юм бэ?",
+    "when": "Нөгөө хүний ярьж байгаа зүйл ойлгомжгүй эсвэл таны ойлгосноос өөр байвал тодруулахдаа хэрэглэнэ. Өнгө аясаас шалтгаалаад гайхсан эсвэл бага зэрэг бухимдсан сонсогдож болно.",
+    "context": "A: You already agreed to it.\nB: What are you talking about?\nA: We discussed it yesterday."
+  },
+  {
+    "id": 233,
+    "chapter": 3,
+    "category": "What",
+    "en": "What else?",
+    "mn": "Өөр юу вэ? / Өөр юу байна?",
+    "when": "Нөгөө хүн хэлсэн зүйлээс гадна өөр зүйл байгаа эсэхийг асуухдаа хэрэглэнэ. Захиалга, төлөвлөгөө, хэрэгтэй зүйлсийг тодруулахад тохиромжтой.",
+    "context": "A: We need milk and bread.\nB: What else?\nA: That's all."
+  },
+  {
+    "id": 234,
+    "chapter": 3,
+    "category": "What",
+    "en": "What about you?",
+    "mn": "Харин чи? / Таны хувьд ямар вэ?",
+    "when": "Өөрийнхөө тухай хэлсний дараа нөгөө хүнийхийг асуухдаа хэрэглэнэ. Яриаг хоёр талтай үргэлжлүүлэх хамгийн хэрэгтэй хэллэгүүдийн нэг.",
+    "context": "A: I like coffee. What about you?\nB: I like tea."
+  },
+  {
+    "id": 235,
+    "chapter": 3,
+    "category": "What",
+    "en": "What's your plan?",
+    "mn": "Чиний төлөвлөгөө юу вэ?",
+    "when": "Хүн ойрын хугацаанд юу хийх гэж байгааг асуухдаа хэрэглэнэ. Амралтын өдөр, орой, аялал болон ажилтай холбоотой ярианд ашиглаж болно.",
+    "context": "A: What's your plan for today?\nB: I'm going to the city."
+  },
+  {
+    "id": 236,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where are you?",
+    "mn": "Чи хаана байна вэ?",
+    "when": "Хэн нэгэн одоо хаана байгааг асуухдаа хэрэглэнэ. Уулзах гэж байгаа, утсаар ярьж байгаа эсвэл хүнийг хайж байгаа үед маш түгээмэл.",
+    "context": "A: Where are you?\nB: I'm at the station."
+  },
+  {
+    "id": 237,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where are you going?",
+    "mn": "Чи хаашаа явж байна вэ?",
+    "when": "Хэн нэгэн хөдөлж явах гэж байхад хаашаа явж байгааг нь асууна. Гэр, ажил, дэлгүүр зэрэг өдөр тутмын нөхцөлд хэрэглэнэ.",
+    "context": "A: Where are you going?\nB: I'm going to the store."
+  },
+  {
+    "id": 238,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where do you live?",
+    "mn": "Та хаана амьдардаг вэ?",
+    "when": "Хүний амьдардаг газар, хот эсвэл оршин суугаа газрыг асуухдаа хэрэглэнэ. Шинээр танилцсан хүнтэй ярилцах үед түгээмэл.",
+    "context": "A: Where do you live?\nB: I live in Nagoya."
+  },
+  {
+    "id": 239,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where do you work?",
+    "mn": "Та хаана ажилладаг вэ?",
+    "when": "Хүний ажилладаг газар, байгууллага эсвэл хотыг асуухдаа хэрэглэнэ. Мэргэжлийн талаар танилцах ярианд ашиглана.",
+    "context": "A: Where do you work?\nB: I work at a hotel."
+  },
+  {
+    "id": 240,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is it?",
+    "mn": "Энэ хаана байна вэ?",
+    "when": "Тодорхой зүйл хаана байгааг асуухдаа хэрэглэнэ. Нэрлэсэн зүйлээ дахин давтах шаардлагагүй үед маш энгийнээр асууж болно.",
+    "context": "A: Where is my bag?\nB: It's by the door."
+  },
+  {
+    "id": 241,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the bathroom?",
+    "mn": "Угаалгын өрөө хаана байна вэ?",
+    "when": "Ресторан, дэлгүүр, зочид буудал, галт тэрэгний буудал зэрэг олон нийтийн газар ариун цэврийн өрөөний байршлыг асуухдаа хэрэглэнэ.",
+    "context": "A: Excuse me, where is the bathroom?\nB: It's on the second floor."
+  },
+  {
+    "id": 242,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the station?",
+    "mn": "Буудал хаана байна вэ?",
+    "when": "Галт тэрэг, метро зэрэг нийтийн тээврийн буудлын байршлыг асуухдаа хэрэглэнэ. Аялж явах үед маш хэрэгтэй.",
+    "context": "A: Excuse me, where is the station?\nB: It's five minutes from here."
+  },
+  {
+    "id": 243,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I buy this?",
+    "mn": "Би үүнийг хаанаас авч болох вэ?",
+    "when": "Тодорхой бараа хаана зарагддагийг мэдэхгүй үед асууна. Хүнээс зөвлөгөө авах, дэлгүүр хайх үед хэрэглэнэ.",
+    "context": "A: Where can I buy this?\nB: You can buy it at the supermarket."
+  },
+  {
+    "id": 244,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I find this?",
+    "mn": "Би үүнийг хаанаас олж болох вэ?",
+    "when": "Дэлгүүр эсвэл тодорхой газар ямар нэгэн зүйл хаана байгааг асуухдаа хэрэглэнэ. Ажилтнаас тусламж авахад тохиромжтой.",
+    "context": "A: Where can I find batteries?\nB: They're in aisle three."
+  },
+  {
+    "id": 245,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where should I go?",
+    "mn": "Би хаашаа явах вэ?",
+    "when": "Ямар газар руу очих ёстойгоо мэдэхгүй үед заавар авахдаа хэрэглэнэ. Эмнэлэг, албан газар, аялал зэрэгт ашигтай.",
+    "context": "A: Where should I go?\nB: Please go to room 205."
+  },
+  {
+    "id": 246,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where should we meet?",
+    "mn": "Бид хаана уулзах вэ?",
+    "when": "Уулзах газраа тохирохдоо хэрэглэнэ. Найзтайгаа уулзах, ажил хэргийн уулзалт товлох зэрэгт өдөр тутам ашиглагдана.",
+    "context": "A: Where should we meet?\nB: Let's meet at the station."
+  },
+  {
+    "id": 247,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where did you go?",
+    "mn": "Чи хаашаа явсан бэ?",
+    "when": "Хэн нэгэн түр алга болоод буцаж ирсэн үед хаашаа явсныг асуухдаа хэрэглэнэ.",
+    "context": "A: Where did you go?\nB: I went to the store."
+  },
+  {
+    "id": 248,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where were you?",
+    "mn": "Чи хаана байсан бэ?",
+    "when": "Өмнөх тодорхой хугацаанд хүн хаана байсныг асуухдаа хэрэглэнэ. Жишээ нь утсаар холбогдож чадаагүй үед асууж болно.",
+    "context": "A: Where were you?\nB: I was at work."
+  },
+  {
+    "id": 249,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where did you put it?",
+    "mn": "Чи үүнийг хаана тавьсан бэ?",
+    "when": "Хэн нэгэн ямар нэгэн зүйл тавьсан боловч одоо олдохгүй байгаа үед тухайн хүнээс байршлыг нь асууна.",
+    "context": "A: Where did you put the keys?\nB: I put them on the table."
+  },
+  {
+    "id": 250,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is my phone?",
+    "mn": "Миний утас хаана байна вэ?",
+    "when": "Утсаа хаана тавьснаа мэдэхгүй үед өөр хүнээс асуухдаа хэрэглэнэ. Өдөр тутмын хамгийн бодит хэрэглээний асуултуудын нэг.",
+    "context": "A: Where is my phone?\nB: It's next to the sofa."
+  },
+  {
+    "id": 251,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where are my keys?",
+    "mn": "Миний түлхүүр хаана байна вэ?",
+    "when": "Түлхүүрээ олж чадахгүй үед хаана байгааг нь асуухдаа хэрэглэнэ. Гэрээс гарах гэж байгаа үед ялангуяа түгээмэл.",
+    "context": "A: Where are my keys?\nB: They're on the table."
+  },
+  {
+    "id": 252,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the nearest store?",
+    "mn": "Хамгийн ойрын дэлгүүр хаана байна вэ?",
+    "when": "Ойролцоох дэлгүүрийг мэдэхгүй үед хүнээс асууна. Аялж явах эсвэл шинэ газар очих үед хэрэгтэй.",
+    "context": "A: Where is the nearest store?\nB: It's across the street."
+  },
+  {
+    "id": 253,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the nearest ATM?",
+    "mn": "Хамгийн ойрын ATM хаана байна вэ?",
+    "when": "Бэлэн мөнгө авах шаардлагатай боловч ойролцоох ATM-ийг мэдэхгүй үед хэрэглэнэ. Аялал болон өдөр тутмын амьдралд хэрэгтэй.",
+    "context": "A: Where is the nearest ATM?\nB: There's one inside the station."
+  },
+  {
+    "id": 254,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I get a taxi?",
+    "mn": "Би хаанаас такси авч болох вэ?",
+    "when": "Такси хаанаас барих эсвэл таксины зогсоол хаана байгааг асуухдаа хэрэглэнэ. Ялангуяа танихгүй хотод хэрэгтэй.",
+    "context": "A: Where can I get a taxi?\nB: There's a taxi stand outside."
+  },
+  {
+    "id": 255,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I get a ticket?",
+    "mn": "Би хаанаас тасалбар авч болох вэ?",
+    "when": "Галт тэрэг, автобус, үзвэр зэрэгт тасалбар хаанаас авахыг мэдэхгүй үед асууна.",
+    "context": "A: Where can I get a ticket?\nB: At the ticket machine."
+  },
+  {
+    "id": 256,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the entrance?",
+    "mn": "Орох хаалга хаана байна вэ?",
+    "when": "Барилга, дэлгүүр, музей, цэнгэлдэх хүрээлэн зэрэг газарт орох хаалгыг олохгүй үед хэрэглэнэ.",
+    "context": "A: Where is the entrance?\nB: It's around the corner."
+  },
+  {
+    "id": 257,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the exit?",
+    "mn": "Гарах хаалга хаана байна вэ?",
+    "when": "Барилга, буудал, дэлгүүр зэрэг газраас гарах хаалгыг олохгүй үед асууна.",
+    "context": "A: Where is the exit?\nB: It's on your right."
+  },
+  {
+    "id": 258,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the elevator?",
+    "mn": "Лифт хаана байна вэ?",
+    "when": "Олон давхар барилгад лифтний байршлыг асуухдаа хэрэглэнэ. Зочид буудал, эмнэлэг, оффис зэрэгт түгээмэл.",
+    "context": "A: Where is the elevator?\nB: It's over there."
+  },
+  {
+    "id": 259,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where are the stairs?",
+    "mn": "Шат хаана байна вэ?",
+    "when": "Барилга дотор шатаар явах шаардлагатай боловч шатны байршлыг мэдэхгүй үед асууна.",
+    "context": "A: Where are the stairs?\nB: They're next to the elevator."
+  },
+  {
+    "id": 260,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the hotel?",
+    "mn": "Зочид буудал хаана байна вэ?",
+    "when": "Тодорхой зочид буудлын байршлыг мэдэхгүй үед асууна. Аялалд явах үед хэрэгтэй.",
+    "context": "A: Where is the hotel?\nB: It's near the station."
+  },
+  {
+    "id": 261,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the restaurant?",
+    "mn": "Ресторан хаана байна вэ?",
+    "when": "Хооллох ресторан хайж байгаа үед эсвэл тодорхой рестораны байршлыг мэдэхгүй үед асууна.",
+    "context": "A: Where is the restaurant?\nB: It's on the second floor."
+  },
+  {
+    "id": 262,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where is the nearest hospital?",
+    "mn": "Хамгийн ойрын эмнэлэг хаана байна вэ?",
+    "when": "Эмнэлгийн тусламж хэрэгтэй болсон үед эсвэл өвчтэй хүнийг эмнэлэгт хүргэх шаардлагатай үед байршил асууна.",
+    "context": "A: Where is the nearest hospital?\nB: It's about ten minutes from here."
+  },
+  {
+    "id": 263,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I park?",
+    "mn": "Би хаана машинаа тавьж болох вэ?",
+    "when": "Машинаа хаана зогсоож болохыг мэдэхгүй үед хэрэглэнэ. Дэлгүүр, ресторан, зочид буудал зэрэгт асууж болно.",
+    "context": "A: Where can I park?\nB: You can park behind the building."
+  },
+  {
+    "id": 264,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where should I park?",
+    "mn": "Би хаана машинаа тавих вэ?",
+    "when": "Тухайн газарт зөвшөөрөгдсөн зогсоол хаана байгааг асуухдаа хэрэглэнэ. Хувийн байр, оффис, арга хэмжээний газар зэрэгт ашиглаж болно.",
+    "context": "A: Where should I park?\nB: Please park over there."
+  },
+  {
+    "id": 265,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I sit?",
+    "mn": "Би хаана сууж болох вэ?",
+    "when": "Суух газар өөрөө сонгох боломжгүй эсвэл хаана суух ёстойгоо мэдэхгүй үед хэрэглэнэ.",
+    "context": "A: Where can I sit?\nB: You can sit here."
+  },
+  {
+    "id": 266,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I charge my phone?",
+    "mn": "Би утсаа хаана цэнэглэж болох вэ?",
+    "when": "Утасны цэнэг дуусах гэж байгаа бөгөөд цэнэглэх газар хайж байгаа үед хэрэглэнэ. Кафе, буудал, нисэх онгоцны буудал зэрэгт хэрэгтэй.",
+    "context": "A: Where can I charge my phone?\nB: There's an outlet over there."
+  },
+  {
+    "id": 267,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where can I get some water?",
+    "mn": "Би хаанаас ус авч болох вэ?",
+    "when": "Ус хэрэгтэй болсон боловч хаанаас авч болохоо мэдэхгүй үед асууна. Аялал, ажил, нийтийн газар зэрэгт ашигтай.",
+    "context": "A: Where can I get some water?\nB: There's a vending machine over there."
+  },
+  {
+    "id": 268,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where does this bus go?",
+    "mn": "Энэ автобус хаашаа явдаг вэ?",
+    "when": "Автобусны чиглэлийг мэдэхгүй үед жолооч, ажилтан эсвэл зорчигчоос асуухдаа хэрэглэнэ.",
+    "context": "A: Where does this bus go?\nB: It goes to the city center."
+  },
+  {
+    "id": 269,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where does this train go?",
+    "mn": "Энэ галт тэрэг хаашаа явдаг вэ?",
+    "when": "Галт тэрэгний чиглэл, очих газрыг мэдэхгүй үед асууна. Аялал хийх үед буруу галт тэргэнд суухаас сэргийлэхэд хэрэгтэй.",
+    "context": "A: Where does this train go?\nB: It goes to Tokyo."
+  },
+  {
+    "id": 270,
+    "chapter": 3,
+    "category": "Where",
+    "en": "Where are we?",
+    "mn": "Бид хаана байна вэ?",
+    "when": "Одоо байгаа газраа мэдэхгүй болсон үед хамт яваа хүнээс асууна. Аялал, шинэ газар очих үед түгээмэл хэрэглэгдэнэ.",
+    "context": "A: Where are we?\nB: We're near the station."
+  },
+  {
+    "id": 271,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When is it?",
+    "mn": "Хэзээ вэ?",
+    "when": "Ямар нэгэн үйл явдал, уулзалт эсвэл товлосон зүйл хэзээ болохыг тодруулахдаа хэрэглэнэ. Огноо эсвэл цагийн талаар асууж болно.",
+    "context": "A: When is the meeting?\nB: It's tomorrow."
+  },
+  {
+    "id": 272,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When are you free?",
+    "mn": "Чи хэзээ завтай вэ?",
+    "when": "Хэн нэгэнтэй уулзах, ярилцах цаг тохирохдоо тэр хүн хэзээ завтай болохыг асууна.",
+    "context": "A: When are you free?\nB: I'm free on Saturday."
+  },
+  {
+    "id": 273,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When can you come?",
+    "mn": "Чи хэзээ ирж чадах вэ?",
+    "when": "Хэн нэгнийг тодорхой газар ирэхийг хүсэж байгаа бөгөөд хэзээ ирж болохыг нь асуухдаа хэрэглэнэ.",
+    "context": "A: When can you come?\nB: I can come this evening."
+  },
+  {
+    "id": 274,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When does it start?",
+    "mn": "Энэ хэзээ эхлэх вэ?",
+    "when": "Хичээл, уулзалт, арга хэмжээ, кино зэрэг ямар нэгэн зүйл эхлэх цагийг асуухдаа хэрэглэнэ.",
+    "context": "A: When does the movie start?\nB: It starts at seven."
+  },
+  {
+    "id": 275,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When does it end?",
+    "mn": "Энэ хэзээ дуусах вэ?",
+    "when": "Кино, ажил, хичээл, арга хэмжээ зэрэг зүйл хэзээ дуусахыг мэдэхдээ хэрэглэнэ.",
+    "context": "A: When does the meeting end?\nB: It ends at five."
+  },
+  {
+    "id": 276,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When did you arrive?",
+    "mn": "Чи хэзээ ирсэн бэ?",
+    "when": "Хэн нэгэн аль хэдийн ирсэн боловч яг хэзээ ирснийг нь мэдэхгүй үед асууна. Аялал, ажил, уулзалтын нөхцөлд хэрэглэж болно.",
+    "context": "A: When did you arrive?\nB: I arrived this morning."
+  },
+  {
+    "id": 277,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When did you leave?",
+    "mn": "Чи хэзээ явсан бэ?",
+    "when": "Хэн нэгэн хаашаа явсныг бус, яг хэдийд явсныг мэдэхийг хүсэхдээ хэрэглэнэ.",
+    "context": "A: When did you leave?\nB: I left at six."
+  },
+  {
+    "id": 278,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "When should I call you?",
+    "mn": "Би чам руу хэзээ залгах вэ?",
+    "when": "Хэн нэгэнтэй утсаар ярилцах тохиромжтой цагийг асуухдаа хэрэглэнэ. Ажил хэрэг болон хувийн харилцаанд аль алинд нь ашиглаж болно.",
+    "context": "A: When should I call you?\nB: Call me after six."
+  },
+  {
+    "id": 279,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "Why are you here?",
+    "mn": "Чи яагаад энд байгаа вэ?",
+    "when": "Хүн ямар зорилгоор тухайн газарт ирснийг мэдэхгүй үед шалтгааныг нь асууна.",
+    "context": "A: Why are you here?\nB: I'm here for a meeting."
+  },
+  {
+    "id": 280,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "Why are you late?",
+    "mn": "Чи яагаад хоцорсон бэ?",
+    "when": "Хэн нэгэн тохирсон цагаасаа хоцорч ирэхэд шалтгааныг нь асууна. Ажил, уулзалт, хичээл зэрэгт хэрэглэнэ.",
+    "context": "A: Why are you late?\nB: Sorry. The train was delayed."
+  },
+  {
+    "id": 281,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "Why did you do that?",
+    "mn": "Чи яагаад тэгсэн бэ?",
+    "when": "Хэн нэгэн ямар нэгэн үйлдэл хийсэн бөгөөд тэр үйлдлийн шалтгааныг мэдэхийг хүсэхдээ хэрэглэнэ. Өнгө аясаас шалтгаалаад зөөлөн ч, буруутгасан ч сонсогдож болно.",
+    "context": "A: Why did you do that?\nB: I thought it was necessary."
+  },
+  {
+    "id": 282,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "Why not?",
+    "mn": "Яагаад болохгүй гэж?",
+    "when": "Санал болгосон зүйлд зөвшөөрч байгаагаа илэрхийлэх эсвэл яагаад хийхгүй байх ёстойг асуухдаа хэрэглэнэ. Ихэвчлэн богино, энгийн хариулт болдог.",
+    "context": "A: Let's go for coffee.\nB: Why not?"
+  },
+  {
+    "id": 283,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "Why do you ask?",
+    "mn": "Яагаад ингэж асууж байгаа юм бэ?",
+    "when": "Нөгөө хүн тодорхой зүйл асуухад тэр асуултын цаад шалтгааныг мэдэхийг хүсвэл хэрэглэнэ. Хариулахын өмнө учрыг нь тодруулахад тохиромжтой.",
+    "context": "A: How much do you earn?\nB: Why do you ask?"
+  },
+  {
+    "id": 284,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "Why is that?",
+    "mn": "Яагаад тэр вэ?",
+    "when": "Нөгөө хүн ямар нэгэн зүйл хэлсний дараа яагаад тийм байгаагийн шалтгааныг асуухдаа хэрэглэнэ.",
+    "context": "A: I can't go today.\nB: Why is that?\nA: I have to work."
+  },
+  {
+    "id": 285,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How are you?",
+    "mn": "Та сайн уу? / Сайн байна уу?",
+    "when": "Хэн нэгэнтэй уулзахдаа бие, байдлыг нь эелдгээр асуух мэндчилгээний хэллэг болгон хэрэглэнэ. Заавал нарийн хариулт шаардахгүй.",
+    "context": "A: Hi! How are you?\nB: I'm good, thanks."
+  },
+  {
+    "id": 286,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How is your family?",
+    "mn": "Танай гэр бүл сайн уу?",
+    "when": "Танил хүний гэр бүлийн байдлыг эелдгээр асуухдаа хэрэглэнэ. Өмнө нь гэр бүлийнх нь талаар мэддэг хүнтэй ярих үед тохиромжтой.",
+    "context": "A: How is your family?\nB: They're doing well."
+  },
+  {
+    "id": 287,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How was your day?",
+    "mn": "Өдөр чинь ямар өнгөрөв?",
+    "when": "Ажил, сургууль зэрэг өдрийн ажлаа дуусгасан хүний өдрийг хэрхэн өнгөрснийг асуухдаа хэрэглэнэ.",
+    "context": "A: How was your day?\nB: It was busy, but good."
+  },
+  {
+    "id": 288,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How was your trip?",
+    "mn": "Аялал чинь ямар байсан бэ?",
+    "when": "Хэн нэгэн аялж ирсний дараа аялал нь хэр болсон талаар асуухдаа хэрэглэнэ.",
+    "context": "A: How was your trip?\nB: It was great."
+  },
+  {
+    "id": 289,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How much is it?",
+    "mn": "Энэ хэд вэ?",
+    "when": "Бараа, үйлчилгээний үнийг асуухдаа хэрэглэнэ. Дэлгүүр, ресторан, зах болон онлайн худалдан авалтын үед ч хэрэглэж болно.",
+    "context": "A: How much is it?\nB: It's twenty dollars."
+  },
+  {
+    "id": 290,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How many do you need?",
+    "mn": "Танд хэд хэрэгтэй вэ?",
+    "when": "Тоо ширхэгээр тоологддог зүйлээс хэдийг хүсэж байгааг асуухдаа хэрэглэнэ. Худалдан авалт, захиалга, ажил хийх үед ашиглана.",
+    "context": "A: How many do you need?\nB: I need three."
+  },
+  {
+    "id": 291,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How long does it take?",
+    "mn": "Хэр удаан хугацаа зарцуулах вэ?",
+    "when": "Аливаа ажил, аялал, хүргэлт эсвэл үйлчилгээ хэр удаан үргэлжлэхийг асуухдаа хэрэглэнэ. Замын хугацаа болон үйлчилгээний хугацааг мэдэхэд маш хэрэгтэй.",
+    "context": "A: How long does it take?\nB: It takes about thirty minutes."
+  },
+  {
+    "id": 292,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How far is it?",
+    "mn": "Эндээс хэр хол вэ?",
+    "when": "Тухайн газар одоо байгаа газраас хэр хол байгааг асуухдаа хэрэглэнэ. Алхах, машинтай явах эсвэл аяллын үед хэрэглэж болно.",
+    "context": "A: How far is the station?\nB: It's about one kilometer."
+  },
+  {
+    "id": 293,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How can I get there?",
+    "mn": "Би тийшээ яаж очих вэ?",
+    "when": "Тодорхой газар руу ямар замаар, ямар тээврээр очихыг мэдэхгүй үед чиглэл асуухдаа хэрэглэнэ.",
+    "context": "A: How can I get there?\nB: You can take the train."
+  },
+  {
+    "id": 294,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How do I get to the station?",
+    "mn": "Би буудал руу яаж очих вэ?",
+    "when": "Галт тэрэг, метро эсвэл автобусны буудал руу явах замаа мэдэхгүй үед хүнээс чиглэл асууна. Аяллын үед маш хэрэгтэй.",
+    "context": "A: How do I get to the station?\nB: Go straight and turn left."
+  },
+  {
+    "id": 295,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How do you use this?",
+    "mn": "Үүнийг яаж ашигладаг вэ?",
+    "when": "Төхөөрөмж, машин, апп эсвэл ямар нэгэн зүйл хэрхэн ажилладагийг мэдэхгүй үед тухайн зүйлийг мэддэг хүнээс асууна.",
+    "context": "A: How do you use this machine?\nB: Press this button first."
+  },
+  {
+    "id": 296,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How do you know?",
+    "mn": "Чи яаж мэдэж байгаа юм бэ?",
+    "when": "Нөгөө хүн тодорхой мэдээллийг мэдэж байгааг сонсоод тэр мэдээллийг хаанаас эсвэл ямар үндэслэлээр мэдэж байгааг асуухдаа хэрэглэнэ.",
+    "context": "A: The store is closed today.\nB: How do you know?\nA: I checked their website."
+  },
+  {
+    "id": 297,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How did you do that?",
+    "mn": "Чи үүнийг яаж хийсэн бэ?",
+    "when": "Хэн нэгэн таны сонирхсон зүйлийг хэрхэн хийснийг мэдэхийг хүсэхдээ хэрэглэнэ. Технологи, хоол хийх, гар урлал, ажил зэрэг олон нөхцөлд ашиглаж болно.",
+    "context": "A: I fixed the computer.\nB: How did you do that?\nA: I followed a guide."
+  },
+  {
+    "id": 298,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How do you say this in English?",
+    "mn": "Үүнийг англиар юу гэж хэлдэг вэ?",
+    "when": "Монгол хэлээр мэддэг үг, санаагаа англиар хэрхэн хэлэхээ мэдэхгүй үед англи хэлтэй хүнээс асууна. Англи хэл сурахад хамгийн хэрэгтэй асуултуудын нэг.",
+    "context": "A: How do you say this in English?\nB: You say, \"Thank you.\""
+  },
+  {
+    "id": 299,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How do you spell it?",
+    "mn": "Үүнийг үсэглэж яаж бичдэг вэ?",
+    "when": "Нэр, үг эсвэл газар орны нэрийг сонссон боловч зөв бичлэгийг нь мэдэхгүй үед үсэглэж өгөхийг хүсэхдээ хэрэглэнэ. Утас, бүртгэл, имэйл хаяг авах үед маш хэрэгтэй.",
+    "context": "A: My name is Sarah.\nB: How do you spell it?\nA: S-A-R-A-H."
+  },
+  {
+    "id": 300,
+    "chapter": 3,
+    "category": "When / Why / How",
+    "en": "How can I help you?",
+    "mn": "Би танд яаж туслах вэ?",
+    "when": "Хүнд ямар тусламж хэрэгтэй байгааг асуухдаа хэрэглэнэ. Дэлгүүрийн ажилтан, үйлчилгээний ажилтан, найз эсвэл хамт ажилладаг хүн хэрэглэж болно. Мөн өөрөө туслахад бэлэн байгаагаа эелдгээр илэрхийлдэг.",
+    "context": "A: You look like you need some help.\nB: How can I help you?\nA: I need help finding this address."
+  }
+]
