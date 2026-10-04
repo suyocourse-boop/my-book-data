@@ -1,0 +1,902 @@
+[
+  {
+    "id": 101,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "Good morning.",
+    "mn": "Өглөөний мэнд.",
+    "when": "Өглөө сэрээд гэр бүлийн хүн, найз, хамт ажилладаг хүнтэйгээ мэндлэхдээ хэрэглэнэ. Өглөөний мэндчилгээний хамгийн энгийн хэллэг.",
+    "context": "A: Good morning!\nB: Good morning!"
+  },
+  {
+    "id": 102,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I just woke up.",
+    "mn": "Би саяхан сэрлээ.",
+    "when": "Дөнгөж сэрсэн гэдгээ хэлэхдээ хэрэглэнэ. Өглөө утсаар ярьж байгаа эсвэл гэрийн хүнтэйгээ ярилцах үед түгээмэл.",
+    "context": "A: Are you awake?\nB: Yes, I just woke up."
+  },
+  {
+    "id": 103,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I'm still sleepy.",
+    "mn": "Би одоо ч нойрмог байна.",
+    "when": "Сэрсэн ч нойр хүрсэн хэвээр байгаагаа хэлэхдээ хэрэглэнэ. Өглөөний энгийн ярианд тохиромжтой.",
+    "context": "A: Do you want coffee?\nB: Yes. I'm still sleepy."
+  },
+  {
+    "id": 104,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I need to get up.",
+    "mn": "Би босох хэрэгтэй.",
+    "when": "Орон дээрээс босох цаг болсон гэдгээ хэлэхдээ хэрэглэнэ. Өглөө ажил, сургуульдаа явах шаардлагатай үед хэрэглэж болно.",
+    "context": "A: Are you getting up?\nB: Yes, I need to get up."
+  },
+  {
+    "id": 105,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "What time is it?",
+    "mn": "Хэдэн цаг болж байна вэ?",
+    "when": "Одоогийн цагийг мэдэхгүй үед асууна. Өглөө сэрээд хэдэн цаг болсныг мэдэх, эсвэл явах цагаа шалгах үед маш түгээмэл.",
+    "context": "A: What time is it?\nB: It's seven o'clock."
+  },
+  {
+    "id": 106,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "It's seven o'clock.",
+    "mn": "Долоон цаг болж байна.",
+    "when": "Цаг хэд болж байгааг хэлэхдээ хэрэглэнэ. Өглөө хэдэн цаг болсныг бусдад хэлэхэд тохиромжтой.",
+    "context": "A: What time is it?\nB: It's seven o'clock."
+  },
+  {
+    "id": 107,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I have to get ready.",
+    "mn": "Би бэлдэх хэрэгтэй.",
+    "when": "Ажил, сургууль эсвэл өөр газар явахын өмнө хувцаслах, нүүр гараа угаах зэрэг бэлтгэл хийх шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Can you talk now?\nB: Not now. I have to get ready."
+  },
+  {
+    "id": 108,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I need to take a shower.",
+    "mn": "Би шүршүүрт орох хэрэгтэй.",
+    "when": "Өглөө шүршүүрт орох гэж байгаагаа эсвэл орох шаардлагатай байгаагаа хэлэхдээ хэрэглэнэ.",
+    "context": "A: Are you ready?\nB: Not yet. I need to take a shower."
+  },
+  {
+    "id": 109,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I need to brush my teeth.",
+    "mn": "Би шүдээ угаах хэрэгтэй.",
+    "when": "Өглөөний бэлтгэлийн үеэр шүдээ угаах гэж байгаагаа хэлэхдээ хэрэглэнэ.",
+    "context": "A: Let's have breakfast.\nB: Just a minute. I need to brush my teeth."
+  },
+  {
+    "id": 110,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "Where are my keys?",
+    "mn": "Миний түлхүүр хаана байна?",
+    "when": "Гэрээс гарах гэж байхдаа түлхүүрээ олж чадахгүй байгаа үед хэрэглэнэ. Өдөр тутмын амьдралд маш хэрэгтэй асуулт.",
+    "context": "A: Where are my keys?\nB: They're on the table."
+  },
+  {
+    "id": 111,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "Where is my phone?",
+    "mn": "Миний утас хаана байна?",
+    "when": "Утсаа хаана тавьснаа мэдэхгүй үед асууна. Өглөө босоод утсаа хайх зэрэг өдөр тутмын нөхцөлд түгээмэл.",
+    "context": "A: Where is my phone?\nB: It's next to your bed."
+  },
+  {
+    "id": 112,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I'm running late.",
+    "mn": "Би хоцрох гээд байна.",
+    "when": "Товлосон цагтаа амжихгүй, хоцрох магадлалтай болсон үед хэрэглэнэ. Ажил, сургууль, уулзалтад явахдаа маш хэрэгтэй.",
+    "context": "A: Are you ready?\nB: Almost. I'm running late."
+  },
+  {
+    "id": 113,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I'm in a hurry.",
+    "mn": "Би яарч байна.",
+    "when": "Цаг бага үлдсэн тул хурдан явах эсвэл ямар нэгэн зүйлийг хурдан хийх шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Do you have time for breakfast?\nB: No, I'm in a hurry."
+  },
+  {
+    "id": 114,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I have to go to work.",
+    "mn": "Би ажилдаа явах хэрэгтэй.",
+    "when": "Ажилдаа явах цаг болсон эсвэл ажилдаа явах шаардлагатай байгаагаа хэлэхдээ хэрэглэнэ.",
+    "context": "A: Do you want some coffee?\nB: Yes, but I have to go to work."
+  },
+  {
+    "id": 115,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I have to go to school.",
+    "mn": "Би сургуульдаа явах хэрэгтэй.",
+    "when": "Сургуульдаа явах цаг болсон эсвэл явах шаардлагатай байгаагаа хэлэхдээ хэрэглэнэ.",
+    "context": "A: Do you want breakfast?\nB: Yes, but I have to go to school."
+  },
+  {
+    "id": 116,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "Did you sleep well?",
+    "mn": "Сайхан унтав уу?",
+    "when": "Өглөө гэр бүлийн хүн, найз эсвэл танил хүнээс өчигдөр шөнө хэр унтсаныг асуухдаа хэрэглэнэ.",
+    "context": "A: Good morning. Did you sleep well?\nB: Yes, I did."
+  },
+  {
+    "id": 117,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I slept well.",
+    "mn": "Би сайхан унтсан.",
+    "when": "\"Did you sleep well?\" гэсэн асуултад сайн унтсанаа хэлж хариулахдаа хэрэглэнэ.",
+    "context": "A: Did you sleep well?\nB: Yes, I slept well."
+  },
+  {
+    "id": 118,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "I didn't sleep well.",
+    "mn": "Би сайн унтаж чадаагүй.",
+    "when": "Шөнө муу унтсан, олон сэрсэн эсвэл нойр хүрээгүй үед өглөө өөрийн байдлаа тайлбарлахдаа хэрэглэнэ.",
+    "context": "A: Did you sleep well?\nB: No, I didn't sleep well."
+  },
+  {
+    "id": 119,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "What's the weather like?",
+    "mn": "Цаг агаар ямар байна?",
+    "when": "Гадагшаа гарахын өмнө өнөөдрийн цаг агаар ямар байгааг асуухдаа хэрэглэнэ. Хувцсаа сонгох, шүхэр авах эсэхээ шийдэхэд хэрэгтэй.",
+    "context": "A: What's the weather like?\nB: It's sunny and warm."
+  },
+  {
+    "id": 120,
+    "chapter": 2,
+    "category": "Өглөө",
+    "en": "Have a good day.",
+    "mn": "Өдрийг сайхан өнгөрүүлээрэй.",
+    "when": "Өглөө гэрээс гарахдаа гэр бүлийн хүнтэйгээ эсвэл ажилдаа явж буй хүнтэйгээ салахдаа сайхан өдөр хүсэхдээ хэрэглэнэ.",
+    "context": "A: I'm leaving for work.\nB: Okay. Have a good day!"
+  },
+  {
+    "id": 121,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I'm home.",
+    "mn": "Би гэртээ ирлээ.",
+    "when": "Гадагшаа явж байгаад гэртээ буцаж ирэхдээ гэрийнхэндээ ирснээ мэдэгдэхэд хэрэглэнэ.",
+    "context": "A: I'm home!\nB: Welcome back!"
+  },
+  {
+    "id": 122,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Welcome home.",
+    "mn": "Гэртээ тавтай морил.",
+    "when": "Гэртээ буцаж ирсэн хүнд угтаж хэлнэ. Гэр бүлийн хүн эсвэл хамт амьдардаг хүнд дулаан байдлаар хэрэглэдэг.",
+    "context": "A: I'm home.\nB: Welcome home!"
+  },
+  {
+    "id": 123,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I'm going home.",
+    "mn": "Би гэр лүүгээ явж байна.",
+    "when": "Одоо байгаа газраасаа гэр рүүгээ явах гэж байгаагаа хэлэхдээ хэрэглэнэ. Ажил, сургууль, дэлгүүрээс гарах үед түгээмэл.",
+    "context": "A: Where are you going?\nB: I'm going home."
+  },
+  {
+    "id": 124,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I'm at home.",
+    "mn": "Би гэртээ байна.",
+    "when": "Одоогоор гэртээ байгаа гэдгээ хэлэхдээ хэрэглэнэ. Хэн нэгэн таны хаана байгааг асуухад хариулахад тохиромжтой.",
+    "context": "A: Where are you?\nB: I'm at home."
+  },
+  {
+    "id": 125,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I'm cleaning the house.",
+    "mn": "Би гэрээ цэвэрлэж байна.",
+    "when": "Гэрийн цэвэрлэгээ хийж байгаагаа хэлэхдээ хэрэглэнэ. Яг одоо хийж байгаа үйлдлийг тайлбарлахад тохиромжтой.",
+    "context": "A: Can you go out now?\nB: Not now. I'm cleaning the house."
+  },
+  {
+    "id": 126,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I need to clean my room.",
+    "mn": "Би өрөөгөө цэвэрлэх хэрэгтэй.",
+    "when": "Өрөө эмх замбараагүй болсон тул цэвэрлэх шаардлагатай үед хэрэглэнэ.",
+    "context": "A: Do you want to watch a movie?\nB: Later. I need to clean my room."
+  },
+  {
+    "id": 127,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Where is the bathroom?",
+    "mn": "Угаалгын өрөө хаана байна?",
+    "when": "Гэртээ, зочны айлд эсвэл өөр барилгад угаалгын өрөөний байршлыг асуухдаа хэрэглэнэ.",
+    "context": "A: Where is the bathroom?\nB: It's upstairs."
+  },
+  {
+    "id": 128,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I'm in the kitchen.",
+    "mn": "Би гал тогоонд байна.",
+    "when": "Гэрийн аль өрөөнд байгаагаа хэлэхдээ хэрэглэнэ. Хэн нэгэн таныг хайж байгаа үед байршлаа хэлэхэд тохиромжтой.",
+    "context": "A: Where are you?\nB: I'm in the kitchen."
+  },
+  {
+    "id": 129,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I'm in my room.",
+    "mn": "Би өрөөндөө байна.",
+    "when": "Гэрийнхэндээ өөрийн өрөөнд байгаагаа хэлэхдээ хэрэглэнэ. Хэн нэгэн таныг хаана байгааг асуухад энгийнээр хариулна.",
+    "context": "A: Where are you?\nB: I'm in my room."
+  },
+  {
+    "id": 130,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "It's cold in here.",
+    "mn": "Энд хүйтэн байна.",
+    "when": "Байшин, өрөөний доторх температур хүйтэн байгааг хэлэхдээ хэрэглэнэ. Цонх хаах, халаалт нэмэх зэрэг хүсэлт гаргахын өмнө хэлж болно.",
+    "context": "A: It's cold in here.\nB: I'll turn on the heater."
+  },
+  {
+    "id": 131,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "It's hot in here.",
+    "mn": "Энд халуун байна.",
+    "when": "Өрөөний дотор хэт халуун байгааг хэлэхдээ хэрэглэнэ. Агааржуулагч асаах эсвэл цонх нээх шаардлагатай үед ашиглана.",
+    "context": "A: It's hot in here.\nB: Let's open the window."
+  },
+  {
+    "id": 132,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Turn on the light.",
+    "mn": "Гэрлээ асаагаарай.",
+    "when": "Өрөө харанхуй болсон үед хэн нэгнээс гэрэл асаахыг хүсэхдээ хэрэглэнэ.",
+    "context": "A: It's too dark.\nB: I'll turn on the light."
+  },
+  {
+    "id": 133,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Turn off the light.",
+    "mn": "Гэрлээ унтраагаарай.",
+    "when": "Өрөөнөөс гарах, унтах эсвэл гэрэл шаардлагагүй болсон үед гэрэл унтраахыг хэлэхдээ хэрэглэнэ.",
+    "context": "A: I'm going to bed.\nB: Okay. Turn off the light, please."
+  },
+  {
+    "id": 134,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Close the door.",
+    "mn": "Хаалгаа хаагаарай.",
+    "when": "Хаалга онгорхой байгаа тул хаахыг хүсэхдээ хэрэглэнэ. Салхи орох, чимээ гарах, дулаанаа хадгалах зэрэг нөхцөлд хэлж болно.",
+    "context": "A: It's cold.\nB: Okay, I'll close the door."
+  },
+  {
+    "id": 135,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Open the window.",
+    "mn": "Цонхоо онгойлгоорой.",
+    "when": "Өрөөнд агаар оруулах эсвэл хэт халуун болсон үед цонх онгойлгохыг хүсэхдээ хэрэглэнэ.",
+    "context": "A: It's hot in here.\nB: I'll open the window."
+  },
+  {
+    "id": 136,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Where did you put it?",
+    "mn": "Чи үүнийг хаана тавьсан бэ?",
+    "when": "Ямар нэгэн зүйл хаана тавигдсаныг мэдэхгүй үед тухайн зүйлийг тавьсан хүнээс асууна. Гэртээ түлхүүр, цүнх, удирдлага зэрэг зүйл хайхад түгээмэл.",
+    "context": "A: Where did you put the remote?\nB: I put it on the table."
+  },
+  {
+    "id": 137,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "It's on the table.",
+    "mn": "Ширээн дээр байна.",
+    "when": "Ямар нэгэн зүйл ширээн дээр байгааг хэлэхдээ хэрэглэнэ. Хэн нэгэн тухайн зүйлийн байршлыг асуухад хариулахад тохиромжтой.",
+    "context": "A: Where's my phone?\nB: It's on the table."
+  },
+  {
+    "id": 138,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "It's in the kitchen.",
+    "mn": "Гал тогоонд байна.",
+    "when": "Ямар нэгэн зүйл гал тогоонд байгааг хэлэхдээ хэрэглэнэ. Байршил тайлбарлахад өдөр тутам ашиглагдана.",
+    "context": "A: Where's the coffee?\nB: It's in the kitchen."
+  },
+  {
+    "id": 139,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "I'm going to bed.",
+    "mn": "Би унтахаар орондоо орж байна.",
+    "when": "Унтах гэж байгаагаа хэлэхдээ хэрэглэнэ. Орой гэрийнхэндээ хэлээд явах, яриагаа дуусгах үед түгээмэл.",
+    "context": "A: Are you staying up late?\nB: No, I'm going to bed."
+  },
+  {
+    "id": 140,
+    "chapter": 2,
+    "category": "Гэртээ",
+    "en": "Good night.",
+    "mn": "Сайхан амраарай.",
+    "when": "Орой унтахаар салж явахдаа эсвэл унтахын өмнө гэр бүлийн хүн, найздаа хэлнэ. Өглөөний мэндчилгээ биш, унтахын өмнөх мэндчилгээ.",
+    "context": "A: I'm going to bed.\nB: Good night. Sleep well."
+  },
+  {
+    "id": 141,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "I'm hungry.",
+    "mn": "Би өлсөж байна.",
+    "when": "Хоол идмээр, өлссөн байгаагаа хэлэхдээ хэрэглэнэ. Хоол идэх санал тавихын өмнө эсвэл хаана хооллохоо ярилцах үед түгээмэл.",
+    "context": "A: I'm hungry.\nB: Let's get something to eat."
+  },
+  {
+    "id": 142,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "I'm thirsty.",
+    "mn": "Би цангаж байна.",
+    "when": "Ус эсвэл ямар нэгэн ундаа уумаар байгаагаа хэлэхдээ хэрэглэнэ.",
+    "context": "A: I'm thirsty.\nB: Do you want some water?"
+  },
+  {
+    "id": 143,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "What's for breakfast?",
+    "mn": "Өглөөний цайнд юу байгаа вэ?",
+    "when": "Өглөө юу идэх гэж байгааг асуухдаа хэрэглэнэ. Гэр бүлийн хүнтэйгээ өглөөний хоолны талаар ярих үед түгээмэл.",
+    "context": "A: What's for breakfast?\nB: Eggs and toast."
+  },
+  {
+    "id": 144,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "What's for lunch?",
+    "mn": "Өдрийн хоолонд юу байгаа вэ?",
+    "when": "Өдрийн хоолонд юу идэх гэж байгааг асуухдаа хэрэглэнэ. Ажил дээрээ эсвэл гэртээ өдрийн хоолны төлөвлөгөө ярих үед ашиглана.",
+    "context": "A: What's for lunch?\nB: We're having noodles."
+  },
+  {
+    "id": 145,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "What's for dinner?",
+    "mn": "Оройн хоолонд юу байгаа вэ?",
+    "when": "Орой юу идэх гэж байгааг асуухдаа хэрэглэнэ. Гэр бүлийн өдөр тутмын ярианд маш түгээмэл.",
+    "context": "A: What's for dinner?\nB: I'm making chicken."
+  },
+  {
+    "id": 146,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "Let's eat.",
+    "mn": "Хоолоо идэцгээе.",
+    "when": "Хоол бэлэн болсон үед хамт байгаа хүмүүстээ хоол идэхийг санал болгохдоо хэрэглэнэ.",
+    "context": "A: Dinner is ready.\nB: Great. Let's eat."
+  },
+  {
+    "id": 147,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "Enjoy your meal.",
+    "mn": "Хоолоо сайхан идээрэй.",
+    "when": "Хүнд хоол өгөхдөө эсвэл хооллож эхлэхийн өмнө сайхан хооллохыг ерөөхдөө хэрэглэнэ. Ресторан, гэрийн хоолны аль алинд хэрэглэж болно.",
+    "context": "A: Here's your meal.\nB: Thank you."
+  },
+  {
+    "id": 148,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "It looks good.",
+    "mn": "Гоё харагдаж байна.",
+    "when": "Хоолыг хараад амттай, сайхан харагдаж байгааг хэлэхдээ хэрэглэнэ. Хоол идэхийн өмнө маш түгээмэл.",
+    "context": "A: I made pasta.\nB: Wow, it looks good!"
+  },
+  {
+    "id": 149,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "It smells good.",
+    "mn": "Гоё үнэртэй байна.",
+    "when": "Хоолны үнэр сайхан байгааг хэлэхдээ хэрэглэнэ. Гал тогоонд хоол хийж байх үед эсвэл ресторан ороход хэлж болно.",
+    "context": "A: Dinner is almost ready.\nB: It smells good."
+  },
+  {
+    "id": 150,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "It's delicious.",
+    "mn": "Маш амттай байна.",
+    "when": "Идэж байгаа хоол үнэхээр амттай байгааг хэлэхдээ хэрэглэнэ. Хэн нэгэн хоол хийж өгсөн бол талархал болгон хэлэхэд сайхан сонсогдоно.",
+    "context": "A: How's the soup?\nB: It's delicious!"
+  },
+  {
+    "id": 151,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "It's good.",
+    "mn": "Амттай байна.",
+    "when": "Хоолны амт сайн байгааг энгийнээр хэлэхдээ хэрэглэнэ. Хоолны талаар санал бодлоо хэлэхэд хамгийн хялбар хэллэгүүдийн нэг.",
+    "context": "A: How's the food?\nB: It's good."
+  },
+  {
+    "id": 152,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "It's too hot.",
+    "mn": "Хэт халуун байна.",
+    "when": "Хоол эсвэл ундаа уухад хэт халуун байгаа үед хэрэглэнэ. Мөн орчны халууныг хэлэхэд хэрэглэж болох ч хоолны тухай ярианд амархан ойлгогдоно.",
+    "context": "A: Be careful. The soup is hot.\nB: Yes, it's too hot."
+  },
+  {
+    "id": 153,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "It's too spicy.",
+    "mn": "Хэт халуун ногоотой байна.",
+    "when": "Хоолны халуун ногоо таны амтлах хэмжээнээс хэтэрсэн үед хэрэглэнэ. Ресторан, шинэ хоол турших үед хэрэгтэй.",
+    "context": "A: Do you like the curry?\nB: It's too spicy for me."
+  },
+  {
+    "id": 154,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "I'm full.",
+    "mn": "Би цадчихлаа.",
+    "when": "Хоол идэж дуусаад дахиж идэх шаардлагагүй болсон үед хэрэглэнэ. Хэн нэгэн дахин хоол санал болгоход эелдгээр татгалзахад тохиромжтой.",
+    "context": "A: Would you like some more?\nB: No, thank you. I'm full."
+  },
+  {
+    "id": 155,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "Can I have some water?",
+    "mn": "Жаахан ус авч болох уу?",
+    "when": "Ус хүсэхдээ эелдгээр хэрэглэнэ. Гэртээ, ресторан, зочид буудал болон бусад газарт хэрэглэж болно.",
+    "context": "A: Can I have some water?\nB: Sure. Here you go."
+  },
+  {
+    "id": 156,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "I'd like some coffee.",
+    "mn": "Би кофе авмаар байна.",
+    "when": "Кофе захиалах эсвэл кофе хүсэж байгаагаа эелдгээр хэлэхдээ хэрэглэнэ. Кафе, ресторан зэрэгт маш тохиромжтой.",
+    "context": "A: What would you like?\nB: I'd like some coffee, please."
+  },
+  {
+    "id": 157,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "Can I have the menu?",
+    "mn": "Цэс авч болох уу?",
+    "when": "Ресторан, кафе зэрэгт юу захиалахаа харахын тулд цэс хүсэхдээ хэрэглэнэ.",
+    "context": "A: Can I have the menu, please?\nB: Sure. Here you are."
+  },
+  {
+    "id": 158,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "What do you recommend?",
+    "mn": "Та юу санал болгох вэ?",
+    "when": "Ресторан эсвэл кафе дээр юу идэхээ мэдэхгүй байгаа үед ажилтнаас хамгийн сайн хоол, ундааг санал болгохыг хүсэхдээ хэрэглэнэ.",
+    "context": "A: What do you recommend?\nB: The chicken is very popular."
+  },
+  {
+    "id": 159,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "Can I get the bill, please?",
+    "mn": "Тооцоо авч болох уу?",
+    "when": "Ресторан, кафе дээр хоолоо идэж дуусаад төлбөрөө хийхийн өмнө тооцоо хүсэхдээ хэрэглэнэ.",
+    "context": "A: Can I get the bill, please?\nB: Of course. I'll bring it right away."
+  },
+  {
+    "id": 160,
+    "chapter": 2,
+    "category": "Хоол",
+    "en": "Can I have this to go?",
+    "mn": "Үүнийг авч явахаар савлуулж болох уу?",
+    "when": "Ресторанд хоол үлдсэн эсвэл захиалсан хоолоо газар дээр нь идэхгүй, авч явах хүсэлтэй үед хэрэглэнэ.",
+    "context": "A: Can I have this to go?\nB: Sure. I'll pack it for you."
+  },
+  {
+    "id": 161,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "I'm just looking.",
+    "mn": "Зүгээр үзэж байна.",
+    "when": "Дэлгүүрийн ажилтан танд туслах эсэхийг асуухад одоохондоо худалдан авах зүйлээ хайж, үзэж байгаа гэдгээ хэлэхдээ хэрэглэнэ.",
+    "context": "A: Can I help you?\nB: No, thanks. I'm just looking."
+  },
+  {
+    "id": 162,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "How much is this?",
+    "mn": "Энэ хэд вэ?",
+    "when": "Барааны үнийг асуухдаа хэрэглэнэ. Дэлгүүр, зах, худалдааны төвд хамгийн хэрэгтэй асуултуудын нэг.",
+    "context": "A: How much is this?\nB: It's ten dollars."
+  },
+  {
+    "id": 163,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "How much does it cost?",
+    "mn": "Энэ ямар үнэтэй вэ?",
+    "when": "Ямар нэгэн бараа, үйлчилгээний үнийг асуухдаа хэрэглэнэ. \"How much is this?\"-тэй ижил төстэй утгатай.",
+    "context": "A: How much does it cost?\nB: It costs twenty dollars."
+  },
+  {
+    "id": 164,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Do you have this in another color?",
+    "mn": "Энэ өөр өнгөтэй байгаа юу?",
+    "when": "Таалагдсан бараа байгаа боловч өөр өнгөөр авахыг хүсэж байгаа үед дэлгүүрийн ажилтнаас асууна.",
+    "context": "A: Do you have this in another color?\nB: Yes, we have it in black."
+  },
+  {
+    "id": 165,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Do you have a larger size?",
+    "mn": "Илүү том размер байгаа юу?",
+    "when": "Хувцас, гутал зэрэг барааны одоо байгаа хэмжээ жижиг байвал илүү том хэмжээ байгаа эсэхийг асуухдаа хэрэглэнэ.",
+    "context": "A: Do you have a larger size?\nB: Let me check."
+  },
+  {
+    "id": 166,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Do you have a smaller size?",
+    "mn": "Жижиг размер байгаа юу?",
+    "when": "Хувцас, гутал зэрэг барааны одоо байгаа хэмжээ том байвал жижиг хэмжээ байгаа эсэхийг асуухдаа хэрэглэнэ.",
+    "context": "A: Do you have a smaller size?\nB: Yes, here you are."
+  },
+  {
+    "id": 167,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Can I try this on?",
+    "mn": "Үүнийг өмсөж үзэж болох уу?",
+    "when": "Хувцас, гутал зэрэг барааг худалдан авахаасаа өмнө өмсөж үзэх зөвшөөрөл хүсэхдээ хэрэглэнэ.",
+    "context": "A: Can I try this on?\nB: Sure. The fitting room is over there."
+  },
+  {
+    "id": 168,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Where is the fitting room?",
+    "mn": "Хувцас өмсөж үзэх өрөө хаана байна?",
+    "when": "Хувцас өмсөж үзэх өрөөний байршлыг дэлгүүрийн ажилтнаас асуухдаа хэрэглэнэ.",
+    "context": "A: Where is the fitting room?\nB: It's over there, on the left."
+  },
+  {
+    "id": 169,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "I'll take it.",
+    "mn": "Үүнийг авъя.",
+    "when": "Барааг сонгож, худалдан авахаар шийдсэн үед дэлгүүрийн ажилтанд хэлнэ. Өөрөөр хэлбэл сонголтоо эцэслэж байгаагаа илэрхийлнэ.",
+    "context": "A: Do you like this one?\nB: Yes, I'll take it."
+  },
+  {
+    "id": 170,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Do you accept credit cards?",
+    "mn": "Та кредит карт хүлээж авдаг уу?",
+    "when": "Төлбөр хийхээс өмнө тухайн дэлгүүр картын төлбөр хүлээж авдаг эсэхийг асуухдаа хэрэглэнэ.",
+    "context": "A: Do you accept credit cards?\nB: Yes, we do."
+  },
+  {
+    "id": 171,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Can I pay by card?",
+    "mn": "Картаар төлж болох уу?",
+    "when": "Худалдан авалтынхаа төлбөрийг картаар хийх боломжтой эсэхийг асуухдаа хэрэглэнэ. Касс дээр маш түгээмэл.",
+    "context": "A: Can I pay by card?\nB: Yes, you can."
+  },
+  {
+    "id": 172,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Can I pay in cash?",
+    "mn": "Бэлэн мөнгөөр төлж болох уу?",
+    "when": "Төлбөрөө бэлэн мөнгөөр хийх боломжтой эсэхийг асуухдаа хэрэглэнэ. Картгүй үед ялангуяа хэрэгтэй.",
+    "context": "A: Can I pay in cash?\nB: Yes, that's fine."
+  },
+  {
+    "id": 173,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Do you have change?",
+    "mn": "Хариулт мөнгө байна уу?",
+    "when": "Бэлэн мөнгөөр төлөхдөө өгсөн мөнгөн дүнгээс буцааж мөнгө авах шаардлагатай үед дэлгүүрт асууж болно.",
+    "context": "A: I only have a fifty-dollar bill.\nB: That's okay. We have change."
+  },
+  {
+    "id": 174,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Can I get a receipt?",
+    "mn": "Баримт авч болох уу?",
+    "when": "Худалдан авалтынхаа төлбөрийн баримтыг авахыг хүсэхдээ хэрэглэнэ. Дэлгүүр, үйлчилгээний газар, эмийн сан зэрэгт ашиглана.",
+    "context": "A: Can I get a receipt?\nB: Sure."
+  },
+  {
+    "id": 175,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Is this on sale?",
+    "mn": "Энэ хямдарсан байгаа юу?",
+    "when": "Бараа хямдралтай байгаа эсэхийг асуухдаа хэрэглэнэ. Худалдан авахаасаа өмнө үнийг шалгахад хэрэгтэй.",
+    "context": "A: Is this on sale?\nB: Yes, it's 20% off."
+  },
+  {
+    "id": 176,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Do you have anything cheaper?",
+    "mn": "Үүнээс хямд зүйл байгаа юу?",
+    "when": "Тухайн барааны үнэ таны төсвөөс өндөр байвал ижил төстэй боловч хямд хувилбар байгаа эсэхийг асуухдаа хэрэглэнэ.",
+    "context": "A: This one is $100.\nB: Do you have anything cheaper?"
+  },
+  {
+    "id": 177,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "Where can I find this?",
+    "mn": "Үүнийг хаанаас олж болох вэ?",
+    "when": "Дэлгүүрт тодорхой бараа аль хэсэгт байгааг мэдэхгүй үед ажилтнаас асууна.",
+    "context": "A: Where can I find batteries?\nB: They're in aisle five."
+  },
+  {
+    "id": 178,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "I'm looking for this.",
+    "mn": "Би үүнийг хайж байгаа юм.",
+    "when": "Дэлгүүрийн ажилтанд хайж байгаа бараагаа хэлэхдээ хэрэглэнэ. Зураг, нэр эсвэл барааны мэдээллийг үзүүлээд хэлж болно.",
+    "context": "A: Can I help you?\nB: Yes, I'm looking for this."
+  },
+  {
+    "id": 179,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "That's too expensive.",
+    "mn": "Энэ хэтэрхий үнэтэй байна.",
+    "when": "Барааны үнэ таны хувьд хэт өндөр санагдсан үед хэрэглэнэ. Худалдан авахгүй гэдгээ зөөлөн илэрхийлэхэд ашиглаж болно.",
+    "context": "A: It's $300.\nB: That's too expensive for me."
+  },
+  {
+    "id": 180,
+    "chapter": 2,
+    "category": "Дэлгүүр",
+    "en": "I'll think about it.",
+    "mn": "Би бодож үзье.",
+    "when": "Шууд худалдан авах шийдвэр гаргаагүй, эхлээд бодож үзэхийг хүсэж байгаа үед хэрэглэнэ. Дэлгүүрийн ажилтанд эелдгээр татгалзахад тохиромжтой.",
+    "context": "A: Would you like to buy it?\nB: I'll think about it."
+  },
+  {
+    "id": 181,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm going out.",
+    "mn": "Би гадагшаа гарч байна.",
+    "when": "Гэрээсээ эсвэл байгаа газраасаа түр гарах гэж байгаагаа хэлэхдээ хэрэглэнэ. Яг хаашаа явахаа хэлэх шаардлагагүй үед тохиромжтой.",
+    "context": "A: Where are you going?\nB: I'm going out for a while."
+  },
+  {
+    "id": 182,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'll be back soon.",
+    "mn": "Би удахгүй буцаж ирнэ.",
+    "when": "Түр хугацаанд яваад удахгүй буцаж ирэхээ хэлэхдээ хэрэглэнэ. Гэрээс гарахдаа гэрийнхэндээ хэлэхэд түгээмэл.",
+    "context": "A: Where are you going?\nB: To the store. I'll be back soon."
+  },
+  {
+    "id": 183,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm going to the store.",
+    "mn": "Би дэлгүүр явж байна.",
+    "when": "Дэлгүүрт юм авахаар явж байгаагаа хэлэхдээ хэрэглэнэ. Гэрээс гарах эсвэл хаашаа явж байгааг асуусан үед ашиглана.",
+    "context": "A: Where are you going?\nB: I'm going to the store."
+  },
+  {
+    "id": 184,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm on my way.",
+    "mn": "Би замдаа явж байна.",
+    "when": "Товлосон газар руугаа аль хэдийн хөдөлсөн, замдаа явж байгаагаа хэлэхдээ хэрэглэнэ. Хэн нэгэн \"хаана явна?\" эсвэл \"хэзээ ирэх вэ?\" гэж асуухад тохиромжтой.",
+    "context": "A: Where are you?\nB: I'm on my way."
+  },
+  {
+    "id": 185,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm almost there.",
+    "mn": "Би бараг оччихлоо.",
+    "when": "Товлосон газар руугаа маш ойртсон, удахгүй очих гэж байгаагаа хэлэхдээ хэрэглэнэ.",
+    "context": "A: Are you close?\nB: Yes, I'm almost there."
+  },
+  {
+    "id": 186,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm on the train.",
+    "mn": "Би галт тэргэнд явж байна.",
+    "when": "Галт тэргээр зорчиж яваагаа хэлэхдээ хэрэглэнэ. Уулзахаар явж байгаа үед байршлаа тайлбарлахад тохиромжтой.",
+    "context": "A: Where are you now?\nB: I'm on the train."
+  },
+  {
+    "id": 187,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm driving.",
+    "mn": "Би машин барьж явна.",
+    "when": "Одоо машин жолоодож яваагаа хэлэхдээ хэрэглэнэ. Утасны дуудлагад хариулах боломжгүй гэдгээ тайлбарлахад ч ашиглаж болно.",
+    "context": "A: Can you talk now?\nB: Not really. I'm driving."
+  },
+  {
+    "id": 188,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm working.",
+    "mn": "Би ажиллаж байна.",
+    "when": "Одоогоор ажил хийж байгаагаа хэлэхдээ хэрэглэнэ. Хэн нэгэн таныг яагаад завгүй байгааг асуухад хариулахад тохиромжтой.",
+    "context": "A: Can you talk?\nB: Not now. I'm working."
+  },
+  {
+    "id": 189,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm studying.",
+    "mn": "Би хичээл хийж байна.",
+    "when": "Одоогоор хичээл, сургуультай холбоотой зүйл хийж байгаагаа хэлэхдээ хэрэглэнэ. Шалгалтад бэлдэх, ном сурах зэрэгт хэрэглэж болно.",
+    "context": "A: Do you want to watch TV?\nB: Not now. I'm studying."
+  },
+  {
+    "id": 190,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm taking a break.",
+    "mn": "Би түр амарч байна.",
+    "when": "Ажил, хичээл зэрэг хийж байсан зүйлээсээ түр завсарлаж байгаагаа хэлэхдээ хэрэглэнэ.",
+    "context": "A: Are you working now?\nB: I'm taking a break."
+  },
+  {
+    "id": 191,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm watching TV.",
+    "mn": "Би зурагт үзэж байна.",
+    "when": "Одоогоор телевиз үзэж байгаагаа хэлэхдээ хэрэглэнэ. Хэн нэгэн юу хийж байгааг асуухад энгийнээр хариулж болно.",
+    "context": "A: What are you doing?\nB: I'm watching TV."
+  },
+  {
+    "id": 192,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm listening to music.",
+    "mn": "Би хөгжим сонсож байна.",
+    "when": "Одоогоор хөгжим сонсож байгаагаа хэлэхдээ хэрэглэнэ. Чөлөөт цагаар юу хийж байгаагаа ярих үед тохиромжтой.",
+    "context": "A: What are you doing?\nB: I'm listening to music."
+  },
+  {
+    "id": 193,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm reading a book.",
+    "mn": "Би ном уншиж байна.",
+    "when": "Одоогоор ном уншиж байгаагаа хэлэхдээ хэрэглэнэ. Хэн нэгэн юу хийж байгааг асуухад хариулж болно.",
+    "context": "A: What are you doing?\nB: I'm reading a book."
+  },
+  {
+    "id": 194,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm using my phone.",
+    "mn": "Би утсаа ашиглаж байна.",
+    "when": "Одоогоор утсаараа ямар нэгэн зүйл хийж байгаагаа ерөнхийд нь хэлэхдээ хэрэглэнэ. Мессеж бичих, интернет ашиглах гэх мэт олон үйлдлийг хамруулж болно.",
+    "context": "A: What are you doing?\nB: I'm using my phone."
+  },
+  {
+    "id": 195,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'm checking my email.",
+    "mn": "Би имэйлээ шалгаж байна.",
+    "when": "Имэйлээ унших, шинэ мессеж ирсэн эсэхийг шалгах үед хэрэглэнэ. Ялангуяа ажил хэрэгч орчинд түгээмэл.",
+    "context": "A: Can I talk to you?\nB: In a minute. I'm checking my email."
+  },
+  {
+    "id": 196,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "I'll call you later.",
+    "mn": "Би чам руу дараа залгана.",
+    "when": "Одоо ярих боломжгүй боловч дараа нь өөрөө утасдахаа хэлэхдээ хэрэглэнэ. Завгүй үед яриаг эелдгээр дуусгахад хэрэгтэй.",
+    "context": "A: Can you talk now?\nB: I'm busy. I'll call you later."
+  },
+  {
+    "id": 197,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "See you later.",
+    "mn": "Дараа уулзъя.",
+    "when": "Ойрын хугацаанд дахин уулзах хүнтэйгээ салж явахдаа хэрэглэнэ. Найз, хамт ажилладаг хүнтэй өдөр тутам хэлэхэд тохиромжтой.",
+    "context": "A: I have to go now.\nB: Okay. See you later."
+  },
+  {
+    "id": 198,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "See you tomorrow.",
+    "mn": "Маргааш уулзъя.",
+    "when": "Өнөөдөр салж яваад маргааш дахин уулзах хүнтэйгээ хэлнэ. Ажил, сургууль болон гэр бүлийн өдөр тутмын харилцаанд хэрэглэж болно.",
+    "context": "A: Have a good evening.\nB: Thanks. See you tomorrow."
+  },
+  {
+    "id": 199,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "Take care.",
+    "mn": "Өөрийгөө бодоорой. / Сайн яваарай.",
+    "when": "Хүнтэй салахдаа нөгөө хүнийг өөртөө анхаарч, сайн явахыг хүсэхдээ хэрэглэнэ. Найз, танил болон хамт ажилладаг хүнд хэлж болно.",
+    "context": "A: I'm leaving now.\nB: Okay. Take care!"
+  },
+  {
+    "id": 200,
+    "chapter": 2,
+    "category": "Өдөр тутмын үйлдэл",
+    "en": "See you soon.",
+    "mn": "Удахгүй уулзъя.",
+    "when": "Ойрын хугацаанд дахин уулзах төлөвтэй байгаа хүнтэйгээ салахдаа хэрэглэнэ. \"See you later\"-тэй төстэй боловч дахин уулзах нь удахгүй гэдгийг илүү мэдрүүлдэг.",
+    "context": "A: Thanks for today.\nB: You're welcome. See you soon."
+  }
+]
